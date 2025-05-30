@@ -1,0 +1,3287 @@
+Persons Index
+==================================================
+
+Key: rati_surameli
+Primary Name: rati_surameli
+Inscriptions: 1
+First Occurrence: ECG117
+
+Occurrences:
+  - ECG117: რატი (ვარძიის ღვთისმშობლის მიძინების ტაძარი, 1184-1186 AD)
+
+----------------------------------------
+
+Key: აბაზ
+Primary Name: აბაზ
+Inscriptions: 1
+First Occurrence: ECG046
+
+Occurrences:
+  - ECG046: ა ბაზ (, V-VI AD)
+
+----------------------------------------
+
+Key: აბაზა
+Primary Name: აბაზა
+Inscriptions: 1
+First Occurrence: ECG186
+
+Occurrences:
+  - ECG186: აბაზამა ნ (, )
+
+----------------------------------------
+
+Key: აბაკუმ (Ամբակում)
+Primary Name: აბაკუმ (Ամբակում)
+Inscriptions: 1
+First Occurrence: ECG156
+
+Occurrences:
+  - ECG156: Ամ բակում (ატენის სიონი, 982-986 AD)
+
+----------------------------------------
+
+Key: აბელაჲ
+Primary Name: აბელაჲ
+Inscriptions: 1
+First Occurrence: ECG150
+
+Occurrences:
+  - ECG150: აბ ე ლაჲ (, XI AD)
+
+----------------------------------------
+
+Key: აბიათარ [ურბნისელი დეკანოზი]
+Primary Name: აბიათარ [ურბნისელი დეკანოზი]
+Inscriptions: 1
+First Occurrence: ECG037
+
+Occurrences:
+  - ECG037: აბ ია თ ა რ (, X AD)
+
+----------------------------------------
+
+Key: აბიათარ [ურბნისის წარწერის ამომკვეთი]
+Primary Name: აბიათარ [ურბნისის წარწერის ამომკვეთი]
+Inscriptions: 1
+First Occurrence: ECG035
+
+Occurrences:
+  - ECG035: აბ ია თ ა რ (, X AD)
+
+----------------------------------------
+
+Key: აბულ მამფალი
+Primary Name: აბულ მამფალი
+Inscriptions: 1
+First Occurrence: ECG068
+
+Occurrences:
+  - ECG068: აბ უ ლ მ ამ ფა ლი (, IX AD)
+
+----------------------------------------
+
+Key: ადარნასე [საკირის მაშენებელი]
+Primary Name: ადარნასე [საკირის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG230
+
+Occurrences:
+  - ECG230: ა დ ა რ ნა სე (, XI AD)
+
+----------------------------------------
+
+Key: ადარნასე ჳპატოსი
+Primary Name: ადარნასე ჳპატოსი
+Name Variants: ადრ ნე რსეს ჳპატ ოსსა
+Inscriptions: 1
+First Occurrence: ECG028
+
+Occurrences:
+  - ECG028: ა დ რ ნ ე რ ს ეს (, 595-605 AD)
+  - ECG028: ადრ ნე რსეს ჳპატ ოსსა (, 595-605 AD)
+
+----------------------------------------
+
+Key: ადრიანოსი (Ἁδριανός)
+Primary Name: ადრიანოსი (Ἁδριανός)
+Inscriptions: 1
+First Occurrence: ECG021
+
+Occurrences:
+  - ECG021: Ἁδριαν ο ῦ (, II ს-ის პირველი ნახევარი the first half of II)
+
+----------------------------------------
+
+Key: ავაგ მხარგრძელი
+Primary Name: ავაგ მხარგრძელი
+Inscriptions: 1
+External URL: http://www.nplg.gov.ge/wikidict/index.php/ავაგ_მხარგრძელი
+First Occurrence: ECG1082
+
+Occurrences:
+  - ECG1082: Աւագին (, 1216)
+
+----------------------------------------
+
+Key: ავლიანოსი (Ἀουλιανός)
+Primary Name: ავლიანოსი (Ἀουλιανός)
+Inscriptions: 1
+First Occurrence: ECG018
+
+Occurrences:
+  - ECG018: Ἀουλιανοῦ (, VI-VII AD)
+
+----------------------------------------
+
+Key: ავრელი აქოლისი, მხატვართუხუცესი და ხუროთმოძღვარი (Αὐρήλις Ἀχόλις ἀρχιζωγράφος)
+Primary Name: ავრელი აქოლისი, მხატვართუხუცესი და ხუროთმოძღვარი (Αὐρήλις Ἀχόλις ἀρχιζωγράφος)
+Inscriptions: 1
+First Occurrence: ECG009
+
+Occurrences:
+  - ECG009: Αὐρ ήλις Ἀχόλις (, IV/IV-V AD)
+
+----------------------------------------
+
+Key: აზარუხტ [ბოლნისის სიონის კარის ხელოსანი]
+Primary Name: აზარუხტ [ბოლნისის სიონის კარის ხელოსანი]
+Inscriptions: 1
+First Occurrence: ECG054
+
+Occurrences:
+  - ECG054: აზარუხტ (, 494 AD)
+
+----------------------------------------
+
+Key: ათანასე
+Primary Name: ათანასე
+Inscriptions: 1
+First Occurrence: ECG064
+
+Occurrences:
+  - ECG064: ათ ანას ე (, V-VI AD)
+
+----------------------------------------
+
+Key: აილიოს იასონი (Αἴλιος Ἰάσων)
+Primary Name: აილიოს იასონი (Αἴλιος Ἰάσων)
+Inscriptions: 1
+First Occurrence: ECG014
+
+Occurrences:
+  - ECG014: Αἴλιος Ἰάσων (, I AD)
+
+----------------------------------------
+
+Key: ამაზასპე, იბერთა მეფე (βασιλεύς Ἰβήρων Ἀμαζάσπ)
+Primary Name: ამაზასპე, იბერთა მეფე (βασιλεύς Ἰβήρων Ἀμαζάσπ)
+Inscriptions: 1
+First Occurrence: ECG006
+
+Occurrences:
+  - ECG006: βασιλέως Ἰβήρων μεγάλου Ἀμαζάσ που (, II-III AD)
+
+----------------------------------------
+
+Key: ამბა ფარანუსესი (ἀββᾶ Φαρανούσης)
+Primary Name: ამბა ფარანუსესი (ἀββᾶ Φαρανούσης)
+Inscriptions: 1
+First Occurrence: ECG002
+
+Occurrences:
+  - ECG002: Φαρανούσης (, IV-V AD)
+
+----------------------------------------
+
+Key: ამირა რავმალა [ყარსის ციხის მაშენებელი]
+Primary Name: ამირა რავმალა [ყარსის ციხის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG382
+
+Occurrences:
+  - ECG382: რავ მალამ (ყარსის ციხე, თურქეთი, 1238 AD)
+
+----------------------------------------
+
+Key: ანაგრანესი (Ἀναγράνης)
+Primary Name: ანაგრანესი (Ἀναγράνης)
+Name Variants: Ἀναγρά νη ς
+Inscriptions: 2
+First Occurrence: ECG005
+
+Occurrences:
+  - ECG005: Ἀναγ ράνης (, II-III AD)
+  - ECG006: Ἀναγρά νη ς (, II-III AD)
+
+----------------------------------------
+
+Key: ანტინოოსი (Ἀντίνοος)
+Primary Name: ანტინოოსი (Ἀντίνοος)
+Inscriptions: 1
+First Occurrence: ECG021
+
+Occurrences:
+  - ECG021: Ἀντίνοον (, II ს-ის პირველი ნახევარი the first half of II)
+
+----------------------------------------
+
+Key: ანტონ [ბიძა მამათმთავარ თევდოს კალონპეტისძისა]
+Primary Name: ანტონ [ბიძა მამათმთავარ თევდოს კალონპეტისძისა]
+Inscriptions: 1
+First Occurrence: ECG255
+
+Occurrences:
+  - ECG255: ა ნტ ო ნს (, XIII AD)
+
+----------------------------------------
+
+Key: ანტონ აბაჲ
+Primary Name: ანტონ აბაჲ
+Inscriptions: 1
+First Occurrence: ECG051
+
+Occurrences:
+  - ECG051: ანტონი (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, 532-552 AD)
+
+----------------------------------------
+
+Key: ანტონ ჟუანისძე [ბედიის მიტროპოლიტი]
+Primary Name: ანტონ ჟუანისძე [ბედიის მიტროპოლიტი]
+Inscriptions: 1
+First Occurrence: ECG447
+
+Occurrences:
+  - ECG447: ანტონი (, 1532-1571)
+
+----------------------------------------
+
+Key: ანტონ ჭყონდიდელი [ვანის ქვაბების მაშენებელი]
+Primary Name: ანტონ ჭყონდიდელი [ვანის ქვაბების მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG089
+
+Occurrences:
+  - ECG089: ანტ ო ნ ჭ ყონდიდელი სა (, 1204 AD)
+
+----------------------------------------
+
+Key: არსანსი (Ἄρσανς)
+Primary Name: არსანსი (Ἄρσανς)
+Inscriptions: 1
+First Occurrence: ECG330
+
+Occurrences:
+  - ECG330: Ἄρσανς (ვანი, IV-III BC)
+
+----------------------------------------
+
+Key: არჩილ მუხრანბატონი [ბაგრატ I მუხრანბატონის ძე]
+Primary Name: არჩილ მუხრანბატონი [ბაგრატ I მუხრანბატონის ძე]
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Archil,_Prince_of_Mukhrani
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: არჩილ (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: ასვათ
+Primary Name: ასვათ
+Inscriptions: 1
+First Occurrence: ECG116
+
+Occurrences:
+  - ECG116: ასვ ა თ (ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი, X-XI AD)
+
+----------------------------------------
+
+Key: ატენის სარქალი
+Primary Name: ატენის სარქალი
+Inscriptions: 1
+First Occurrence: ECG016
+
+Occurrences:
+  - ECG016: ატ ე ნი ს ს არ ქ ა ლი (, 945)
+
+----------------------------------------
+
+Key: აფრიდონ [დმანისის კათედრალური ტაძრის შემწირველი]
+Primary Name: აფრიდონ [დმანისის კათედრალური ტაძრის შემწირველი]
+Inscriptions: 1
+First Occurrence: ECG256
+
+Occurrences:
+  - ECG256: აფრ იდო ნ (, XIII AD)
+
+----------------------------------------
+
+Key: აშოთან I მუხრანბატონი [ბაგრატ I მუხრანბატონის ძე, ქეთევან წამებულის მამა]
+Primary Name: აშოთან I მუხრანბატონი [ბაგრატ I მუხრანბატონის ძე, ქეთევან წამებულის მამა]
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Ashotan_I,_Prince_of_Mukhrani
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: აშოთ ან ს (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: აშოტ I კურაპალატი
+Primary Name: აშოტ I კურაპალატი
+Name Variants: აშოტ კურაპლატი
+Inscriptions: 2
+First Occurrence: ECG1103
+
+Occurrences:
+  - ECG1103: აშოტ კურაპლატი (, 950)
+  - ECG1104: აშოტ (, 923-937)
+
+----------------------------------------
+
+Key: ბაგრატ I მუხრანბატონი [კონსტანტინე II-ის ძე]
+Primary Name: ბაგრატ I მუხრანბატონი [კონსტანტინე II-ის ძე]
+Name Variants: მ ე ფ ე ს ბ ა გრ ა ტს
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Bagrat_I,_Prince_of_Mukhrani
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: ბ ა გრ ა ტის (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+  - ECG099: მ ე ფ ე ს ბ ა გრ ა ტს (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: ბაგრატ III
+Primary Name: ბაგრატ III
+Name Variants: ბ ა გრ ა ტ, ბაგრატ
+Inscriptions: 3
+First Occurrence: ECG1063
+
+Occurrences:
+  - ECG1063: ბაგრატ (ხცისი, )
+  - ECG152: բագրատ ափխազա ց թագաւորն (ატენის სიონი, 982-986 AD)
+  - ECG902: ბ ა გრ ა ტ (, 1002)
+
+----------------------------------------
+
+Key: ბაგრატ IV
+Primary Name: ბაგრატ IV
+Name Variants: ბაგრატ მეფე
+Inscriptions: 2
+External URL: http://www.nplg.gov.ge/wikidict/index.php/ბაგრატ_IV_(საქართველოს_მეფე)
+First Occurrence: ECG145
+
+Occurrences:
+  - ECG145: ბაგრატ მეფე (, )
+  - ECG221: ბ ა გ რა ტ მ ე ფ ი სა (, 1032 AD)
+
+----------------------------------------
+
+Key: ბაკურ
+Primary Name: ბაკურ
+Inscriptions: 1
+First Occurrence: ECG202
+
+Occurrences:
+  - ECG202: ბ ა კ უ რ (, IX-X სს.)
+
+----------------------------------------
+
+Key: ბაკურ [დიდი, იბერიელი]
+Primary Name: ბაკურ [დიდი, იბერიელი]
+Inscriptions: 1
+First Occurrence: ECG050
+
+Occurrences:
+  - ECG050: ბა კურ (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, V AD)
+
+----------------------------------------
+
+Key: ბარდა სკლიაროსი
+Primary Name: ბარდა სკლიაროსი
+Name Variants: სკლია როსი
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Bardas_Skleros
+First Occurrence: ECG080
+
+Occurrences:
+  - ECG080: სკ ლიაროსი (, 980 AD)
+  - ECG080: სკლია როსი (, 980 AD)
+
+----------------------------------------
+
+Key: ბარნაბაჲ
+Primary Name: ბარნაბაჲ
+Inscriptions: 1
+First Occurrence: ECG038
+
+Occurrences:
+  - ECG038: ბარ ნაბაჲსი (, V-VI AD)
+
+----------------------------------------
+
+Key: ბარსეღ (Բարսեղ)
+Primary Name: ბარსეღ (Բարսեղ)
+Inscriptions: 1
+First Occurrence: ECG167
+
+Occurrences:
+  - ECG167: Բարսեղ (ჰაღბატი, 1181)
+
+----------------------------------------
+
+Key: ბარსეღ მონაზონი [აირავანქის წინამძღვარი] (Բարսղի)
+Primary Name: ბარსეღ მონაზონი [აირავანქის წინამძღვარი] (Բարսղի)
+Inscriptions: 1
+First Occurrence: ECG1082
+
+Occurrences:
+  - ECG1082: Բարսղի (, 1216)
+
+----------------------------------------
+
+Key: ბარსეღ სმბატის ძე (Բարսեղ)
+Primary Name: ბარსეღ სმბატის ძე (Բարսեղ)
+Inscriptions: 1
+First Occurrence: ECG173
+
+Occurrences:
+  - ECG173: Բարսղի (, 1220)
+
+----------------------------------------
+
+Key: ბასილი
+Primary Name: ბასილი
+Inscriptions: 1
+First Occurrence: ECG509
+
+Occurrences:
+  - ECG509: ბ ა ს ი ლ ი (, XI ს.)
+
+----------------------------------------
+
+Key: ბატონი ჰოჰანეს (Յոհանէս)
+Primary Name: ბატონი ჰოჰანეს (Յոհանէս)
+Inscriptions: 1
+First Occurrence: ECG171
+
+Occurrences:
+  - ECG171: Յ ոհանէս (, 1212)
+
+----------------------------------------
+
+Key: ბერი გიორგი [შანშე (შაჰანშა) I მხარგრძელის ძე]
+Primary Name: ბერი გიორგი [შანშე (შაჰანშა) I მხარგრძელის ძე]
+Inscriptions: 2
+First Occurrence: ECG349
+
+Occurrences:
+  - ECG349: გ იორგ ი (, 1292 AD)
+  - ECG350: გ იორგ ი (ქობაირის მონასტერი, სომხეთი, 1292 AD)
+
+----------------------------------------
+
+Key: ბერი პიმენი [ივანე II მხარგრძელის ძე]
+Primary Name: ბერი პიმენი [ივანე II მხარგრძელის ძე]
+Inscriptions: 1
+First Occurrence: ECG339
+
+Occurrences:
+  - ECG339: ბერისა პიმე ნჲსი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: ბერსუმა პიტიახში (Βερσουμα πιτιάζης)
+Primary Name: ბერსუმა პიტიახში (Βερσουμα πιτιάζης)
+Inscriptions: 1
+First Occurrence: ECG015
+
+Occurrences:
+  - ECG015: Βερσουμᾷ πιτιάξῃ (არმაზისხევი, II-III AD)
+
+----------------------------------------
+
+Key: ბერძენ
+Primary Name: ბერძენ
+Inscriptions: 1
+First Occurrence: ECG116
+
+Occurrences:
+  - ECG116: ბ ე რძ ე ნი (ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი, X-XI AD)
+
+----------------------------------------
+
+Key: ბეღელა
+Primary Name: ბეღელა
+Inscriptions: 1
+First Occurrence: ECG249
+
+Occurrences:
+  - ECG249: ბ ე ღ ე ლ ა ს (, XII-XIII AD)
+
+----------------------------------------
+
+Key: ბეშანგ
+Primary Name: ბეშანგ
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: ბ ეშა ნგ ი სსა (, XIII AD)
+
+----------------------------------------
+
+Key: ბეშქენ თუხარისის ერისთავი [ძმა მურვან ერისთავისა]
+Primary Name: ბეშქენ თუხარისის ერისთავი [ძმა მურვან ერისთავისა]
+Inscriptions: 1
+First Occurrence: ECG084
+
+Occurrences:
+  - ECG084: ე რისთავთ ე რისთავ თა ბეშქენ (, XI AD)
+
+----------------------------------------
+
+Key: ბიანდორ
+Primary Name: ბიანდორ
+Inscriptions: 1
+First Occurrence: ECG380
+
+Occurrences:
+  - ECG380: ბიან დორ (სოფ. ჰოწატლი, ხუნზახის რაიონი, დაღესტანი, )
+
+----------------------------------------
+
+Key: ბორის ასტინომოსი (Βορυς ἀστυνόμος)
+Primary Name: ბორის ასტინომოსი (Βορυς ἀστυνόμος)
+Inscriptions: 1
+First Occurrence: ECG320
+
+Occurrences:
+  - ECG320: Βορυος (, IV BC)
+
+----------------------------------------
+
+Key: ბურზენ
+Primary Name: ბურზენ
+Inscriptions: 1
+First Occurrence: ECG049
+
+Occurrences:
+  - ECG049: ბო ჳ რზ ე ნ (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, V AD)
+
+----------------------------------------
+
+Key: გაბრიელ
+Primary Name: გაბრიელ
+Inscriptions: 1
+First Occurrence: ECG116
+
+Occurrences:
+  - ECG116: გ ა ბრ იე ლ (ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი, X-XI AD)
+
+----------------------------------------
+
+Key: გაბრიელ კუმურდოელი ეპისკოპოსი
+Primary Name: გაბრიელ კუმურდოელი ეპისკოპოსი
+Name Variants: გ ა ბრ იე ლ კ უმურდოელი ს ა ჲ
+Inscriptions: 1
+First Occurrence: ECG148
+
+Occurrences:
+  - ECG148: გ ა ბრ იე ლ კ უმურდოელ სა ე ბისკოპოს სა (, )
+  - ECG148: გ ა ბრ იე ლ კ უმურდოელი ს ა ჲ (, )
+
+----------------------------------------
+
+Key: გიორგი
+Primary Name: გიორგი
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: გი ორ გისსა (, XIII AD)
+
+----------------------------------------
+
+Key: გიორგი I
+Primary Name: გიორგი I
+Inscriptions: 1
+First Occurrence: ECG902
+
+Occurrences:
+  - ECG902: გ იორგ ი (, 1002)
+
+----------------------------------------
+
+Key: გიორგი III
+Primary Name: გიორგი III
+Name Variants: թագաւորին Գեորգեայ
+Inscriptions: 2
+External URL: https://en.wikipedia.org/wiki/George_III_of_Georgia
+First Occurrence: ECG167
+
+Occurrences:
+  - ECG167: թագաւորին Գեորգեայ (ჰაღბატი, 1181)
+  - ECG171: թագ աւորաց թագաւորքն Գեորգի (, 1212)
+
+----------------------------------------
+
+Key: გიორგი V ბრწყინვალე
+Primary Name: გიორგი V ბრწყინვალე
+Name Variants: გ იორ გ ისა სა
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/George_V_of_Georgia
+First Occurrence: ECG530
+
+Occurrences:
+  - ECG530: გ იორ გ ი სა (, 1333)
+  - ECG530: გ იორ გ ისა სა (, 1333)
+
+----------------------------------------
+
+Key: გიორგი ეპისკოპოსი
+Primary Name: გიორგი ეპისკოპოსი
+Inscriptions: 1
+First Occurrence: ECG231
+
+Occurrences:
+  - ECG231: გ იორგ ი (, XI AD)
+
+----------------------------------------
+
+Key: გიორგი ფარეზასძე [ხუროთმოძღვარი საფარის წმ. საბის ტაძრისა]
+Primary Name: გიორგი ფარეზასძე [ხუროთმოძღვარი საფარის წმ. საბის ტაძრისა]
+Inscriptions: 1
+First Occurrence: ECG090
+
+Occurrences:
+  - ECG090: ფარეზას ძისათა (, XIII AD)
+
+----------------------------------------
+
+Key: გიორგი ხუდადისძე
+Primary Name: გიორგი ხუდადისძე
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: გ იორგ ის (, XIII AD)
+
+----------------------------------------
+
+Key: გოლიათ
+Primary Name: გოლიათ
+Name Variants: გ ო ლ ია თსა
+Inscriptions: 2
+First Occurrence: ECG141
+
+Occurrences:
+  - ECG141: გ ო ლ ია თსა (, )
+  - ECG142: გ ო ლ ია თ ი სა (, )
+
+----------------------------------------
+
+Key: გრიგოლ [მაკარის ძე]
+Primary Name: გრიგოლ [მაკარის ძე]
+Inscriptions: 1
+First Occurrence: ECG348
+
+Occurrences:
+  - ECG348: გ რი გ ო ლისი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: გრიგოლ კუმურდოელი ეპისკოპოსი
+Primary Name: გრიგოლ კუმურდოელი ეპისკოპოსი
+Name Variants: გ რიგო ლ
+Inscriptions: 2
+First Occurrence: ECG141
+
+Occurrences:
+  - ECG141: გ რი გ ო ლ (, )
+  - ECG143: გ რიგო ლ (, )
+
+----------------------------------------
+
+Key: გრიგოლ მაწყვერელი ეპისკოპოსი [მაშენებელი ქარზამეთისა]
+Primary Name: გრიგოლ მაწყვერელი ეპისკოპოსი [მაშენებელი ქარზამეთისა]
+Inscriptions: 1
+First Occurrence: ECG100
+
+Occurrences:
+  - ECG100: გ რი გ ო ლ მ ა წ ყუერე ლ მ თავარეპისკოპო სი (ქარზამეთის ეკლესია, XVI AD)
+
+----------------------------------------
+
+Key: გრიგოლ მოძღუარი [საფარის წმ. გიორგის ეკლესიის მაშენებელი]
+Primary Name: გრიგოლ მოძღუარი [საფარის წმ. გიორგის ეკლესიის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG097
+
+Occurrences:
+  - ECG097: გ რი გ ო ლს მ ო ძღო ჳა რსა (, XV AD)
+
+----------------------------------------
+
+Key: გრიგოლ ნაფშუენისძე [საფარის წმ. გიორგის ეკლესიის მოძღვარი]
+Primary Name: გრიგოლ ნაფშუენისძე [საფარის წმ. გიორგის ეკლესიის მოძღვარი]
+Inscriptions: 1
+First Occurrence: ECG096
+
+Occurrences:
+  - ECG096: საფ ა რ ი სა მ ო ძღ უარ მ ა ნ გ რი გ ო ლ ნაფშუენ ი ს ძემ ა ნ (, XV AD)
+
+----------------------------------------
+
+Key: გრიგორი ჰისეს ძე (Գրիգոր)
+Primary Name: გრიგორი ჰისეს ძე (Գրիգոր)
+Inscriptions: 1
+First Occurrence: ECG172
+
+Occurrences:
+  - ECG172: Գրի գոր (, 1212)
+
+----------------------------------------
+
+Key: გრიორმიზდ
+Primary Name: გრიორმიზდ
+Inscriptions: 1
+First Occurrence: ECG050
+
+Occurrences:
+  - ECG050: გრიორმ იზდ (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, V AD)
+
+----------------------------------------
+
+Key: გუდა
+Primary Name: გუდა
+Inscriptions: 1
+First Occurrence: ECG012
+
+Occurrences:
+  - ECG012: გუდას მან (, VII AD)
+
+----------------------------------------
+
+Key: გურანდუხტ დედოფალი [ბაგრატ III-ის დედა]
+Primary Name: გურანდუხტ დედოფალი [ბაგრატ III-ის დედა]
+Inscriptions: 1
+First Occurrence: ECG1063
+
+Occurrences:
+  - ECG1063: გურანდუხტი (ხცისი, )
+
+----------------------------------------
+
+Key: გურგანელ [ატენის ციხისთავი]
+Primary Name: გურგანელ [ატენის ციხისთავი]
+Inscriptions: 1
+First Occurrence: ECG1031
+
+Occurrences:
+  - ECG1031: გ უ რგ ა ნ ე ლმ ა ნ (ატენის სიონი, 945)
+
+----------------------------------------
+
+Key: გურგენ [მამა საროს ციხის მაშენებლის, ვაჩესი]
+Primary Name: გურგენ [მამა საროს ციხის მაშენებლის, ვაჩესი]
+Inscriptions: 1
+First Occurrence: ECG085
+
+Occurrences:
+  - ECG085: გ უ რ გ ენი ს მა ნ (, 1125-1155 AD)
+
+----------------------------------------
+
+Key: გურგენ ერისთავთ-ერისთავი
+Primary Name: გურგენ ერისთავთ-ერისთავი
+Inscriptions: 1
+First Occurrence: ECG070
+
+Occurrences:
+  - ECG070: გურგ ე ნ ერ ი ს თ ა ვ თ ერ ი სთ ა ვ ის ა (, X AD)
+
+----------------------------------------
+
+Key: გურჯიხათუნ [მეუღლე ივანე მეღვინეთუხუცესისა]
+Primary Name: გურჯიხათუნ [მეუღლე ივანე მეღვინეთუხუცესისა]
+Inscriptions: 1
+First Occurrence: ECG344
+
+Occurrences:
+  - ECG344: გ უ რჯ იხ ა თ უ ნისი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: დავით
+Primary Name: დავით
+Inscriptions: 1
+First Occurrence: ECG204
+
+Occurrences:
+  - ECG204: და ვით ა (, IX-X AD)
+
+----------------------------------------
+
+Key: დავით I უმიწაწყლო (ანჰოღინი)
+Primary Name: დავით I უმიწაწყლო (ანჰოღინი)
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/David_I_Anhoghin
+First Occurrence: ECG212
+
+Occurrences:
+  - ECG212: დ ავი თ (, 991-1048/49)
+
+----------------------------------------
+
+Key: დავით III კურაპალატი
+Primary Name: დავით III კურაპალატი
+Inscriptions: 1
+External URL: http://georgianencyclopedia.ge/index.php/დავით_III
+First Occurrence: ECG080
+
+Occurrences:
+  - ECG080: დავ ი თ კ უ რ ა პ ა ლ ა ტი (, 980 AD)
+
+----------------------------------------
+
+Key: დავით IV აღმაშენებელი
+Primary Name: დავით IV აღმაშენებელი
+Inscriptions: 1
+External URL: http://www.nplg.gov.ge/wikidict/index.php/დავით_IV
+First Occurrence: ECG217
+
+Occurrences:
+  - ECG217: დავით (, 1020-1048/49)
+
+----------------------------------------
+
+Key: დავით VI ნარინი
+Primary Name: დავით VI ნარინი
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/David_VI_of_Georgia
+First Occurrence: ECG261
+
+Occurrences:
+  - ECG261: დ ავი თ (, XIII AD)
+
+----------------------------------------
+
+Key: დავით VII ულუ
+Primary Name: დავით VII ულუ
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/David_VII_of_Georgia
+First Occurrence: ECG257
+
+Occurrences:
+  - ECG257: დავჲთ ი ს (, XIII AD)
+
+----------------------------------------
+
+Key: დავით [ბოლნელი] ეპისკოპოსი
+Primary Name: დავით [ბოლნელი] ეპისკოპოსი
+Name Variants: დ ავი თ ე პისკოპო ს სა
+Inscriptions: 2
+First Occurrence: ECG052
+
+Occurrences:
+  - ECG052: დ ავი თ ე პისკოპო ს სა (, 494 AD)
+  - ECG053: დ ავი თ (, 494 AD)
+
+----------------------------------------
+
+Key: დავით გალატოზი
+Primary Name: დავით გალატოზი
+Inscriptions: 1
+First Occurrence: ECG494
+
+Occurrences:
+  - ECG494: დ ავით გ ა ლ ატო ზი (, X-XI AD)
+
+----------------------------------------
+
+Key: დავით მამფალი
+Primary Name: დავით მამფალი
+Inscriptions: 1
+First Occurrence: ECG068
+
+Occurrences:
+  - ECG068: დ ავი თ მ ამ ფა ლი (, IX AD)
+
+----------------------------------------
+
+Key: დავით მეფე
+Primary Name: დავით მეფე
+Inscriptions: 1
+First Occurrence: ECG167
+
+Occurrences:
+  - ECG167: թագաւոր ին Դաւթի (ჰაღბატი, 1181)
+
+----------------------------------------
+
+Key: დავით სოსლანი
+Primary Name: დავით სოსლანი
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/David_Soslan
+First Occurrence: ECG247
+
+Occurrences:
+  - ECG247: და ვი თი ს ა (, XII-XIII AD)
+
+----------------------------------------
+
+Key: დავით ულუ
+Primary Name: დავით ულუ
+Inscriptions: 1
+First Occurrence: ECG092
+
+Occurrences:
+  - ECG092: მეფეთ
+                                მეფი ს დ ავი თ ი ს (, 1350)
+
+----------------------------------------
+
+Key: დავით ქართველთა მეფე
+Primary Name: დავით ქართველთა მეფე
+Inscriptions: 1
+First Occurrence: ECG1104
+
+Occurrences:
+  - ECG1104: დ ა ვ ი თ (, 923-937)
+
+----------------------------------------
+
+Key: დავით შოთრკას ძე (Դաւթի որդո Շոթռկա)
+Primary Name: დავით შოთრკას ძე (Դաւթի որդո Շոթռկա)
+Inscriptions: 1
+First Occurrence: ECG170
+
+Occurrences:
+  - ECG170: Դաւթի (, 1210)
+
+----------------------------------------
+
+Key: დამიანე ბედიელი
+Primary Name: დამიანე ბედიელი
+Inscriptions: 1
+First Occurrence: ECG512
+
+Occurrences:
+  - ECG512: დ ა მ ია ნე ბ ე დ ი ელი (, XI ს.)
+
+----------------------------------------
+
+Key: დაჩი უჯარმელი (იბერიის მეფე)
+Primary Name: დაჩი უჯარმელი (იბერიის მეფე)
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Dachi_of_Iberia
+First Occurrence: ECG383
+
+Occurrences:
+  - ECG383: დაჩი (ანჩისხატის ტაძარი, თბილისი, VI AD)
+
+----------------------------------------
+
+Key: დედა იოსიაჲსი [პალესტინის მოზაიკის მომსხმელისა]
+Primary Name: დედა იოსიაჲსი [პალესტინის მოზაიკის მომსხმელისა]
+Inscriptions: 1
+First Occurrence: ECG051
+
+Occurrences:
+  - ECG051: დედაჲ (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, 532-552 AD)
+
+----------------------------------------
+
+Key: დედატოს (Δέδατος)
+Primary Name: დედატოს (Δέδατος)
+Inscriptions: 1
+First Occurrence: ECG020
+
+Occurrences:
+  - ECG020: Δέδατος (ვანი, IV-III BC)
+
+----------------------------------------
+
+Key: დედისიმედი [ასული ბაგრატ I მუხრანბატონისა, ქაიხოსრო II ჯაყელის მეუღლე]
+Primary Name: დედისიმედი [ასული ბაგრატ I მუხრანბატონისა, ქაიხოსრო II ჯაყელის მეუღლე]
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Dedisimedi
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: დედ ი სიმ ე დმ ა ნ (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: დედოფალი ელენე [ბაგრატ I მუხრანბატონის თანამეცხედრე]
+Primary Name: დედოფალი ელენე [ბაგრატ I მუხრანბატონის თანამეცხედრე]
+Inscriptions: 1
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: დ ედო ფ ა ლსა ელენეს (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: დემეტრე I
+Primary Name: დემეტრე I
+Inscriptions: 1
+First Occurrence: ECG085
+
+Occurrences:
+  - ECG085: დ ემე ტ რ ე (, 1125-1155 AD)
+
+----------------------------------------
+
+Key: დემეტრე II თავდადებული
+Primary Name: დემეტრე II თავდადებული
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Demetrius_II_of_Georgia
+First Occurrence: ECG530
+
+Occurrences:
+  - ECG530: დიმიტრისა (, 1333)
+
+----------------------------------------
+
+Key: დემეტრე ჳპატოსი
+Primary Name: დემეტრე ჳპატოსი
+Inscriptions: 1
+First Occurrence: ECG027
+
+Occurrences:
+  - ECG027: დემეტრ ეს ჳპა ტოსს ა (, 595-605 AD)
+
+----------------------------------------
+
+Key: დომიციანე (Δομιτιανός)
+Primary Name: დომიციანე (Δομιτιανός)
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Domitian
+First Occurrence: ECG077
+
+Occurrences:
+  - ECG077: Δομιτιανός (, 75 AD)
+
+----------------------------------------
+
+Key: დრაკონტის დედოფალი (Δρακόντης βασίλισσα)
+Primary Name: დრაკონტის დედოფალი (Δρακόντης βασίλισσα)
+Inscriptions: 1
+First Occurrence: ECG005
+
+Occurrences:
+  - ECG005: Δρακόντιδι (, II-III AD)
+
+----------------------------------------
+
+Key: ეგნატე
+Primary Name: ეგნატე
+Inscriptions: 1
+First Occurrence: ECG141
+
+Occurrences:
+  - ECG141: ეგ ნა ტ ი სი (, )
+
+----------------------------------------
+
+Key: ევნონეს ევერგეტესი (Εὐνώνης εὐεργέτης)
+Primary Name: ევნონეს ევერგეტესი (Εὐνώνης εὐεργέτης)
+Inscriptions: 1
+First Occurrence: ECG014
+
+Occurrences:
+  - ECG014: Εὐνών ῃ (, I AD)
+
+----------------------------------------
+
+Key: ევფრატესი (Εὐφράτης)
+Primary Name: ევფრატესი (Εὐφράτης)
+Inscriptions: 1
+First Occurrence: ECG294
+
+Occurrences:
+  - ECG294: Εὐφράτης (, I-II AD)
+
+----------------------------------------
+
+Key: ელია [ლიკანის ეკლესიის მაშენებელი]
+Primary Name: ელია [ლიკანის ეკლესიის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG532
+
+Occurrences:
+  - ECG532: ე ლია (, XVI AD)
+
+----------------------------------------
+
+Key: ელია ბოლნელი
+Primary Name: ელია ბოლნელი
+Name Variants: ელია ბ ოლ ნ ელ ჲ
+Inscriptions: 2
+First Occurrence: ECG068
+
+Occurrences:
+  - ECG068: ელია ბ ოლ ნ ელ ჲ (, IX AD)
+  - ECG069: ე ლ ჲ ა (, X AD)
+
+----------------------------------------
+
+Key: ელისბალ [კუმურდოს მეორედ მაშენებელი]
+Primary Name: ელისბალ [კუმურდოს მეორედ მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG151
+
+Occurrences:
+  - ECG151: ელისბ ა ლ (, )
+
+----------------------------------------
+
+Key: ერემია
+Primary Name: ერემია
+Inscriptions: 1
+First Occurrence: ECG190
+
+Occurrences:
+  - ECG190: ერემი ა (, VII)
+
+----------------------------------------
+
+Key: ერისთავი შაბურისძე [სმადის მაშენებელი]
+Primary Name: ერისთავი შაბურისძე [სმადის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG094
+
+Occurrences:
+  - ECG094: ერ ი სთ ა ვსა შაბო ჳ რ ი სძეს (, 1467 AD)
+
+----------------------------------------
+
+Key: ეფემია
+Primary Name: ეფემია
+Inscriptions: 1
+First Occurrence: ECG200
+
+Occurrences:
+  - ECG200: ეფემია (, VIII-IX სს.)
+
+----------------------------------------
+
+Key: ეფრემ [აგარის მაშენებელი]
+Primary Name: ეფრემ [აგარის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG084
+
+Occurrences:
+  - ECG084: ეფრემ (, XI AD)
+
+----------------------------------------
+
+Key: ეფრემ კუმურდოელი ეპისკოპოსი
+Primary Name: ეფრემ კუმურდოელი ეპისკოპოსი
+Inscriptions: 1
+First Occurrence: ECG148
+
+Occurrences:
+  - ECG148: ეფრ ე მ (, )
+
+----------------------------------------
+
+Key: ვანენი [სადუნ მანკაბერდელის ასული, თანამეცხედრე მჴარგრძელისა]
+Primary Name: ვანენი [სადუნ მანკაბერდელის ასული, თანამეცხედრე მჴარგრძელისა]
+Inscriptions: 1
+First Occurrence: ECG351
+
+Occurrences:
+  - ECG351: ვ ა ნ ე ნი (ქობაირის მონასტერი, სომხეთი, 1295 AD)
+
+----------------------------------------
+
+Key: ვარაზ
+Primary Name: ვარაზ
+Inscriptions: 1
+First Occurrence: ECG203
+
+Occurrences:
+  - ECG203: ვარაზ (, განვითარებული შუა საუკუნეები)
+
+----------------------------------------
+
+Key: ვარდან ხაპეტი
+Primary Name: ვარდან ხაპეტი
+Inscriptions: 1
+First Occurrence: ECG055
+
+Occurrences:
+  - ECG055: ვ არდა ნ ნ ახ პ ეტისა ჲ (, 494 AD)
+
+----------------------------------------
+
+Key: ვარდერე ტიკნაც-ტიკინი
+Primary Name: ვარდერე ტიკნაც-ტიკინი
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: ვ ა რდ ე რესისი (, XIII AD)
+
+----------------------------------------
+
+Key: ვაჩე გურგენის ძე [საროს ციხის მაშენებელი]
+Primary Name: ვაჩე გურგენის ძე [საროს ციხის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG085
+
+Occurrences:
+  - ECG085: ვ ა ჩე (, 1125-1155 AD)
+
+----------------------------------------
+
+Key: ვახტანგ I მუხრანბატონი [ბაგრატ I მუხრანბატონის ძე]
+Primary Name: ვახტანგ I მუხრანბატონი [ბაგრატ I მუხრანბატონის ძე]
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Vakhtang_I,_Prince_of_Mukhrani
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: ვ ა ხტ ა ნგ (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: ვაჰრამ ათაბაგი [ივანე II მხარგრძელის ძე]
+Primary Name: ვაჰრამ ათაბაგი [ივანე II მხარგრძელის ძე]
+Inscriptions: 1
+First Occurrence: ECG341
+
+Occurrences:
+  - ECG341: ათ ა ბ ა გისა ვ ა ჰ რ ა მისი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: ვაჰრან ნაჯმადინის ძე (Վահրամ)
+Primary Name: ვაჰრან ნაჯმადინის ძე (Վահրամ)
+Inscriptions: 1
+First Occurrence: ECG171
+
+Occurrences:
+  - ECG171: Վահրամ (, 1212)
+
+----------------------------------------
+
+Key: ვესპასიანე (Οὐεσπασιανός)
+Primary Name: ვესპასიანე (Οὐεσπασιανός)
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Vespasian
+First Occurrence: ECG077
+
+Occurrences:
+  - ECG077: Οὐε σ πασιανός (, 75 AD)
+
+----------------------------------------
+
+Key: ვოლოგეზი, არმენიის მეფე (βασιλεύς Ἀρμενίας Οὐολογαίσης)
+Primary Name: ვოლოგეზი, არმენიის მეფე (βασιλεύς Ἀρμενίας Οὐολογαίσης)
+Inscriptions: 1
+First Occurrence: ECG006
+
+Occurrences:
+  - ECG006: βασιλέως Ἀρμενίας Οὐλο γαίσου (, II-III AD)
+
+----------------------------------------
+
+Key: ზაზა ავალიშვილი
+Primary Name: ზაზა ავალიშვილი
+Inscriptions: 1
+First Occurrence: ECG536
+
+Occurrences:
+  - ECG536: ზაზა ავალიშვი ლი (, XVIII-XIX AD)
+
+----------------------------------------
+
+Key: ზაქარია II მხარგრძელი
+Primary Name: ზაქარია II მხარგრძელი
+Name Variants: Զաքարէի, Զաքարի, Զաքարիա, Զաքարիաի շահնշահի, Զաքարիայի
+Inscriptions: 5
+External URL: http://www.nplg.gov.ge/wikidict/index.php/მხარგრძელი_ზაქარია_(II)
+First Occurrence: ECG1082
+
+Occurrences:
+  - ECG1082: Զաքարի (, 1216)
+  - ECG159: Զաք արէի (, 1206)
+  - ECG170: Զաքարէի (, 1210)
+  - ECG170: Զաքարիա (, 1210)
+  - ECG170: Զաքարիայի (, 1210)
+  - ECG171: Զաքարիաի շահնշահի (, 1212)
+  - ECG172: Զաքարի (, 1212)
+
+----------------------------------------
+
+Key: ზაქარია III მხარგრძელი
+Primary Name: ზაქარია III მხარგრძელი
+Name Variants: ზაქ ა რი ა ამი რ სპ ა ს ა ლ არ ის
+Inscriptions: 2
+External URL: http://www.nplg.gov.ge/wikidict/index.php/ზაქარია_(III)_შანშე_(I)-ის_ძე
+First Occurrence: ECG340
+
+Occurrences:
+  - ECG340: ზაქ ა რი ა ამი რ სპ ა ს ა ლ არ ის (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG345: ზ ა ქ ა რ ი ა (ქობაირის მონასტერი, სომხეთი, 1258-1262 AD)
+
+----------------------------------------
+
+Key: ზაქარია პირველ-ეპისკოპოსი
+Primary Name: ზაქარია პირველ-ეპისკოპოსი
+Inscriptions: 1
+First Occurrence: ECG022
+
+Occurrences:
+  - ECG022: ზ აქა რ ი ა პ ი რ ვე ლ ეპ ის კ ოპოს ი (, V AD)
+
+----------------------------------------
+
+Key: ზიქა [ასული სტეფანესი]
+Primary Name: ზიქა [ასული სტეფანესი]
+Inscriptions: 1
+First Occurrence: ECG198
+
+Occurrences:
+  - ECG198: ზიქა (, VIII AD)
+
+----------------------------------------
+
+Key: ზოსიმე კუმურდოელი
+Primary Name: ზოსიმე კუმურდოელი
+Name Variants: ზ ო ს ი მე კ უმურდოელმან, მღვდ ე ლთმ ო ძღ უ რ ო ბ ა > სა ზ ო ს ი მე კ უ მ უ რდო ე ლის ა სა
+Inscriptions: 3
+First Occurrence: ECG145
+
+Occurrences:
+  - ECG145: მღვდ ე ლთმ ო ძღ უ რ ო ბ ა > სა ზ ო ს ი მე კ უ მ უ რდო ე ლის ა სა (, )
+  - ECG146: ზ ო ს ი მე კ უმურდოელმან (, )
+  - ECG151: ზ ო ს ი მე (, )
+
+----------------------------------------
+
+Key: თამარ [ლუარსაბ I-ის ასული, ქიშვად ავალისშვილის მეუღლე]
+Primary Name: თამარ [ლუარსაბ I-ის ასული, ქიშვად ავალისშვილის მეუღლე]
+Inscriptions: 1
+First Occurrence: ECG532
+
+Occurrences:
+  - ECG532: თამარ (, XVI AD)
+
+----------------------------------------
+
+Key: თამარ [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Primary Name: თამარ [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Inscriptions: 1
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: თ ა მ ა რი (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: თამარ მეფე
+Primary Name: თამარ მეფე
+Name Variants: մեծ թ ա գաւորին Թամարին՝, თ ა მ ა რ, თ ამა რ, თა მ ა რ, მ ე ფ ე თ ა მ ე ფე და დ ე დ ო ფ ა ლი თ ა მ ა რ
+Inscriptions: 7
+First Occurrence: ECG088
+
+Occurrences:
+  - ECG088: მ ე ფ ე თ ა მ ე ფე და დ ე დ ო ფ ა ლი თ ა მ ა რ (, XII AD)
+  - ECG089: თ ა მ ა რ (, 1204 AD)
+  - ECG170: մեծ թ ա գաւորին Թամարին՝ (, 1210)
+  - ECG171: Թա ա մար (, 1212)
+  - ECG245: თ ამა რ (, XII-XIII AD)
+  - ECG247: თა მ ა რ (, XII-XIII AD)
+  - ECG249: თ ა მ ა რ (, XII-XIII AD)
+
+----------------------------------------
+
+Key: თამარ მხარგრძელი [ივანე II მხარგრძელის ასული, სულა გურკანელის მეუღლე]
+Primary Name: თამარ მხარგრძელი [ივანე II მხარგრძელის ასული, სულა გურკანელის მეუღლე]
+Inscriptions: 1
+First Occurrence: ECG342
+
+Occurrences:
+  - ECG342: თამ ა რისი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: თარხუნ
+Primary Name: თარხუნ
+Inscriptions: 1
+First Occurrence: ECG1031
+
+Occurrences:
+  - ECG1031: თარხუნის (ატენის სიონი, 945)
+
+----------------------------------------
+
+Key: თევდორასი
+Primary Name: თევდორასი
+Inscriptions: 1
+First Occurrence: ECG534
+
+Occurrences:
+  - ECG534: თევდორას ი (, 1755 წელი)
+
+----------------------------------------
+
+Key: თევდორე
+Primary Name: თევდორე
+Inscriptions: 2
+First Occurrence: ECG092
+
+Occurrences:
+  - ECG092: თ ევდორ ე (, 1350)
+  - ECG199: თ ევდორ ე (, VIII-IX ს.)
+
+----------------------------------------
+
+Key: თევდორე [ამბარლოს მაშენებელი]
+Primary Name: თევდორე [ამბარლოს მაშენებელი]
+Name Variants: თ ეოდორ ე
+Inscriptions: 3
+First Occurrence: ECG221
+
+Occurrences:
+  - ECG221: თ ეოდორ ე (, 1032 AD)
+  - ECG222: თ ევდორ ე (, 1032 AD)
+  - ECG223: თ ევდორ ე (, 1032 AD)
+
+----------------------------------------
+
+Key: თევდორე ბოლნელი ეპისკოპოსი
+Primary Name: თევდორე ბოლნელი ეპისკოპოსი
+Inscriptions: 1
+First Occurrence: ECG070
+
+Occurrences:
+  - ECG070: თ ევდორ ე ბ ო ლნე ლ ებ ის კ ოპო ს მ ა (, X AD)
+
+----------------------------------------
+
+Key: თევდორე ეპისკოპოსი ლუკას ძე [ურბნისის მაშენებელი]
+Primary Name: თევდორე ეპისკოპოსი ლუკას ძე [ურბნისის მაშენებელი]
+Inscriptions: 2
+First Occurrence: ECG034
+
+Occurrences:
+  - ECG034: თ ევდორ ე (, X AD)
+  - ECG035: თ ევდორ ე (, X AD)
+
+----------------------------------------
+
+Key: თევდორე იოდომისძე [ლამაზ-საყდარის მაშენებელი]
+Primary Name: თევდორე იოდომისძე [ლამაზ-საყდარის მაშენებელი]
+Name Variants: თ ევოდორ ეს
+Inscriptions: 1
+First Occurrence: ECG247
+
+Occurrences:
+  - ECG247: თ ევდორ ე იო დ ო მისძე (, XII-XIII AD)
+  - ECG247: თ ევოდორ ეს (, XII-XIII AD)
+
+----------------------------------------
+
+Key: თემისტია
+Primary Name: თემისტია
+Inscriptions: 1
+First Occurrence: ECG030
+
+Occurrences:
+  - ECG030: თემისტია (, 595-605 AD)
+
+----------------------------------------
+
+Key: თენი [მეუღლე მათე მწიგნობართუხუცესისა]
+Primary Name: თენი [მეუღლე მათე მწიგნობართუხუცესისა]
+Inscriptions: 1
+First Occurrence: ECG338
+
+Occurrences:
+  - ECG338: თენისი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: თეოდორა [ასული ბაგრატ I მუხრანბატონისა]
+Primary Name: თეოდორა [ასული ბაგრატ I მუხრანბატონისა]
+Inscriptions: 1
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: თ ეო დ ო რ ა ს (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: თეოდორე
+Primary Name: თეოდორე
+Inscriptions: 2
+First Occurrence: ECG508
+
+Occurrences:
+  - ECG508: თ ეოდორ ე (, XI ს.)
+  - ECG522: თ ეოდორ ე (, X-XI ს.)
+
+----------------------------------------
+
+Key: თეოდორე [აგარის მაშენებელი]
+Primary Name: თეოდორე [აგარის მაშენებელი]
+Name Variants: თ ეოდორ ე
+Inscriptions: 1
+First Occurrence: ECG083
+
+Occurrences:
+  - ECG083: თ ეოდორ ე (, X AD)
+  - ECG083: თ ეო დ ორესა თჳს (, X AD)
+
+----------------------------------------
+
+Key: თეოდოროსი (Θεώδορος)
+Primary Name: თეოდოროსი (Θεώδορος)
+Inscriptions: 1
+First Occurrence: ECG018
+
+Occurrences:
+  - ECG018: Θεώδορον (, VI-VII AD)
+
+----------------------------------------
+
+Key: თოდოსა (Թոդոսա)
+Primary Name: თოდოსა (Թոդոսա)
+Inscriptions: 1
+First Occurrence: ECG154
+
+Occurrences:
+  - ECG154: Թոդոսա (ატენის სიონი, 982-986 AD)
+
+----------------------------------------
+
+Key: თოდოსაკი (Թոդոսակ)
+Primary Name: თოდოსაკი (Թոդոսակ)
+Inscriptions: 1
+First Occurrence: ECG153
+
+Occurrences:
+  - ECG153: Թոդոսակ (ატენის სიონი, 982-986 AD)
+
+----------------------------------------
+
+Key: თორნიკე
+Primary Name: თორნიკე
+Inscriptions: 1
+First Occurrence: ECG505
+
+Occurrences:
+  - ECG505: თორნიკ (, XI AD)
+
+----------------------------------------
+
+Key: თუალშუენიერ [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Primary Name: თუალშუენიერ [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Inscriptions: 1
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: თ უა ლ შუენიერი (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: ია
+Primary Name: ია
+Inscriptions: 1
+First Occurrence: ECG526
+
+Occurrences:
+  - ECG526: იაი (, XII-XIIIს.)
+
+----------------------------------------
+
+Key: იაკობ
+Primary Name: იაკობ
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: იაკ ო ბ ისს ა (, XIII AD)
+
+----------------------------------------
+
+Key: იამაზასპუჰი (Ἰαμασασποΐ)
+Primary Name: იამაზასპუჰი (Ἰαμασασποΐ)
+Inscriptions: 1
+First Occurrence: ECG077
+
+Occurrences:
+  - ECG077: Ἰαμασασποΐ (, 75 AD)
+
+----------------------------------------
+
+Key: იასდიგერდესი (Ἰσδιγέρδης)
+Primary Name: იასდიგერდესი (Ἰσδιγέρδης)
+Inscriptions: 1
+First Occurrence: ECG002
+
+Occurrences:
+  - ECG002: Ἰσδ ιγέρδης (, IV-V AD)
+
+----------------------------------------
+
+Key: ივანე
+Primary Name: ივანე
+Inscriptions: 1
+First Occurrence: ECG239
+
+Occurrences:
+  - ECG239: ი ვა ნე (, XI-XII AD)
+
+----------------------------------------
+
+Key: ივანე II მხარგრძელი
+Primary Name: ივანე II მხარგრძელი
+Name Variants: ივ ა ნე მ ა ნდატო ჳ რთ უ ხუც ესისა, ივ ა ნე მ ა ნდატურთუხ უ ცესისა, მ ა ნდატ უ რთო ჳ ხ უ ცესმ ა ნ ივ ა ნე
+Inscriptions: 4
+External URL: http://www.nplg.gov.ge/wikidict/index.php/ივანე_(II)_მხარგრძელი
+First Occurrence: ECG339
+
+Occurrences:
+  - ECG339: ივ ა ნე მ ა ნდატო ჳ რთ უ ხუც ესისა (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG341: ივ ა ნე მ ა ნდატურთუხ უ ცესისა (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG342: ივ ა ნე მ ა ნდ ატ უ რთ უ ხ უ ც ე სისა (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG352: მ ა ნდატ უ რთო ჳ ხ უ ცესმ ა ნ ივ ა ნე (სოფ. კოშის ეკლესია, სომხეთი, 1270-1285 AD)
+
+----------------------------------------
+
+Key: ივანე II ჯაყელი
+Primary Name: ივანე II ჯაყელი
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Ivane_II_Jaqeli
+First Occurrence: ECG093
+
+Occurrences:
+  - ECG093: პ ა ტრ ო ნი ივ ანე (, 1391-1444 AD)
+
+----------------------------------------
+
+Key: ივანე [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Primary Name: ივანე [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Inscriptions: 1
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: ივ ა ნე (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: ივანე ლომსიანიძე
+Primary Name: ივანე ლომსიანიძე
+Inscriptions: 1
+First Occurrence: ECG237
+
+Occurrences:
+  - ECG237: ივანე ლომსია ნისძემ ა ნ (, XI-XII AD)
+
+----------------------------------------
+
+Key: ივანე მეღვინეთუხუცესი
+Primary Name: ივანე მეღვინეთუხუცესი
+Inscriptions: 1
+First Occurrence: ECG344
+
+Occurrences:
+  - ECG344: მეღ ჳ ნ ე თუხ უ ც ე ს ი სა ივ ანე ს (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: ივანე მხარგრძელი
+Primary Name: ივანე მხარგრძელი
+Inscriptions: 4
+External URL: http://www.nplg.gov.ge/wikidict/index.php/ივანე_მხარგრძელი
+First Occurrence: ECG1082
+
+Occurrences:
+  - ECG1082: Իւանէի (, 1216)
+  - ECG170: Իւանէի (, 1210)
+  - ECG171: Իւանէի (, 1212)
+  - ECG172: Իւանէի (, 1212)
+
+----------------------------------------
+
+Key: ივანე სულას ძე [ზარზმის ეკუდერის მაშენებელი]
+Primary Name: ივანე სულას ძე [ზარზმის ეკუდერის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG080
+
+Occurrences:
+  - ECG080: ივ ა ნე ძემ ა ნ სო ჳ ლ ა სმ ა ნ (, 980 AD)
+
+----------------------------------------
+
+Key: ინაი
+Primary Name: ინაი
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: ინაისს ა (, XIII AD)
+
+----------------------------------------
+
+Key: იოანე ბოლნელი ეპისკოპოსი
+Primary Name: იოანე ბოლნელი ეპისკოპოსი
+Inscriptions: 1
+First Occurrence: ECG067
+
+Occurrences:
+  - ECG067: ი ოვა ნე ბ ოლ ნ ე ლ ეპ ის კ ოპოსის ნი (, IX AD)
+
+----------------------------------------
+
+Key: იობ მიხრიკის ძე [დმანისის ამირა]
+Primary Name: იობ მიხრიკის ძე [დმანისის ამირა]
+Inscriptions: 1
+First Occurrence: ECG254
+
+Occurrences:
+  - ECG254: იობ (, XIII AD)
+
+----------------------------------------
+
+Key: იოვანე
+Primary Name: იოვანე
+Name Variants: ი ოვან ე
+Inscriptions: 2
+First Occurrence: ECG252
+
+Occurrences:
+  - ECG252: ი ოვან ე (, XII-XIII AD)
+  - ECG503: ი ო ვანე (, XI AD)
+
+----------------------------------------
+
+Key: იოვანე [დისწული მიქაელ ნიქოზელი ეპისკოპოსისა]
+Primary Name: იოვანე [დისწული მიქაელ ნიქოზელი ეპისკოპოსისა]
+Inscriptions: 1
+First Occurrence: ECG025
+
+Occurrences:
+  - ECG025: იოვ ა ნე (, X AD)
+
+----------------------------------------
+
+Key: იოვანე [საფარის წმ. გიორგის ეკლესიის მაშენებელი]
+Primary Name: იოვანე [საფარის წმ. გიორგის ეკლესიის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG098
+
+Occurrences:
+  - ECG098: ი ოვ ა ნესა (, XV AD)
+
+----------------------------------------
+
+Key: იოვანე მაწყუერელი ცულკუესი
+Primary Name: იოვანე მაწყუერელი ცულკუესი
+Inscriptions: 1
+First Occurrence: ECG095
+
+Occurrences:
+  - ECG095: მ ა წყ უე რ ე ლ ებ ი სკ ო ბ ოზი სა ცოჳლ კოჳესისა (, XV ს-ის 70-იანი წლები AD)
+
+----------------------------------------
+
+Key: იოვანე ფურტაველი ეპისკოპოსი
+Primary Name: იოვანე ფურტაველი ეპისკოპოსი
+Inscriptions: 1
+First Occurrence: ECG1006
+
+Occurrences:
+  - ECG1006: იოჰანე (იერუსალიმი, V-IV AD)
+
+----------------------------------------
+
+Key: იოსია [მომსხმელი პალესტინის მოზაიკისა]
+Primary Name: იოსია [მომსხმელი პალესტინის მოზაიკისა]
+Name Variants: იოსიაჲსი
+Inscriptions: 1
+First Occurrence: ECG051
+
+Occurrences:
+  - ECG051: იოსია (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, 532-552 AD)
+  - ECG051: იოსიაჲსი (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, 532-552 AD)
+
+----------------------------------------
+
+Key: ისაკ
+Primary Name: ისაკ
+Inscriptions: 1
+First Occurrence: ECG389
+
+Occurrences:
+  - ECG389: ის ა კჲ (ზარზმის მონასტერი, X-XI AD)
+
+----------------------------------------
+
+Key: იჩქით გურგენისძე
+Primary Name: იჩქით გურგენისძე
+Name Variants: იჩქ ი თმ ა ნ გ უ რგ ე ნისძემ ა ნ, იჩქ ი თმ ა ნ გურგ ე ნისძემ ა ნ
+Inscriptions: 3
+First Occurrence: ECG086
+
+Occurrences:
+  - ECG086: იჩქ ი თმ ა ნ გ უ რგ ე ნისძემ ა ნ (, XII AD)
+  - ECG087: გ უ რ გ ე ნ ა თი მე იჩქითმ ა ნ (, XII AD)
+  - ECG088: იჩქ ი თმ ა ნ გურგ ე ნისძემ ა ნ (, XII AD)
+
+----------------------------------------
+
+Key: კათალიკოსი იოვანე V ოქროპირი
+Primary Name: კათალიკოსი იოვანე V ოქროპირი
+Inscriptions: 1
+First Occurrence: ECG224
+
+Occurrences:
+  - ECG224: იოა ნე ო ქ როპ ი რ ი (, XI AD)
+
+----------------------------------------
+
+Key: კახა ერისთავი
+Primary Name: კახა ერისთავი
+Inscriptions: 1
+First Occurrence: ECG249
+
+Occurrences:
+  - ECG249: კ ა ხ ა ჲ (, XII-XIII AD)
+
+----------------------------------------
+
+Key: კვირიკე
+Primary Name: კვირიკე
+Inscriptions: 1
+First Occurrence: ECG517
+
+Occurrences:
+  - ECG517: კ ჳრიკ ე (, XI ს.)
+
+----------------------------------------
+
+Key: კვირიკე IV კახთა მეფე
+Primary Name: კვირიკე IV კახთა მეფე
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Kvirike_IV_of_Kakheti
+First Occurrence: ECG217
+
+Occurrences:
+  - ECG217: კ ვირიკ ე (, 1020-1048/49)
+
+----------------------------------------
+
+Key: კლიმენტი (Κλήμης)
+Primary Name: კლიმენტი (Κλήμης)
+Inscriptions: 1
+First Occurrence: ECG003
+
+Occurrences:
+  - ECG003: Κ λήμεντο ς (, VI-VII AD)
+
+----------------------------------------
+
+Key: კონსტანტი [ურბნისის მაშენებელ მიქაელის მამა]
+Primary Name: კონსტანტი [ურბნისის მაშენებელ მიქაელის მამა]
+Inscriptions: 1
+First Occurrence: ECG035
+
+Occurrences:
+  - ECG035: კ ოს ტ ანტი სითა (, X AD)
+
+----------------------------------------
+
+Key: კონსტანტი [ურბნისის მაშენებელი]
+Primary Name: კონსტანტი [ურბნისის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG033
+
+Occurrences:
+  - ECG033: კ ოს ტ ანტ ი (, V AD)
+
+----------------------------------------
+
+Key: კონსტანტინე II
+Primary Name: კონსტანტინე II
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Constantine_II_of_Georgia
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: იეს ე ი ა ნ დ ა ვ ი თ ია ნ ს ო ლ ო მ ონია ნ ბ ა გ რა ტ ოა ნ ი სა ქართვ ე ლთ მ ე ფ ე თ მ ე ფის კ ო სტ ა ნტ ი ნ ე ს (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: კოსტანტი [სტეფანეს და გუდას ძე]
+Primary Name: კოსტანტი [სტეფანეს და გუდას ძე]
+Inscriptions: 1
+First Occurrence: ECG012
+
+Occurrences:
+  - ECG012: კოსტანტი (, VII AD)
+
+----------------------------------------
+
+Key: კრავა
+Primary Name: კრავა
+Inscriptions: 1
+First Occurrence: ECG249
+
+Occurrences:
+  - ECG249: კრ ა ვ ა ი (, XII-XIII AD)
+
+----------------------------------------
+
+Key: კჳრიკე
+Primary Name: კჳრიკე
+Inscriptions: 3
+First Occurrence: ECG496
+
+Occurrences:
+  - ECG496: კ ჳრიკ ე (, X-XI AD)
+  - ECG510: კ ჳრიკ ე (, XI ს.)
+  - ECG525: კ ჳრიკ ე (, X-XI ს.)
+
+----------------------------------------
+
+Key: ლაშა-გიორგი IV
+Primary Name: ლაშა-გიორგი IV
+Name Variants: გ იორგ ისი
+Inscriptions: 3
+External URL: http://www.nplg.gov.ge/wikidict/index.php/გიორგი_IV_ლაშა
+First Occurrence: ECG170
+
+Occurrences:
+  - ECG170: Թագաւորաց Թ ա գաւորին Գէորգէ (, 1210)
+  - ECG254: გ იორგ ისი (, XIII AD)
+  - ECG255: გ იორგ ისი (, XIII AD)
+
+----------------------------------------
+
+Key: ლიპარიტ II (?) ბაღვაში
+Primary Name: ლიპარიტ II (?) ბაღვაში
+Inscriptions: 1
+First Occurrence: ECG384
+
+Occurrences:
+  - ECG384: ლ ი პ ა რი ტ ს (ვარძიის ღვთისმშობლის სახელობის ეკლესია, X-XI AD)
+
+----------------------------------------
+
+Key: ლიპარიტ IV ბაღვაში
+Primary Name: ლიპარიტ IV ბაღვაში
+Name Variants: ლ ი პ არი ტ ე რისთავთ ე რისთავი, ლ ი პ არი ტ ე რისთავთ ე რისთავი სა, ლ ი პ არი ტ ე რისთავთ ე რისთავისა ჲ, ლ ი პ არი ტ ი ს
+Inscriptions: 3
+External URL: http://www.nplg.gov.ge/wikidict/index.php/ბაღვაში_ლიპარიტ_(IV)
+First Occurrence: ECG221
+
+Occurrences:
+  - ECG221: ლ ი პ არი ტ ე რისთავთ ე რისთავი სა (, 1032 AD)
+  - ECG221: ლ ი პ არი ტ ე რისთავთ ე რისთავ მ ა ნ ამ ი რ ა ჲ (, 1032 AD)
+  - ECG225: ლ ი პ არი ტ ე რისთავთ ე რისთავი (, 1034 AD)
+  - ECG225: ლ ი პ არი ტ ე რისთავთ ე რისთავისა ჲ (, 1034 AD)
+  - ECG225: ლ ი პ არი ტ ი ს (, 1034 AD)
+  - ECG228: ლ ი პ არი ტ ე რისთავთ ე რისთავი (, XI AD)
+
+----------------------------------------
+
+Key: ლუარსაბ I
+Primary Name: ლუარსაბ I
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Luarsab_I_of_Kartli
+First Occurrence: ECG532
+
+Occurrences:
+  - ECG532: მეფეთ მე ფისა (, XVI AD)
+
+----------------------------------------
+
+Key: ლუკა [მამა ურბნისის მაშენებელი თევდორე ეპისკოპოსისა]
+Primary Name: ლუკა [მამა ურბნისის მაშენებელი თევდორე ეპისკოპოსისა]
+Inscriptions: 1
+First Occurrence: ECG034
+
+Occurrences:
+  - ECG034: ლ უ კ აჲ სი (, X AD)
+
+----------------------------------------
+
+Key: მათე მწიგნობართუხუცესი [შანშე II მხარგრძელისა]
+Primary Name: მათე მწიგნობართუხუცესი [შანშე II მხარგრძელისა]
+Inscriptions: 1
+First Occurrence: ECG338
+
+Occurrences:
+  - ECG338: მწ ი გნ ო ბ არ თო ჳ ხ უ ცესისა მათესი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: მაკარი
+Primary Name: მაკარი
+Name Variants: მ ა კარისი
+Inscriptions: 2
+First Occurrence: ECG347
+
+Occurrences:
+  - ECG347: მ ა კარისი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG348: მ ა კარ ი ს (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: მაკედონი (Μακεδών)
+Primary Name: მაკედონი (Μακεδών)
+Inscriptions: 1
+First Occurrence: ECG015
+
+Occurrences:
+  - ECG015: Μακεδόνι (არმაზისხევი, II-III AD)
+
+----------------------------------------
+
+Key: მამა იოსიაჲსი [პალესტინის მოზაიკის მომსხმელისა]
+Primary Name: მამა იოსიაჲსი [პალესტინის მოზაიკის მომსხმელისა]
+Inscriptions: 1
+First Occurrence: ECG051
+
+Occurrences:
+  - ECG051: მა მა (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, 532-552 AD)
+
+----------------------------------------
+
+Key: მამა მიქაელ [ურბნისის მაშენებელი]
+Primary Name: მამა მიქაელ [ურბნისის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG033
+
+Occurrences:
+  - ECG033: მ ი ქ აე ლ (, V AD)
+
+----------------------------------------
+
+Key: მამათმთავარი თევდოს კალონპეტისძე
+Primary Name: მამათმთავარი თევდოს კალონპეტისძე
+Name Variants: თ ე ვდ ო სი, თ ევ დ ო სი
+Inscriptions: 2
+First Occurrence: ECG255
+
+Occurrences:
+  - ECG255: თ ე ვ დ ო სი (, XIII AD)
+  - ECG255: თ ე ვდ ო სი (, XIII AD)
+  - ECG257: თ ევ დ ო სი (, XIII AD)
+
+----------------------------------------
+
+Key: მანუჩარ II ჯაყელი, მუსტაფა-ფაშა [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Primary Name: მანუჩარ II ჯაყელი, მუსტაფა-ფაშა [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Manuchar_II_Jaqeli
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: მ ა ნ უ ჩ ა რ (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: მარიამ
+Primary Name: მარიამ
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: მ ა რ ი ამსს ა (, XIII AD)
+
+----------------------------------------
+
+Key: მარიამ [გიორგი ხუდადისძის მეუღლე]
+Primary Name: მარიამ [გიორგი ხუდადისძის მეუღლე]
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: მ ა რ ია მს (, XIII AD)
+
+----------------------------------------
+
+Key: მარიამ დედოფალი [სენექერიმ არწრუნის ასული, გიორგი I-ის მეუღლე, ბაგრატ IV-ის დედა]
+Primary Name: მარიამ დედოფალი [სენექერიმ არწრუნის ასული, გიორგი I-ის მეუღლე, ბაგრატ IV-ის დედა]
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Mariam_of_Vaspurakan
+First Occurrence: ECG145
+
+Occurrences:
+  - ECG145: მ ა რ ია მ დ ე დ ო ფ ა ლი (, )
+
+----------------------------------------
+
+Key: მარიხ [მეცხედრე ელისბალისა]
+Primary Name: მარიხ [მეცხედრე ელისბალისა]
+Inscriptions: 1
+First Occurrence: ECG151
+
+Occurrences:
+  - ECG151: მ ა რიხ (, )
+
+----------------------------------------
+
+Key: მარუან
+Primary Name: მარუან
+Inscriptions: 1
+First Occurrence: ECG049
+
+Occurrences:
+  - ECG049: მარ ოჳ ან (პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი, V AD)
+
+----------------------------------------
+
+Key: მახარებელი [გუჯარეთის ეკლესიის მაშენებელი]
+Primary Name: მახარებელი [გუჯარეთის ეკლესიის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG493
+
+Occurrences:
+  - ECG493: მ ა ხ ა რ ე ბ ე ლი (, X-XI AD)
+
+----------------------------------------
+
+Key: მელაბე (Μελαβη)
+Primary Name: მელაბე (Μελαβη)
+Inscriptions: 1
+First Occurrence: ECG353
+
+Occurrences:
+  - ECG353: Μελαβη (ვანი, II-I BC)
+
+----------------------------------------
+
+Key: მესხაჲ (შაოსანი, არშვილოსანი)
+Primary Name: მესხაჲ (შაოსანი, არშვილოსანი)
+Inscriptions: 1
+First Occurrence: ECG262
+
+Occurrences:
+  - ECG262: მ ე სხ ა ჲ (, XIII AD)
+
+----------------------------------------
+
+Key: მეფე ფლავიოს დადესი (βασιλεὺς Φλαύιος Δάδης)
+Primary Name: მეფე ფლავიოს დადესი (βασιλεὺς Φλαύιος Δάδης)
+Inscriptions: 1
+First Occurrence: ECG015
+
+Occurrences:
+  - ECG015: βασιλεὺς Φλ αύιος Δάδης (არმაზისხევი, II-III AD)
+
+----------------------------------------
+
+Key: მზეჭაბუკ [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Primary Name: მზეჭაბუკ [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Inscriptions: 1
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: მზეჭ ა ბუკ (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: მითრიდატე, იბერიის მეფე (Μιθριδάτης|)
+Primary Name: მითრიდატე, იბერიის მეფე (Μιθριδάτης|)
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Mihrdat_I_of_Iberia
+First Occurrence: ECG077
+
+Occurrences:
+  - ECG077: Μιθριδάτῃ (, 75 AD)
+
+----------------------------------------
+
+Key: მირდატ
+Primary Name: მირდატ
+Inscriptions: 1
+First Occurrence: ECG142
+
+Occurrences:
+  - ECG142: მ ი რ და ტ ი სი (, )
+
+----------------------------------------
+
+Key: მირიან
+Primary Name: მირიან
+Inscriptions: 1
+First Occurrence: ECG1031
+
+Occurrences:
+  - ECG1031: მ ი რიანის (ატენის სიონი, 945)
+
+----------------------------------------
+
+Key: მიქაელ
+Primary Name: მიქაელ
+Name Variants: მ ი ქ აელ, მი ქაელის
+Inscriptions: 4
+First Occurrence: ECG066
+
+Occurrences:
+  - ECG066: მი ქაელის (, VIII AD)
+  - ECG227: მ ი ქ აელ (, XI AD)
+  - ECG237: მ ი ქ აე ლ (, XI-XII AD)
+  - ECG524: მ ი ქ აე ლ (, X-XI ს.)
+
+----------------------------------------
+
+Key: მიქაელ კონსტანტის ძე [ურბნისის მაშენებელი]
+Primary Name: მიქაელ კონსტანტის ძე [ურბნისის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG035
+
+Occurrences:
+  - ECG035: მ ი ქ აე ლ (, X AD)
+
+----------------------------------------
+
+Key: მიქაელ კუმურდოს გალატოზი
+Primary Name: მიქაელ კუმურდოს გალატოზი
+Inscriptions: 1
+First Occurrence: ECG151
+
+Occurrences:
+  - ECG151: მ ი ქ აე ლსა (, )
+
+----------------------------------------
+
+Key: მიქაელ ნიქოზელი ეპისკოპოსი
+Primary Name: მიქაელ ნიქოზელი ეპისკოპოსი
+Name Variants: მ ი ქ აე ლ ებ ის კ ოპო ზ ისა ჲ, მ ი ქ აე ლ ნ ი ქ ო ზ ე ლ ებ ჲსსკ ოპო ზმ ა ნ
+Inscriptions: 3
+First Occurrence: ECG023
+
+Occurrences:
+  - ECG023: მ ი ქ აე ლ (, X AD)
+  - ECG024: მ ი ქ აე ლ ნ ი ქ ო ზ ე ლ ებ ჲსსკ ოპო ზმ ა ნ (, X AD)
+  - ECG025: მ ი ქ აე ლ ებ ის კ ოპო ზ ისა ჲ (, X AD)
+
+----------------------------------------
+
+Key: მიქაელ ოპიზარი [ჭყონდიდის კალატოზი]
+Primary Name: მიქაელ ოპიზარი [ჭყონდიდის კალატოზი]
+Inscriptions: 1
+First Occurrence: ECG916
+
+Occurrences:
+  - ECG916: მ ი ქ აე ლ გ ა ლ ა ტ ო ზი ოპ ი ზ ა რი (ჭყონდიდი, 996)
+
+----------------------------------------
+
+Key: მიხრიკ [მამა იობ დმანისის ამირისა]
+Primary Name: მიხრიკ [მამა იობ დმანისის ამირისა]
+Inscriptions: 1
+First Occurrence: ECG254
+
+Occurrences:
+  - ECG254: მი ხრიკის (, XIII AD)
+
+----------------------------------------
+
+Key: მოლოზონ
+Primary Name: მოლოზონ
+Inscriptions: 1
+First Occurrence: ECG144
+
+Occurrences:
+  - ECG144: მ ო ლ ო ზ ონი სი (, )
+
+----------------------------------------
+
+Key: მორბედაჲ
+Primary Name: მორბედაჲ
+Inscriptions: 1
+First Occurrence: ECG048
+
+Occurrences:
+  - ECG048: მ ორბე დ ა ჲ (, VIII AD)
+
+----------------------------------------
+
+Key: მსახურთუხუცესი ოგ͠͠ლა (?) ბუბა
+Primary Name: მსახურთუხუცესი ოგ͠͠ლა (?) ბუბა
+Inscriptions: 1
+First Occurrence: ECG343
+
+Occurrences:
+  - ECG343: მს ა ხ უ რთუხ უ ც ე სისა ოგ ლა ბ უ ბაისი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: მურვან კჳითხისძე [დავით ულუს ვარძიელი საწოლის მწიგნობარი]
+Primary Name: მურვან კჳითხისძე [დავით ულუს ვარძიელი საწოლის მწიგნობარი]
+Inscriptions: 1
+First Occurrence: ECG092
+
+Occurrences:
+  - ECG092: ვ ა რძ იელ მ ა ნ ს ა წოლის მწიგნ ო ბ ა რმ ა ნ თმოგ უ ს მ უ რვ ა ნ კჳთხ ი სძ ე მ ა ნ (, 1350)
+
+----------------------------------------
+
+Key: მურვან ყველის ერისთავი (ძმა ბეშქენ ერისთავისა)
+Primary Name: მურვან ყველის ერისთავი (ძმა ბეშქენ ერისთავისა)
+Inscriptions: 1
+First Occurrence: ECG084
+
+Occurrences:
+  - ECG084: მ უ რვ ა ნის (, XI AD)
+
+----------------------------------------
+
+Key: მღვდელი სიმონი
+Primary Name: მღვდელი სიმონი
+Inscriptions: 1
+First Occurrence: ECG212
+
+Occurrences:
+  - ECG212: ს ი მ ო ნ (, 991-1048/49)
+
+----------------------------------------
+
+Key: მჴარგრძელი [შანშე (შაჰანშა) I მხარგრძელის ძე]
+Primary Name: მჴარგრძელი [შანშე (შაჰანშა) I მხარგრძელის ძე]
+Inscriptions: 1
+First Occurrence: ECG351
+
+Occurrences:
+  - ECG351: მჴ ა რგრძ ე ლი (ქობაირის მონასტერი, სომხეთი, 1295 AD)
+
+----------------------------------------
+
+Key: მჴეც
+Primary Name: მჴეც
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: მჴეცის ა (, XIII AD)
+
+----------------------------------------
+
+Key: ნაჯმადინ სმბატის ძე (Նաջմադին)
+Primary Name: ნაჯმადინ სმბატის ძე (Նաջմադին)
+Inscriptions: 1
+First Occurrence: ECG171
+
+Occurrences:
+  - ECG171: Նաջմադինս (, 1212)
+
+----------------------------------------
+
+Key: ნიკოლაოსი (Νικόλαος)
+Primary Name: ნიკოლაოსი (Νικόλαος)
+Inscriptions: 1
+First Occurrence: ECG282
+
+Occurrences:
+  - ECG282: Νικολάου (ბიჭვინთა, II-III AD)
+
+----------------------------------------
+
+Key: ნიკოლოზ
+Primary Name: ნიკოლოზ
+Name Variants: ნიკ ო ლ ო ზ, ნიკოლ ო ზ
+Inscriptions: 3
+First Occurrence: ECG229
+
+Occurrences:
+  - ECG229: ნ ი კ ო ლ ო ზ ი ს (, 1040 AD)
+  - ECG495: ნიკ ო ლ ო ზ (, X-XI AD)
+  - ECG500: ნიკოლ ო ზ (, XI AD)
+
+----------------------------------------
+
+Key: ნიკონი (Νίκον)
+Primary Name: ნიკონი (Νίκον)
+Inscriptions: 1
+First Occurrence: ECG286
+
+Occurrences:
+  - ECG286: Ν ί κον (, VI BC)
+
+----------------------------------------
+
+Key: ნინო [მეუღლე ქაიხოსრო ავალოვისა]
+Primary Name: ნინო [მეუღლე ქაიხოსრო ავალოვისა]
+Inscriptions: 1
+First Occurrence: ECG535
+
+Occurrences:
+  - ECG535: ნინოს (, 1851 წლის 1 მაისი)
+
+----------------------------------------
+
+Key: ორიგენე
+Primary Name: ორიგენე
+Inscriptions: 1
+First Occurrence: ECG257
+
+Occurrences:
+  - ECG257: ოროგჲ ნე (, XIII AD)
+
+----------------------------------------
+
+Key: ოქროი
+Primary Name: ოქროი
+Inscriptions: 1
+First Occurrence: ECG531
+
+Occurrences:
+  - ECG531: ოქროი სი (, XIII-XIV AD)
+
+----------------------------------------
+
+Key: ოქროპირ [ბეღელას ძე]
+Primary Name: ოქროპირ [ბეღელას ძე]
+Inscriptions: 1
+First Occurrence: ECG249
+
+Occurrences:
+  - ECG249: ოქრ ო პი რ (, XII-XIII AD)
+
+----------------------------------------
+
+Key: პავლე ამბა მანგლელი
+Primary Name: პავლე ამბა მანგლელი
+Inscriptions: 1
+First Occurrence: ECG149
+
+Occurrences:
+  - ECG149: ამბა პა ვ ლესი (კუმურდო,კუმურდოს მონასტერი, XI)
+
+----------------------------------------
+
+Key: პაზარიჱლ
+Primary Name: პაზარიჱლ
+Inscriptions: 1
+First Occurrence: ECG116
+
+Occurrences:
+  - ECG116: პ ა ზ ა რ იჱ ლ (ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი, X-XI AD)
+
+----------------------------------------
+
+Key: პაპირიუპასი (Παπριοῦπας)
+Primary Name: პაპირიუპასი (Παπριοῦπας)
+Inscriptions: 1
+First Occurrence: ECG002
+
+Occurrences:
+  - ECG002: Π α π ριοῦπας (, IV-V AD)
+
+----------------------------------------
+
+Key: პატრიკიოს
+Primary Name: პატრიკიოს
+Inscriptions: 1
+First Occurrence: ECG192
+
+Occurrences:
+  - ECG192: პა ტრიკიოსისა (, VII)
+
+----------------------------------------
+
+Key: პეროზ მეფე
+Primary Name: პეროზ მეფე
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Peroz_I
+First Occurrence: ECG052
+
+Occurrences:
+  - ECG052: პერო ზ მ ე ფ ი სა (, 494 AD)
+
+----------------------------------------
+
+Key: პეტრე
+Primary Name: პეტრე
+Inscriptions: 1
+First Occurrence: ECG199
+
+Occurrences:
+  - ECG199: პ ეტრ ე (, VIII-IX ს.)
+
+----------------------------------------
+
+Key: პეტრე [ახტალის] წინამძღუარი
+Primary Name: პეტრე [ახტალის] წინამძღუარი
+Inscriptions: 1
+First Occurrence: ECG354
+
+Occurrences:
+  - ECG354: პ ეტრ ე წ ინამღურისა (ახტალის თორმეტი მოციქულის ეკლესია, სომხეთი, XIII-XIV სს.)
+
+----------------------------------------
+
+Key: პეტრე [ძმა ჭოჭიანის მაშენებელი შიოსი]
+Primary Name: პეტრე [ძმა ჭოჭიანის მაშენებელი შიოსი]
+Inscriptions: 1
+First Occurrence: ECG245
+
+Occurrences:
+  - ECG245: პ ეტრ ე (, XII-XIII AD)
+
+----------------------------------------
+
+Key: პეტრიკოპული
+Primary Name: პეტრიკოპული
+Inscriptions: 1
+First Occurrence: ECG490
+
+Occurrences:
+  - ECG490: პ ე ტ რი კოპული (, XI)
+
+----------------------------------------
+
+Key: რამაზ
+Primary Name: რამაზ
+Inscriptions: 1
+First Occurrence: ECG061
+
+Occurrences:
+  - ECG061: რა მ აზ (ბოლნისის სიონი, VII AD)
+
+----------------------------------------
+
+Key: რატი
+Primary Name: რატი
+Inscriptions: 1
+First Occurrence: ECG349
+
+Occurrences:
+  - ECG349: რატისეული (, 1292 AD)
+
+----------------------------------------
+
+Key: რუსუდან დედოფალი
+Primary Name: რუსუდან დედოფალი
+Name Variants: რუსუდ ა ნ
+Inscriptions: 2
+External URL: https://en.wikipedia.org/wiki/Rusudan_of_Georgia
+First Occurrence: ECG261
+
+Occurrences:
+  - ECG261: რუსუდ ა ნ (, XIII AD)
+  - ECG382: რო ჳ სო ჳ დ ა ნი ს ს ა (ყარსის ციხე, თურქეთი, 1238 AD)
+
+----------------------------------------
+
+Key: რუსუდან ჯაყელი [ზაქარია III მხარგრძელის გაზრდილი]
+Primary Name: რუსუდან ჯაყელი [ზაქარია III მხარგრძელის გაზრდილი]
+Inscriptions: 1
+First Occurrence: ECG340
+
+Occurrences:
+  - ECG340: ჯ ა ყ ე ლისა ა სულ ი სა რ უ ს უ დ ა ნ ი ს ი (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: სადუნ მანკაბერდელი
+Primary Name: სადუნ მანკაბერდელი
+Inscriptions: 1
+External URL: http://www.nplg.gov.ge/wikidict/index.php/მანკაბერდელი_სადუნ
+First Occurrence: ECG351
+
+Occurrences:
+  - ECG351: ათ ა ბ ა ქისა და ამირ სპ ა ს ა ლ ა რისა სადუნისა (ქობაირის მონასტერი, სომხეთი, 1295 AD)
+
+----------------------------------------
+
+Key: სამსონ (Սամսոն)
+Primary Name: სამსონ (Սամսոն)
+Inscriptions: 2
+First Occurrence: ECG155
+
+Occurrences:
+  - ECG155: Սա մսոն (ატენის სიონი, 982-986 AD)
+  - ECG156: Սա մսոն (ატენის სიონი, 982-986 AD)
+
+----------------------------------------
+
+Key: სარგის მხარგრძელი
+Primary Name: სარგის მხარგრძელი
+Inscriptions: 1
+External URL: http://www.nplg.gov.ge/wikidict/index.php/მხარგრძელი_სარგის_(I)
+First Occurrence: ECG170
+
+Occurrences:
+  - ECG170: Սարգսի (, 1210)
+
+----------------------------------------
+
+Key: საურმაგ
+Primary Name: საურმაგ
+Inscriptions: 1
+First Occurrence: ECG116
+
+Occurrences:
+  - ECG116: ს აუ მ ა რგ (ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი, X-XI AD)
+
+----------------------------------------
+
+Key: საჰაკდუხტ
+Primary Name: საჰაკდუხტ
+Inscriptions: 1
+First Occurrence: ECG010
+
+Occurrences:
+  - ECG010: ს აჰაკდუხტ (, V AD)
+
+----------------------------------------
+
+Key: სვიმეონ ბეროზა-ყოფილი
+Primary Name: სვიმეონ ბეროზა-ყოფილი
+Inscriptions: 1
+First Occurrence: ECG126
+
+Occurrences:
+  - ECG126: ს ჳ მ ეო ნ ბ ე რ ოზა ყ ო ფილი (საფარის მონასტრის წმ. საბას ტაძარი, XIII AD)
+
+----------------------------------------
+
+Key: სიმეონი (Συμεῶν)
+Primary Name: სიმეონი (Συμεῶν)
+Inscriptions: 1
+First Occurrence: ECG018
+
+Occurrences:
+  - ECG018: Συμεώ νου (, VI-VII AD)
+
+----------------------------------------
+
+Key: სმბატ [ქურდისა და ბარსეღის მამა] (Սմբատ)
+Primary Name: სმბატ [ქურდისა და ბარსეღის მამა] (Սմբատ)
+Inscriptions: 1
+First Occurrence: ECG173
+
+Occurrences:
+  - ECG173: Սմբատա (, 1220)
+
+----------------------------------------
+
+Key: სმბატ ნაჯმადინის ძე (Սմբատ)
+Primary Name: სმბატ ნაჯმადინის ძე (Սմբատ)
+Inscriptions: 1
+First Occurrence: ECG171
+
+Occurrences:
+  - ECG171: Սմբատ (, 1212)
+
+----------------------------------------
+
+Key: სმბატ უქანის ძე (Սմբատա)
+Primary Name: სმბატ უქანის ძე (Սմբատա)
+Inscriptions: 1
+First Occurrence: ECG171
+
+Occurrences:
+  - ECG171: Սմբատա (, 1212)
+
+----------------------------------------
+
+Key: სმბატ ქურდის ძე [უქანის ძმა] (Սմբատ)
+Primary Name: სმბატ ქურდის ძე [უქანის ძმა] (Սմբատ)
+Inscriptions: 1
+First Occurrence: ECG173
+
+Occurrences:
+  - ECG173: Սմբատ (, 1220)
+
+----------------------------------------
+
+Key: სტეფანე
+Primary Name: სტეფანე
+Inscriptions: 1
+First Occurrence: ECG198
+
+Occurrences:
+  - ECG198: სტეფან ე (, VIII AD)
+
+----------------------------------------
+
+Key: სტეფანე (2)
+Primary Name: სტეფანე (2)
+Inscriptions: 1
+First Occurrence: ECG213
+
+Occurrences:
+  - ECG213: ს ტე ფ ა ნ ე (, 991-1048/49)
+
+----------------------------------------
+
+Key: სტეფანე [კონსტანტის მამა]
+Primary Name: სტეფანე [კონსტანტის მამა]
+Inscriptions: 1
+First Occurrence: ECG012
+
+Occurrences:
+  - ECG012: სტეფანესმან (, VII AD)
+
+----------------------------------------
+
+Key: სტეფანოს ქართლისა პატრიკიოსი
+Primary Name: სტეფანოს ქართლისა პატრიკიოსი
+Inscriptions: 1
+First Occurrence: ECG026
+
+Occurrences:
+  - ECG026: სტეფანო ს ქართლისა პატრი კიოს (, 595-605 AD)
+
+----------------------------------------
+
+Key: სულა გურკანელი
+Primary Name: სულა გურკანელი
+Inscriptions: 1
+First Occurrence: ECG342
+
+Occurrences:
+  - ECG342: გურკენე ლისა ს უ ლას (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+
+----------------------------------------
+
+Key: სჳმონ [ძმა ჭოჭიანის მაშენებელი შიოსი]
+Primary Name: სჳმონ [ძმა ჭოჭიანის მაშენებელი შიოსი]
+Inscriptions: 1
+First Occurrence: ECG245
+
+Occurrences:
+  - ECG245: სჳ მო ნი (, XII-XIII AD)
+
+----------------------------------------
+
+Key: ტიკას (Τικᾶς)
+Primary Name: ტიკას (Τικᾶς)
+Inscriptions: 1
+First Occurrence: ECG002
+
+Occurrences:
+  - ECG002: Τικᾶς (, IV-V AD)
+
+----------------------------------------
+
+Key: ტიტუსი (Τίτος)
+Primary Name: ტიტუსი (Τίτος)
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Titus
+First Occurrence: ECG077
+
+Occurrences:
+  - ECG077: Τίτος (, 75 AD)
+
+----------------------------------------
+
+Key: ულუმპია ხანძთელი
+Primary Name: ულუმპია ხანძთელი
+Inscriptions: 1
+First Occurrence: ECG082
+
+Occurrences:
+  - ECG082: ო ჳ ლ უმ პ ია ჲ ხ ან ცთ ელ ჲ (, X AD)
+
+----------------------------------------
+
+Key: უქან (Ուքան)
+Primary Name: უქან (Ուքան)
+Inscriptions: 1
+First Occurrence: ECG171
+
+Occurrences:
+  - ECG171: Ուքանա (, 1212)
+
+----------------------------------------
+
+Key: უქან ძე ქურდისა [სმბატის ძმა] (Ուքան)
+Primary Name: უქან ძე ქურდისა [სმბატის ძმა] (Ուքան)
+Inscriptions: 1
+First Occurrence: ECG173
+
+Occurrences:
+  - ECG173: Ու քան (, 1220)
+
+----------------------------------------
+
+Key: ფარნავაზ [ბოლნისის სიონის კარის ხელოსანი]
+Primary Name: ფარნავაზ [ბოლნისის სიონის კარის ხელოსანი]
+Inscriptions: 1
+First Occurrence: ECG054
+
+Occurrences:
+  - ECG054: ფარნ ავაზ (, 494 AD)
+
+----------------------------------------
+
+Key: ფარსმან იბერიის მეფე (Φαρασμάνης)
+Primary Name: ფარსმან იბერიის მეფე (Φαρασμάνης)
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Pharasmanes_I_of_Iberia
+First Occurrence: ECG077
+
+Occurrences:
+  - ECG077: Φ αρασμάνου (, 75 AD)
+
+----------------------------------------
+
+Key: ფილოქტისტოსი (Φιλοκτίστος)
+Primary Name: ფილოქტისტოსი (Φιλοκτίστος)
+Inscriptions: 1
+First Occurrence: ECG004
+
+Occurrences:
+  - ECG004: Φι λοκτίστου (, VI-VII)
+
+----------------------------------------
+
+Key: ფორმიონი (Φορμίων)
+Primary Name: ფორმიონი (Φορμίων)
+Inscriptions: 1
+First Occurrence: ECG320
+
+Occurrences:
+  - ECG320: Φορμί ωνος (, IV BC)
+
+----------------------------------------
+
+Key: ქავთარ [ურბნისის შემწე]
+Primary Name: ქავთარ [ურბნისის შემწე]
+Inscriptions: 1
+First Occurrence: ECG036
+
+Occurrences:
+  - ECG036: ქ ავ თ ა რ (, X AD)
+
+----------------------------------------
+
+Key: ქაიხოსრო II ჯაყელი
+Primary Name: ქაიხოსრო II ჯაყელი
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Kaikhosro_II_Jaqeli
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: ათ ა ბ ა გსა ქ ა იხოსრ ო ს (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: ქაიხოსრო ავალის ძე ავალოვი
+Primary Name: ქაიხოსრო ავალის ძე ავალოვი
+Inscriptions: 1
+First Occurrence: ECG535
+
+Occurrences:
+  - ECG535: ქაიხოსრო ავალის ძე ავალოვი (, 1851 წლის 1 მაისი)
+
+----------------------------------------
+
+Key: ქიშვად ავალისშვილი
+Primary Name: ქიშვად ავალისშვილი
+Inscriptions: 1
+First Occurrence: ECG532
+
+Occurrences:
+  - ECG532: ქიშვად ავალისშვილმა (, XVI AD)
+
+----------------------------------------
+
+Key: ქობულ
+Primary Name: ქობულ
+Inscriptions: 1
+First Occurrence: ECG116
+
+Occurrences:
+  - ECG116: ქ ო ბ უ ლ (ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი, X-XI AD)
+
+----------------------------------------
+
+Key: ქობულ სტეფანოს [ადარნასეს ძე]
+Primary Name: ქობულ სტეფანოს [ადარნასეს ძე]
+Name Variants: ქობულ სტ ეფანოს ი
+Inscriptions: 2
+First Occurrence: ECG028
+
+Occurrences:
+  - ECG028: ქობულ (, 595-605 AD)
+  - ECG029: ქობულ სტ ეფანოს ი (, 595-605 AD)
+
+----------------------------------------
+
+Key: ქოჟიგი
+Primary Name: ქოჟიგი
+Inscriptions: 1
+First Occurrence: ECG381
+
+Occurrences:
+  - ECG381: ქოჟი გისა (სოფ. მურუხი, ჭაროდის რაიონი, დაღესტანი, )
+
+----------------------------------------
+
+Key: ქურდ სმბატის ძე (Քուրդ)
+Primary Name: ქურდ სმბატის ძე (Քուրդ)
+Inscriptions: 1
+First Occurrence: ECG173
+
+Occurrences:
+  - ECG173: Քուրդս (, 1220)
+
+----------------------------------------
+
+Key: ყვარყვარე IV ჯაყელი [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Primary Name: ყვარყვარე IV ჯაყელი [ქაიხოსრო II ჯაყელისა და დედისიმედის ძე]
+Inscriptions: 1
+External URL: https://en.wikipedia.org/wiki/Qvarqvare_IV_Jaqeli
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: ყ ვა რყ ვა რე (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: შალვა
+Primary Name: შალვა
+Inscriptions: 1
+First Occurrence: ECG502
+
+Occurrences:
+  - ECG502: შალვასი (, XI AD)
+
+----------------------------------------
+
+Key: შალვა ერისთავთ-ერისთავი
+Primary Name: შალვა ერისთავთ-ერისთავი
+Name Variants: შ ა ლვა
+Inscriptions: 2
+First Occurrence: ECG528
+
+Occurrences:
+  - ECG528: შ ა ლ ვ ა (, XIII AD)
+  - ECG529: შ ა ლვა (, XIII AD)
+
+----------------------------------------
+
+Key: შანშე (შაჰანშა) I მხარგრძელი
+Primary Name: შანშე (შაჰანშა) I მხარგრძელი
+Name Variants: დჲდჲ სა პ ა ტრ ო ნ ისა შ ა ჰ ა ნშ ა ს, შ ა ჰ ა ნშ ა ს მ ა ნდატ უ რთუხუცესისა, შ ა ჰა ნ შა მ ა ნდატ უ რთ უ ხუცესისა, შ ა ჰნშა მ ა ნდ ა ტ უ რთ უ ხ უ ცე სისა, შ ა ჰნშე მ ა ნდ ა ტ უ რთ უ ხ უ ც ე ს ი სა, შ ანშ ე ს
+Inscriptions: 7
+External URL: http://www.nplg.gov.ge/wikidict/index.php/შანშე_(I)_მხარგრძელი
+First Occurrence: ECG1082
+
+Occurrences:
+  - ECG1082: Շահանշահի (, 1216)
+  - ECG340: დჲდჲ სა პ ა ტრ ო ნ ისა შ ა ჰ ა ნშ ა ს (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG345: შ ა ჰა ნ შა მ ა ნდატ უ რთ უ ხუცესისა (ქობაირის მონასტერი, სომხეთი, 1258-1262 AD)
+  - ECG346: შ ანშ ე ს (ქობაირის მონასტერი, სომხეთი, XIII AD)
+  - ECG349: შ ა ჰ ა ნშ ა ს მ ა ნდატ უ რთუხუცესისა (, 1292 AD)
+  - ECG350: შ ა ჰნშე მ ა ნდ ა ტ უ რთ უ ხ უ ც ე ს ი სა (ქობაირის მონასტერი, სომხეთი, 1292 AD)
+  - ECG351: შ ა ჰნშა მ ა ნდ ა ტ უ რთ უ ხ უ ცე სისა (ქობაირის მონასტერი, სომხეთი, 1295 AD)
+
+----------------------------------------
+
+Key: შანშე II მხარგრძელი
+Primary Name: შანშე II მხარგრძელი
+Name Variants: ათ ა ბაქისა შ ანშეს, შ ა ნშეს, შ ა ჰ ა ნშეს, შ აჰა ნშეს
+Inscriptions: 4
+External URL: http://www.nplg.gov.ge/wikidict/index.php/მხარგრძელი_შანშე_(II)
+First Occurrence: ECG338
+
+Occurrences:
+  - ECG338: შ ა ნშეს (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG339: ათ ა ბაქისა შ ანშეს (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG341: ათ ა ბ ა გისა შ ა ნშ ეს (ქობაირის მონასტერი, სომხეთი, XIII-XIV AD)
+  - ECG352: შ აჰა ნშეს (სოფ. კოშის ეკლესია, სომხეთი, 1270-1285 AD)
+  - ECG352: შ ა ჰ ა ნშეს (სოფ. კოშის ეკლესია, სომხეთი, 1270-1285 AD)
+
+----------------------------------------
+
+Key: შარა [მამა ხიჭაჭ ერისთავისა]
+Primary Name: შარა [მამა ხიჭაჭ ერისთავისა]
+Inscriptions: 1
+First Occurrence: ECG242
+
+Occurrences:
+  - ECG242: შ ა რ ა სძე (, XII AD)
+
+----------------------------------------
+
+Key: შარიაქა
+Primary Name: შარიაქა
+Inscriptions: 1
+First Occurrence: ECG504
+
+Occurrences:
+  - ECG504: შარიაქა (, XI AD)
+
+----------------------------------------
+
+Key: შარიქაჲ
+Primary Name: შარიქაჲ
+Inscriptions: 1
+First Occurrence: ECG218
+
+Occurrences:
+  - ECG218: შ ა რ ია ქაჲ (, 1020-1048/49)
+
+----------------------------------------
+
+Key: შაშია
+Primary Name: შაშია
+Inscriptions: 1
+First Occurrence: ECG498
+
+Occurrences:
+  - ECG498: შ ა შ ი ა (, X-XI AD)
+
+----------------------------------------
+
+Key: შერგილ
+Primary Name: შერგილ
+Inscriptions: 1
+First Occurrence: ECG063
+
+Occurrences:
+  - ECG063: შ ერ გ ილ (, V-VI AD)
+
+----------------------------------------
+
+Key: შიო [ჭოჭიანის მაშენებელი]
+Primary Name: შიო [ჭოჭიანის მაშენებელი]
+Inscriptions: 1
+First Occurrence: ECG245
+
+Occurrences:
+  - ECG245: შ იო სა (, XII-XIII AD)
+
+----------------------------------------
+
+Key: შიო მაწყვერელი ეპისკოპოსი
+Primary Name: შიო მაწყვერელი ეპისკოპოსი
+Inscriptions: 1
+First Occurrence: ECG094
+
+Occurrences:
+  - ECG094: მ ა წყ უე რ ე ლ მთ ავარების კ ობო ზს შიოს (, 1467 AD)
+
+----------------------------------------
+
+Key: შოთა
+Primary Name: შოთა
+Inscriptions: 1
+First Occurrence: ECG526
+
+Occurrences:
+  - ECG526: შოთა (, XII-XIIIს.)
+
+----------------------------------------
+
+Key: შოთრიკ
+Primary Name: შოთრიკ
+Inscriptions: 1
+First Occurrence: ECG170
+
+Occurrences:
+  - ECG170: Շոթռկա (, 1210)
+
+----------------------------------------
+
+Key: შუშან [ურბნისის შემწე]
+Primary Name: შუშან [ურბნისის შემწე]
+Inscriptions: 1
+First Occurrence: ECG036
+
+Occurrences:
+  - ECG036: შ უ შ ა ნ (, X AD)
+
+----------------------------------------
+
+Key: შუშანიკ
+Primary Name: შუშანიკ
+Inscriptions: 1
+First Occurrence: ECG067
+
+Occurrences:
+  - ECG067: შ უშანი კისი (, IX AD)
+
+----------------------------------------
+
+Key: ჩორაჩ
+Primary Name: ჩორაჩ
+Inscriptions: 1
+First Occurrence: ECG065
+
+Occurrences:
+  - ECG065: ჩო რაჩ (, VIII AD)
+
+----------------------------------------
+
+Key: ჩქარ
+Primary Name: ჩქარ
+Inscriptions: 1
+First Occurrence: ECG081
+
+Occurrences:
+  - ECG081: ჩ ქ ა რმ ა ნ (, 995 AD)
+
+----------------------------------------
+
+Key: ცხორება
+Primary Name: ცხორება
+Inscriptions: 1
+First Occurrence: ECG226
+
+Occurrences:
+  - ECG226: ცხ ო რ ე ბა (, XI AD)
+
+----------------------------------------
+
+Key: ხარება
+Primary Name: ხარება
+Name Variants: ხ ა რ ე ბა
+Inscriptions: 2
+First Occurrence: ECG521
+
+Occurrences:
+  - ECG521: ხ ა რ ე ბ ა ჲ (, XI ს.)
+  - ECG523: ხ ა რ ე ბა (, X-XI ს.)
+
+----------------------------------------
+
+Key: ხიჭაჭ [შარას ძე] ერისთავი
+Primary Name: ხიჭაჭ [შარას ძე] ერისთავი
+Name Variants: ხ იჭა ჭ
+Inscriptions: 2
+First Occurrence: ECG241
+
+Occurrences:
+  - ECG241: ხ იჭა ჭ (, XII AD)
+  - ECG242: ხ ი ჭ ა ჭ (, XII AD)
+
+----------------------------------------
+
+Key: ხუაშაქ [შანშე (შაჰანშა) I მხარგრძელის მეუღლე, ლაკლაკთა ასული]
+Primary Name: ხუაშაქ [შანშე (შაჰანშა) I მხარგრძელის მეუღლე, ლაკლაკთა ასული]
+Name Variants: ხ უა შ ა ქისაი, ხჳაშ ა სა
+Inscriptions: 3
+First Occurrence: ECG345
+
+Occurrences:
+  - ECG345: ხ უა შ ა ქისაი (ქობაირის მონასტერი, სომხეთი, 1258-1262 AD)
+  - ECG346: ხჳაშ ა სა (ქობაირის მონასტერი, სომხეთი, XIII AD)
+  - ECG352: ხ ო შ ა მ ა ნ (სოფ. კოშის ეკლესია, სომხეთი, 1270-1285 AD)
+
+----------------------------------------
+
+Key: ხუაში [ბიეთის მაშენებელი]
+Primary Name: ხუაში [ბიეთის მაშენებელი]
+Name Variants: ხ უა ში
+Inscriptions: 1
+First Occurrence: ECG091
+
+Occurrences:
+  - ECG091: ხ უა ში (, XIII-XIV AD)
+  - ECG091: ხ უა შ ი სა (, XIII-XIV AD)
+
+----------------------------------------
+
+Key: ხუდადისძენი
+Primary Name: ხუდადისძენი
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: ხ უ დ ა დ ი სძ ე სა (, XIII AD)
+
+----------------------------------------
+
+Key: ხუფარაც ტიკინი
+Primary Name: ხუფარაც ტიკინი
+Inscriptions: 1
+First Occurrence: ECG260
+
+Occurrences:
+  - ECG260: ხ უ ფ ა რ ა ც (, XIII AD)
+
+----------------------------------------
+
+Key: ხუცესი საბა
+Primary Name: ხუცესი საბა
+Inscriptions: 1
+First Occurrence: ECG246
+
+Occurrences:
+  - ECG246: საბა (, XII-XIII AD)
+
+----------------------------------------
+
+Key: ჯუნსკანი (Ջունդկան) [ხელოსანი ანისისა]
+Primary Name: ჯუნსკანი (Ջունդկան) [ხელოსანი ანისისა]
+Inscriptions: 1
+First Occurrence: ECG159
+
+Occurrences:
+  - ECG159: Ջունդկանս (, 1206)
+
+----------------------------------------
+
+Key: ჰერაკლე (ერეკლე) [ბაგრატ I მუხრანბატონის ძე]
+Primary Name: ჰერაკლე (ერეკლე) [ბაგრატ I მუხრანბატონის ძე]
+Name Variants: ჰ ე რ აკლე
+Inscriptions: 1
+First Occurrence: ECG099
+
+Occurrences:
+  - ECG099: ჰ ე რ ა კლ ეს (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+  - ECG099: ჰ ე რ აკლე (ვალეს ღვთისმშობლის ეკლესია, 1561-1564 AD)
+
+----------------------------------------
+
+Key: ჰერმეს-მერკური (Ἑρμῆς Μερκούριους)
+Primary Name: ჰერმეს-მერკური (Ἑρμῆς Μερκούριους)
+Inscriptions: 1
+First Occurrence: ECG332
+
+Occurrences:
+  - ECG332: Ἑρμῆν Μαρκῦριν (, წარწერის ენობრივი და პალეოგრაფიული თავისებურებებიდან 
+                                    გამომდინარე წარწერა II-III სს-ში AD უნდა იყოს შესრულებული.)
+
+----------------------------------------
+
+Key: ჰისე (Յիսէի)
+Primary Name: ჰისე (Յիսէի)
+Inscriptions: 1
+First Occurrence: ECG172
+
+Occurrences:
+  - ECG172: Յիսէի (, 1212)
+
+----------------------------------------
+
+Key: ჰოვჰანეს ჰაღბატის წინამძღვარი
+Primary Name: ჰოვჰანეს ჰაღბატის წინამძღვარი
+Inscriptions: 1
+First Occurrence: ECG173
+
+Occurrences:
+  - ECG173: Յոհա նիսի (, 1220)
+
+----------------------------------------
+
+Key: ჲოვანე ნიკოლოზის ძე
+Primary Name: ჲოვანე ნიკოლოზის ძე
+Inscriptions: 1
+First Occurrence: ECG229
+
+Occurrences:
+  - ECG229: ჲ ო ვ ა ნ ე ს (, 1040 AD)
+
+----------------------------------------
+

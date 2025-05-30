@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ქართული ეპიგრაფიული კორპუსი - ტესტი</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="georgian">ქართული ეპიგრაფიული კორპუსი</h1>
+            <p class="subtitle">Georgian Epigraphic Corpus - Enhanced Styling Test</p>
+        </div>
+    </header>
+
+    <nav class="nav">
+        <div class="container">
+            <ul class="nav-list">
+                <li class="nav-item"><a href="#" class="active">მთავარი</a></li>
+                <li class="nav-item"><a href="#">ეპიგრაფები</a></li>
+                <li class="nav-item"><a href="#">ბიბლიოგრაფია</a></li>
+                <li class="nav-item"><a href="#" onclick="toggleTheme()">🌓 Theme</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="main">
+        <div class="container">
+            <h2 class="georgian">ნიმუშის ეპიგრაფები</h2>
+
+            <div class="card inscription">
+                <div class="inscription-header">
+                    <h3 class="inscription-id">ECG-001</h3>
+                    <div class="metadata-value">V-VI საუკუნეები</div>
+                </div>
+
+                <div class="inscription-metadata">
+                    <div class="metadata-item">
+                        <span class="metadata-label">ადგილმდებარეობა</span>
+                        <span class="metadata-value georgian">თბილისი</span>
+                    </div>
+                    <div class="metadata-item">
+                        <span class="metadata-label">მასალა</span>
+                        <span class="metadata-value georgian">ქვა</span>
+                    </div>
+                    <div class="metadata-item">
+                        <span class="metadata-label">ტიპი</span>
+                        <span class="metadata-value georgian">საფლავის ეპიგრაფი</span>
+                    </div>
+                </div>
+
+                <div class="inscription-text">
+                    <div class="text-original georgian-serif">
+                        + იოვანე ქრისტეს მონაა + <br>
+                        რომელმან დაწერა ესე წიგნი <br>
+                        ღმერთმან შეიწყალნოს იგი +
+                    </div>
+                    <div class="text-translation">
+                        + John is a servant of Christ +<br>
+                        Who wrote this book<br>
+                        May God have mercy on him +
+                    </div>
+                </div>
+            </div>
+
+            <div class="card inscription">
+                <div class="inscription-header">
+                    <h3 class="inscription-id">ECG-002</h3>
+                    <div class="metadata-value">VII საუკუნე</div>
+                </div>
+
+                <div class="inscription-metadata">
+                    <div class="metadata-item">
+                        <span class="metadata-label">ადგილმდებარეობა</span>
+                        <span class="metadata-value georgian">მცხეთა</span>
+                    </div>
+                    <div class="metadata-item">
+                        <span class="metadata-label">მასალა</span>
+                        <span class="metadata-value georgian">ქვა</span>
+                    </div>
+                    <div class="metadata-item">
+                        <span class="metadata-label">ტიპი</span>
+                        <span class="metadata-value georgian">ეკლესიის ეპიგრაფი</span>
+                    </div>
+                </div>
+
+                <div class="inscription-text">
+                    <div class="text-original georgian-serif">
+                        + ქრისტე ღმერთო აცხოვნე მე + <br>
+                        სტეფანე ცოდვილი <br>
+                        რომელმან აღავსო ესე ეკლესია +
+                    </div>
+                    <div class="text-translation">
+                        + Christ God, save me +<br>
+                        Stephen the sinner<br>
+                        Who erected this church +
+                    </div>
+                </div>
+            </div>
+
+            <div class="bibliography">
+                <h3 class="georgian">ბიბლიოგრაფია</h3>
+                <ul class="bibliography-list">
+                    <li class="bibliography-item">
+                        Gagoshidze, Giorgi. "Georgian Inscriptions of the 5th-10th Centuries." Tbilisi, 2014.
+                    </li>
+                    <li class="bibliography-item">
+                        Khintibidze, Elguja. "Early Christian Georgian Epigraphy." Tbilisi, 2012.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        function toggleTheme() {
+            const body = document.body;
+            const currentTheme = body.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            body.setAttribute('data-theme', newTheme);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscription Unknown - ECG</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <!-- Remove the problematic font preloads -->
+</head>
+
+
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="../index.html" class="brand">ECG - Epigraphic Corpus of Georgia</a>
+            <div class="nav-links">
+                <a href="index.html">საწყისი</a>
+                <a href="browse.html">წარწერები</a>
+                <a href="persons.html">პირები</a>
+                <a href="bibliography.html">ბიბლიოგრაფია</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <div class="inscription-header">
+            <h1>Inscription Unknown</h1>
+            <div class="inscription-meta">
+                <span class="id">№ ECG209</span>
+                <span class="lang">🌐 ka</span>
+            </div>
+        </div>
+
+        <div class="tabs">
+            <button onclick="showTab('overview')" id="tab-overview" class="active"><span class="ka">მიმოხილვა</span> <span class="en">Overview</span></button>
+            <button onclick="showTab('text')" id="tab-text"><span class="ka">ტექსტი</span> <span class="en">Text</span></button>
+            
+            
+            
+            <button onclick="showTab('xml')" id="tab-xml"><span class="en">XML Source</span></button>
+        </div>
+
+
+
+        <div id="content-overview" class="tab-content active">
+            <div class="overview">
+                    <div class="metadata-group">
+                        <h4>ძირითადი ინფორმაცია / Basic Information</h4>
+                        
+                <div class="meta-item">
+                    <span class="bilingual-label"><span class="ka">იდენტიფიკატორი</span> <span class="en">ID</span>:</span>
+                    <span class="meta-value">ECG209</span>
+                </div>
+            
+                <div class="meta-item">
+                    <span class="bilingual-label"><span class="ka">ენა</span> <span class="en">Language</span>:</span>
+                    <span class="meta-value">Georgian (ka)</span>
+                </div>
+            
+                    </div>
+                </div>
+            
+        </div>
+
+        <div id="content-text" class="tab-content">
+            <div class="text-editions">
+                <div class="no-text-content"><p>No text content available.</p></div>
+            </div>
+        </div>
+
+        
+        
+        
+
+        <div id="content-xml" class="tab-content">
+            <div class="xml-formatted"><div class="xml-notice">No edition content available</div></div>
+        </div>
+    </main>
+
+    <script src="../static/js/tabs.js"></script>
+</body>
+</html>

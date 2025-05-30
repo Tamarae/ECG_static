@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>დავით ქართველთა მეფე - პროსოპოგრაფია</title>
+        <link rel="stylesheet" href="../static/css/style.css">
+        <meta name="description" content="Prosopographical record for დავით ქართველთა მეფე from the Epigraphic Corpus of Georgia">
+    </head>
+    <body>
+        <nav class="navbar">
+            <div class="container">
+                <a href="../index.html" class="brand">ECG - Epigraphic Corpus of Georgia</a>
+                <div class="nav-links">
+                    <a href="../index.html">საწყისი</a>
+                    <a href="../browse.html">წარწერები</a>
+                    <a href="../persons.html">პირები</a>
+                    <a href="../bibliography.html">ბიბლიოგრაფია</a>
+                </div>
+            </div>
+        </nav>
+    
+        <main class="container">
+            <div class="breadcrumb">
+                <a href="../persons.html">პროსოპოგრაფია</a> / <span>დავით ქართველთა მეფე</span>
+            </div>
+            
+            <!-- Centered Person Header (Your Style) -->
+            <div class="person-header">
+                <h1 class="person-name georgian-text">დავით ქართველთა მეფე</h1>
+                
+            </div>
+    
+            <!-- Two Column Grid (Simplified Layout) -->
+            <div class="two-column-grid">            
+                <!-- Left Column: Name Variants & References -->
+                <div class="card">
+                    
+                    
+                </div>
+    
+                <!-- Center Column: Attestations & Sources (Your Style) -->
+                <div class="card">
+                    <h3>წყაროები / Sources and Attestations</h3>
+                    <p style="margin-bottom: 16px;"><strong>სულ:</strong> 1</p>
+                    
+                    <div class="attestations-content">
+                        
+                    <div class="attestation-entry">
+                        <div class="attestation-header">
+                            <strong class="inscription-id">ECG1104</strong>
+                            <span class="inscription-tag">INSCRIPTION</span>
+                        </div>
+                        <h4 class="inscription-title georgian-text">
+                            <a href="../inscriptions/ECG1104.html" target="_blank">ოპიზის ეკლესიის რელიეფების ქტიტორული წარწერა აშოტისა და დავითისა</a>
+                        </h4>
+                        <div class="attestation-details">
+                            
+                            <span class="detail-date">📅 923-937</span>
+                            <span class="detail-language">ka</span>
+                        </div>
+                    </div>
+                
+                    </div>
+                </div>
+    
+                <!-- Right Column: Co-occurring Persons -->
+                <div class="card">
+                    
+                    
+                    <!-- Citation -->
+                    <div class="citation-section">
+                        <h4>ციტირება / Citation</h4>
+                        <div class="citation-text">
+                            პროსოპოგრაფია. "დავით ქართველთა მეფე." 
+                            წვდომის თარიღი: <span id="access-date"></span>. 
+                            georgianprosopography.org/person/davith-qarthveltha-mephe
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    
+        <script>
+            // Set access date
+            document.getElementById('access-date').textContent = new Date().toLocaleDateString('ka-GE');
+            
+            // Export functionality
+            function exportPersonData() {
+                const data = {
+                    name: "დავით ქართველთა მეფე",
+                    uri: "davith-qarthveltha-mephe",
+                    inscriptions: 1,
+                    locations: 0,
+                    attestations: 1
+                };
+                
+                const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'davith-qarthveltha-mephe.json';
+                a.click();
+                URL.revokeObjectURL(url);
+            }
+            
+            // Copy URL functionality
+            function copyUrl() {
+                navigator.clipboard.writeText(window.location.href).then(() => {
+                    alert('URL copied to clipboard!');
+                }).catch(err => {
+                    console.error('Could not copy URL: ', err);
+                });
+            }
+        </script>
+    </body>
+    </html>

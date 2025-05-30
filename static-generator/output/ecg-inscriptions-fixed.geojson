@@ -1,0 +1,4231 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3833,
+          41.5583
+        ]
+      },
+      "properties": {
+        "place": "ნუხა",
+        "primary_language": "grc",
+        "popup_title": "ნუხა",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG014",
+            "title": "ნუხის ბერძნულწარწერიანი ფილა",
+            "language": "grc",
+            "url": "inscriptions/ECG014.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7145,
+          41.8423
+        ]
+      },
+      "properties": {
+        "place": "არმაზისხევი",
+        "primary_language": "grc",
+        "popup_title": "არმაზისხევი",
+        "popup_subtitle": "5 inscriptions",
+        "popup_languages": "Greek: 5",
+        "count": 5,
+        "inscription_count": 5,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 5
+        },
+        "inscriptions": [
+          {
+            "id": "ECG015",
+            "title": "ბერძნულწარწერიანი ვერცხლის ლანგარი არმაზისხევიდან",
+            "language": "grc",
+            "url": "inscriptions/ECG015.html"
+          },
+          {
+            "id": "ECG073",
+            "title": "ბერძნულწარწერიანი ვერცხლის ლანგარი",
+            "language": "grc",
+            "url": "inscriptions/ECG073.html"
+          },
+          {
+            "id": "ECG268",
+            "title": "ოქროს ბეჭედი",
+            "language": "grc",
+            "url": "inscriptions/ECG268.html"
+          },
+          {
+            "id": "ECG310",
+            "title": "ოქროს ქამრის ბალთა",
+            "language": "grc",
+            "url": "inscriptions/ECG310.html"
+          },
+          {
+            "id": "ECG327",
+            "title": "ასპავრუკის ოქროს ბეჭედი",
+            "language": "grc",
+            "url": "inscriptions/ECG327.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 5,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0833,
+          42.9167
+        ]
+      },
+      "properties": {
+        "place": "წებელდა",
+        "primary_language": "grc",
+        "popup_title": "წებელდა",
+        "popup_subtitle": "4 inscriptions",
+        "popup_languages": "Greek: 4",
+        "count": 4,
+        "inscription_count": 4,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 4
+        },
+        "inscriptions": [
+          {
+            "id": "ECG017",
+            "title": "წარწერა თუთიის მედალიონზე წებელდიდან",
+            "language": "grc",
+            "url": "inscriptions/ECG017.html"
+          },
+          {
+            "id": "ECG289",
+            "title": "აგური ბერძნულწარწერიანი დამღით",
+            "language": "grc",
+            "url": "inscriptions/ECG289.html"
+          },
+          {
+            "id": "ECG290",
+            "title": "აგური ბერძნული მთავრული წარწერით",
+            "language": "grc",
+            "url": "inscriptions/ECG290.html"
+          },
+          {
+            "id": "ECG305",
+            "title": "წარწერა ბრინჯაოს ბალთაზე",
+            "language": "grc",
+            "url": "inscriptions/ECG305.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 4,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5,
+          42.0833
+        ]
+      },
+      "properties": {
+        "place": "ვანი",
+        "primary_language": "grc",
+        "popup_title": "ვანი",
+        "popup_subtitle": "6 inscriptions",
+        "popup_languages": "Greek: 5, Aramaic: 1",
+        "count": 6,
+        "inscription_count": 6,
+        "has_multiple_languages": true,
+        "is_major_site": false,
+        "size_category": 3,
+        "language_diversity": 2,
+        "languages": {
+          "grc": 5,
+          "arc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG020",
+            "title": "ოქროს ბეჭედი წარწერით „დედატოს“",
+            "language": "grc",
+            "url": "inscriptions/ECG020.html"
+          },
+          {
+            "id": "ECG1079",
+            "title": "არამეული წარწერა ოქროს ფირფიტაზე (I ს.) ვანიდან",
+            "language": "arc",
+            "url": "inscriptions/ECG1079.html"
+          },
+          {
+            "id": "ECG300",
+            "title": "კრამიტის დამღა",
+            "language": "grc",
+            "url": "inscriptions/ECG300.html"
+          },
+          {
+            "id": "ECG330",
+            "title": "ვანის ბერძნული წარწერა (II)",
+            "language": "grc",
+            "url": "inscriptions/ECG330.html"
+          },
+          {
+            "id": "ECG331",
+            "title": "ვანის ბერძნული წარწერა (III)",
+            "language": "grc",
+            "url": "inscriptions/ECG331.html"
+          },
+          {
+            "id": "ECG353",
+            "title": "კრამიტის დამღა ითხვისიდან",
+            "language": "grc",
+            "url": "inscriptions/ECG353.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 5,
+        "armenian_count": 0,
+        "aramaic_count": 1,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5126,
+          41.3889
+        ]
+      },
+      "properties": {
+        "place": "ბოლნისის სიონი",
+        "primary_language": "ka",
+        "popup_title": "ბოლნისის სიონი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG061",
+            "title": "ბოლნისის სიონის VII ს. ფრაგმენტი",
+            "language": "ka",
+            "url": "inscriptions/ECG061.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3167,
+          44.8951
+        ]
+      },
+      "properties": {
+        "place": "ანაპა",
+        "primary_language": "grc",
+        "popup_title": "ანაპა",
+        "popup_subtitle": "3 inscriptions",
+        "popup_languages": "Greek: 3",
+        "count": 3,
+        "inscription_count": 3,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 3
+        },
+        "inscriptions": [
+          {
+            "id": "ECG071",
+            "title": "ანაპის ბერძნულწარწერიანი მარმარილოს ფილის ფრაგმენტი",
+            "language": "grc",
+            "url": "inscriptions/ECG071.html"
+          },
+          {
+            "id": "ECG072",
+            "title": "ანაპის პრიზმა",
+            "language": "grc",
+            "url": "inscriptions/ECG072.html"
+          },
+          {
+            "id": "ECG314",
+            "title": "ანაპის მარმარილოს სტელა",
+            "language": "grc",
+            "url": "inscriptions/ECG314.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 3,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7188,
+          41.8451
+        ]
+      },
+      "properties": {
+        "place": "მცხეთა",
+        "primary_language": "mixed",
+        "popup_title": "მცხეთა",
+        "popup_subtitle": "25 inscriptions",
+        "popup_languages": "Aramaic: 12, Greek: 7, Hebrew: 6",
+        "count": 25,
+        "inscription_count": 25,
+        "has_multiple_languages": true,
+        "is_major_site": true,
+        "size_category": 4,
+        "language_diversity": 3,
+        "languages": {
+          "grc": 7,
+          "he": 6,
+          "arc": 12
+        },
+        "inscriptions": [
+          {
+            "id": "ECG075",
+            "title": "მცხეთის ანტიოქიის ეკლესიის ქვიშაქვის სტელა",
+            "language": "grc",
+            "url": "inscriptions/ECG075.html"
+          },
+          {
+            "id": "ECG076",
+            "title": "მოგვთა უბანში აღმოჩენილი ქვიშაქვის ფილა",
+            "language": "grc",
+            "url": "inscriptions/ECG076.html"
+          },
+          {
+            "id": "ECG1012",
+            "title": "აბრაამ სარას ძის ამულეტი",
+            "language": "he",
+            "url": "inscriptions/ECG1012.html"
+          },
+          {
+            "id": "ECG1013",
+            "title": "ებრაული ეპიტაფია I (ბროსე)",
+            "language": "he",
+            "url": "inscriptions/ECG1013.html"
+          },
+          {
+            "id": "ECG1016",
+            "title": "ებრაული ეპიტაფია VI (ბროსე)",
+            "language": "he",
+            "url": "inscriptions/ECG1016.html"
+          },
+          {
+            "id": "ECG1029",
+            "title": "ქუთაისის ებრაული წარწერა",
+            "language": "he",
+            "url": "inscriptions/ECG1029.html"
+          },
+          {
+            "id": "ECG1066",
+            "title": "ძვლის სამკითხაო ფირფიტებზე დატანილი არამეული წარწერები (I ს.) დედოფლის გორიდან.",
+            "language": "arc",
+            "url": "inscriptions/ECG1066.html"
+          },
+          {
+            "id": "ECG1068",
+            "title": "მცხეთის არამეული წარწერა",
+            "language": "arc",
+            "url": "inscriptions/ECG1068.html"
+          },
+          {
+            "id": "ECG1069",
+            "title": "მცხეთის არამეული წარწერა N2",
+            "language": "arc",
+            "url": "inscriptions/ECG1069.html"
+          },
+          {
+            "id": "ECG1070",
+            "title": "ოქროს რვა საავგაროზე ფირფიტა (II ს.) არმაზისხევი",
+            "language": "arc",
+            "url": "inscriptions/ECG1070.html"
+          },
+          {
+            "id": "ECG1071",
+            "title": "ბერსუმა პიტიახშის ლანგარი (I ან III ს.) არმაზისხევი",
+            "language": "arc",
+            "url": "inscriptions/ECG1071.html"
+          },
+          {
+            "id": "ECG1072",
+            "title": "ბერსუმა პიტიახშის ოქროს ბეჭედი (IV ს.) არმაზისხევი",
+            "language": "arc",
+            "url": "inscriptions/ECG1072.html"
+          },
+          {
+            "id": "ECG1073",
+            "title": "ბერსუმა პიტიახშის ორი სამაჯური (IV ს.) არმაზისხევი",
+            "language": "arc",
+            "url": "inscriptions/ECG1073.html"
+          },
+          {
+            "id": "ECG1074",
+            "title": "წარწერა ორსენაკიანი ნაგებობის კედლის ორ ქვაზე (II-III სს.) ბაგინეთი",
+            "language": "arc",
+            "url": "inscriptions/ECG1074.html"
+          },
+          {
+            "id": "ECG1075",
+            "title": "წარწერა სარკოფაგის ვერცხლის ნივთებზე (III ს.) ბაგინეთი",
+            "language": "arc",
+            "url": "inscriptions/ECG1075.html"
+          },
+          {
+            "id": "ECG1076",
+            "title": "ქვევრების პირებზე ამოკვეთილი წარწერები უფლისციხიდან (ძვ. წ. I ს ან ახ. წ. II-III სს.)",
+            "language": "arc",
+            "url": "inscriptions/ECG1076.html"
+          },
+          {
+            "id": "ECG1077",
+            "title": "არამეული წარწერა ურბნისიდან (II-III სს.)",
+            "language": "arc",
+            "url": "inscriptions/ECG1077.html"
+          },
+          {
+            "id": "ECG1081",
+            "title": "საკურთხეველზე ამოკაწრული არამეული გრაფიტოები (II-III სს.) ძალისიდან",
+            "language": "arc",
+            "url": "inscriptions/ECG1081.html"
+          },
+          {
+            "id": "ECG266",
+            "title": "მცხეთის ებრაული ეპიტაფია, (1872)",
+            "language": "he",
+            "url": "inscriptions/ECG266.html"
+          },
+          {
+            "id": "ECG267",
+            "title": "ბარ-ჰაზანის ეპიტაფია მცხეთიდან (1938)",
+            "language": "he",
+            "url": "inscriptions/ECG267.html"
+          },
+          {
+            "id": "ECG269",
+            "title": "რკინის ბეჭედი მოგვთაკარიდან",
+            "language": "grc",
+            "url": "inscriptions/ECG269.html"
+          },
+          {
+            "id": "ECG270",
+            "title": "ოქროს ბეჭედი ამეთვისტოთი",
+            "language": "grc",
+            "url": "inscriptions/ECG270.html"
+          },
+          {
+            "id": "ECG271",
+            "title": "ჰემატიტის მძივი",
+            "language": "grc",
+            "url": "inscriptions/ECG271.html"
+          },
+          {
+            "id": "ECG324",
+            "title": "საბეჭდავი ოქროს ბეჭედი",
+            "language": "grc",
+            "url": "inscriptions/ECG324.html"
+          },
+          {
+            "id": "ECG328",
+            "title": "პენალი ბერძნული წარწერებით",
+            "language": "grc",
+            "url": "inscriptions/ECG328.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 7,
+        "armenian_count": 0,
+        "aramaic_count": 12,
+        "hebrew_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8333,
+          41.9167
+        ]
+      },
+      "properties": {
+        "place": "უკანგორი",
+        "primary_language": "ka",
+        "popup_title": "უკანგორი",
+        "popup_subtitle": "2 inscriptions",
+        "popup_languages": "Georgian: 2",
+        "count": 2,
+        "inscription_count": 2,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 2
+        },
+        "inscriptions": [
+          {
+            "id": "ECG078",
+            "title": "უკანგორი. V/VI სს. მოსახსენებელი (II)",
+            "language": "ka",
+            "url": "inscriptions/ECG078.html"
+          },
+          {
+            "id": "ECG360",
+            "title": "უკანგორი, მოსახსენებელი თათვარაზისა",
+            "language": "ka",
+            "url": "inscriptions/ECG360.html"
+          }
+        ],
+        "georgian_count": 2,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5833,
+          42.1667
+        ]
+      },
+      "properties": {
+        "place": "ვალეს ღვთისმშობლის ეკლესია",
+        "primary_language": "ka",
+        "popup_title": "ვალეს ღვთისმშობლის ეკლესია",
+        "popup_subtitle": "5 inscriptions",
+        "popup_languages": "Georgian: 5",
+        "count": 5,
+        "inscription_count": 5,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 5
+        },
+        "inscriptions": [
+          {
+            "id": "ECG099",
+            "title": "ვალეს დედისიმედის წარწერა (ყველაზე დიდი ეპიგრაფიკული ძეგლი საქართველოში)",
+            "language": "ka",
+            "url": "inscriptions/ECG099.html"
+          },
+          {
+            "id": "ECG104",
+            "title": "ვალეს კრავის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG104.html"
+          },
+          {
+            "id": "ECG105",
+            "title": "ვალეს არსენის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG105.html"
+          },
+          {
+            "id": "ECG106",
+            "title": "ვალეს ნავრაის ძისწულის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG106.html"
+          },
+          {
+            "id": "ECG127",
+            "title": "ვალეს გაბრიელ მახარებლის გამოსახულების წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG127.html"
+          }
+        ],
+        "georgian_count": 5,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8333,
+          41.8333
+        ]
+      },
+      "properties": {
+        "place": "ქარზამეთის ეკლესია",
+        "primary_language": "ka",
+        "popup_title": "ქარზამეთის ეკლესია",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG100",
+            "title": "ქარზამეთის გრიგოლ მაწყვერელი ეპისკოპოსის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG100.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8333,
+          41.6667
+        ]
+      },
+      "properties": {
+        "place": "სათხის",
+        "primary_language": "ka",
+        "popup_title": "სათხის",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG1007",
+            "title": "სათხის სააღაპე წარწერა გიორგი შაზელისძისა",
+            "language": "ka",
+            "url": "inscriptions/ECG1007.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8333,
+          41.75
+        ]
+      },
+      "properties": {
+        "place": "აბასთუმნის ძველი ეკლესია",
+        "primary_language": "ka",
+        "popup_title": "აბასთუმნის ძველი ეკლესია",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG101",
+            "title": "აბასთუმნის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG101.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65,
+          41.55
+        ]
+      },
+      "properties": {
+        "place": "ზარზმის მონასტერი",
+        "primary_language": "ka",
+        "popup_title": "ზარზმის მონასტერი",
+        "popup_subtitle": "5 inscriptions",
+        "popup_languages": "Georgian: 5",
+        "count": 5,
+        "inscription_count": 5,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 5
+        },
+        "inscriptions": [
+          {
+            "id": "ECG102",
+            "title": "ზარზმის ფერისცვალების ხატის პავლე მამასახლისის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG102.html"
+          },
+          {
+            "id": "ECG112",
+            "title": "ზარზმის ეპრაქსია ლაკლაკთა დედის წარწერა ღვთისმშობლის ხატზე",
+            "language": "ka",
+            "url": "inscriptions/ECG112.html"
+          },
+          {
+            "id": "ECG113",
+            "title": "ზარზმის ფერისცვალების ხატის ზვიად ერისთავის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG113.html"
+          },
+          {
+            "id": "ECG114",
+            "title": "ზარზმის ფარსმან ერისთავის წარწერა სამწერობელზე",
+            "language": "ka",
+            "url": "inscriptions/ECG114.html"
+          },
+          {
+            "id": "ECG389",
+            "title": "ზარზმის ისაკისა და მისი შვილების წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG389.html"
+          }
+        ],
+        "georgian_count": 5,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.25,
+          41.5167
+        ]
+      },
+      "properties": {
+        "place": "ხვილიშას ტაძარი, ასპინძის მუნიციპალიტეტი",
+        "primary_language": "ka",
+        "popup_title": "ხვილიშას ტაძარი, ასპინძის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG103",
+            "title": "ხვილიშას ტაძრის თეოდოტის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG103.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0959,
+          41.9039
+        ]
+      },
+      "properties": {
+        "place": "ატენის სიონი",
+        "primary_language": "hy",
+        "popup_title": "ატენის სიონი",
+        "popup_subtitle": "8 inscriptions",
+        "popup_languages": "Armenian: 6, Georgian: 1, Greek: 1",
+        "count": 8,
+        "inscription_count": 8,
+        "has_multiple_languages": true,
+        "is_major_site": false,
+        "size_category": 3,
+        "language_diversity": 3,
+        "languages": {
+          "ka": 1,
+          "hy": 6,
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG1031",
+            "title": "ატენის სიონი, ცამეტსტრიქონიანი წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG1031.html"
+          },
+          {
+            "id": "ECG152",
+            "title": "გერგიუმ ერჰასანის ძის წარწერა",
+            "language": "hy",
+            "url": "inscriptions/ECG152.html"
+          },
+          {
+            "id": "ECG153",
+            "title": "თოდოსაკის წარწერა",
+            "language": "hy",
+            "url": "inscriptions/ECG153.html"
+          },
+          {
+            "id": "ECG154",
+            "title": "თოდოსას წარწერა",
+            "language": "hy",
+            "url": "inscriptions/ECG154.html"
+          },
+          {
+            "id": "ECG155",
+            "title": "სამსონის წარწერა",
+            "language": "hy",
+            "url": "inscriptions/ECG155.html"
+          },
+          {
+            "id": "ECG156",
+            "title": "სამსონისა და აბაკუმის წარწერა",
+            "language": "hy",
+            "url": "inscriptions/ECG156.html"
+          },
+          {
+            "id": "ECG157",
+            "title": "გრიგორის წარწერა",
+            "language": "hy",
+            "url": "inscriptions/ECG157.html"
+          },
+          {
+            "id": "ECG423",
+            "title": "ატენის სიონის წარწერები",
+            "language": "grc",
+            "url": "inscriptions/ECG423.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 1,
+        "armenian_count": 6,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75,
+          41.85
+        ]
+      },
+      "properties": {
+        "place": "ხცისი",
+        "primary_language": "ka",
+        "popup_title": "ხცისი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG1063",
+            "title": "ხცისი, დასავლეთ ფასადის წარწერები",
+            "language": "ka",
+            "url": "inscriptions/ECG1063.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7,
+          41.8333
+        ]
+      },
+      "properties": {
+        "place": "არმაზი",
+        "primary_language": "mixed",
+        "popup_title": "არმაზი",
+        "popup_subtitle": "3 inscriptions",
+        "popup_languages": "Greek: 2, Aramaic: 1",
+        "count": 3,
+        "inscription_count": 3,
+        "has_multiple_languages": true,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 2,
+        "languages": {
+          "arc": 1,
+          "grc": 2
+        },
+        "inscriptions": [
+          {
+            "id": "ECG1067",
+            "title": "„გამარჯვების სტელა“, იგივე არმაზის მონოლინგვა (I ს.) No1",
+            "language": "arc",
+            "url": "inscriptions/ECG1067.html"
+          },
+          {
+            "id": "ECG311",
+            "title": "ოქროს ბეჭედი",
+            "language": "grc",
+            "url": "inscriptions/ECG311.html"
+          },
+          {
+            "id": "ECG312",
+            "title": "ზევახის ოქროს ბეჭედი",
+            "language": "grc",
+            "url": "inscriptions/ECG312.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 2,
+        "armenian_count": 0,
+        "aramaic_count": 1,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6833,
+          41.7667
+        ]
+      },
+      "properties": {
+        "place": "სოფელ ხეოთის ნამონასტრალი",
+        "primary_language": "ka",
+        "popup_title": "სოფელ ხეოთის ნამონასტრალი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG107",
+            "title": "ხეოთის ვაჩაჲს, გურაჲს და მირაჲს წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG107.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1667,
+          42.7167
+        ]
+      },
+      "properties": {
+        "place": "ზღუდერი",
+        "primary_language": "grc",
+        "popup_title": "ზღუდერი",
+        "popup_subtitle": "4 inscriptions",
+        "popup_languages": "Greek: 3, Aramaic: 1",
+        "count": 4,
+        "inscription_count": 4,
+        "has_multiple_languages": true,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 2,
+        "languages": {
+          "arc": 1,
+          "grc": 3
+        },
+        "inscriptions": [
+          {
+            "id": "ECG1078",
+            "title": "ვერცხლის ოთხ ნივთზე ამოკაწრული წარწერები ზღუდერიდან",
+            "language": "arc",
+            "url": "inscriptions/ECG1078.html"
+          },
+          {
+            "id": "ECG293",
+            "title": "ვერცხლის ლანგრის ფრაგმენტი",
+            "language": "grc",
+            "url": "inscriptions/ECG293.html"
+          },
+          {
+            "id": "ECG295",
+            "title": "ვერცხლის კოვზი",
+            "language": "grc",
+            "url": "inscriptions/ECG295.html"
+          },
+          {
+            "id": "ECG357",
+            "title": "საბეჭდავი ბეჭედი ზღუდერიდან",
+            "language": "grc",
+            "url": "inscriptions/ECG357.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 3,
+        "armenian_count": 0,
+        "aramaic_count": 1,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65,
+          41.55
+        ]
+      },
+      "properties": {
+        "place": "საფარის მონასტრის მიძინების ტაძარი",
+        "primary_language": "ka",
+        "popup_title": "საფარის მონასტრის მიძინების ტაძარი",
+        "popup_subtitle": "4 inscriptions",
+        "popup_languages": "Georgian: 4",
+        "count": 4,
+        "inscription_count": 4,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 4
+        },
+        "inscriptions": [
+          {
+            "id": "ECG108",
+            "title": "საფარის მიძინების ტაძრის ვაჩე ხუროთმოძღვრის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG108.html"
+          },
+          {
+            "id": "ECG128",
+            "title": "საფარის მიძინების ტაძრის წარწერა ეკლესიის მაკურთხებელი მაცხოვრის რელიეფზე",
+            "language": "ka",
+            "url": "inscriptions/ECG128.html"
+          },
+          {
+            "id": "ECG129",
+            "title": "საფარის მიძინების ტაძრის წარწერა კანკელის ფილის კომპოზიციაზე „დანიელი ლომების ხაროში“",
+            "language": "ka",
+            "url": "inscriptions/ECG129.html"
+          },
+          {
+            "id": "ECG130",
+            "title": "საფარის მიძინების ტაძრის წარწერები კანკელის ფილის ვედრების კომპოზიციაზე",
+            "language": "ka",
+            "url": "inscriptions/ECG130.html"
+          }
+        ],
+        "georgian_count": 4,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5,
+          42.0833
+        ]
+      },
+      "properties": {
+        "place": "ბორი",
+        "primary_language": "arc",
+        "popup_title": "ბორი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Aramaic: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "arc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG1080",
+            "title": "ვერცხლის თასზე ამოკვეთილი არამეული წარწერა ბორიდან (III ს.)",
+            "language": "arc",
+            "url": "inscriptions/ECG1080.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 1,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7167,
+          41.6833
+        ]
+      },
+      "properties": {
+        "place": "უდე, ადიგენის მუნიციპალიტეტი",
+        "primary_language": "ka",
+        "popup_title": "უდე, ადიგენის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG109",
+            "title": "უდეს ფარსმანისა და მანანის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG109.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7,
+          41.6
+        ]
+      },
+      "properties": {
+        "place": "ბოდოკლდის ეკლესია",
+        "primary_language": "ka",
+        "popup_title": "ბოდოკლდის ეკლესია",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG110",
+            "title": "ბოდოკლდის იოვანე გალატოზის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG110.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9167,
+          41.6333
+        ]
+      },
+      "properties": {
+        "place": "ბოგა, ახალციხის მუნიციპალიტეტი",
+        "primary_language": "ka",
+        "popup_title": "ბოგა, ახალციხის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG111",
+            "title": "ბოგას თეოდორეს წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG111.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7333,
+          41.65
+        ]
+      },
+      "properties": {
+        "place": "ციხისუბანი, ადიგენის მუნიციპალიტეტი",
+        "primary_language": "ka",
+        "popup_title": "ციხისუბანი, ადიგენის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG115",
+            "title": "ციხისუბნის ასვათის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG115.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.75,
+          41.6667
+        ]
+      },
+      "properties": {
+        "place": "ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი",
+        "primary_language": "ka",
+        "popup_title": "ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG116",
+            "title": "ამხეს საუმარგის, ბერძენის, ქობულის, პაზარიჱლის, გაბრიელის და ასვათის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG116.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2545,
+          41.3718
+        ]
+      },
+      "properties": {
+        "place": "ვარძიის ღვთისმშობლის მიძინების ტაძარი",
+        "primary_language": "ka",
+        "popup_title": "ვარძიის ღვთისმშობლის მიძინების ტაძარი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG117",
+            "title": "ვარძიის რატი ერისთავთ-ერისთავის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG117.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65,
+          41.55
+        ]
+      },
+      "properties": {
+        "place": "საფარის მონასტრის წმ. საბას ტაძარი",
+        "primary_language": "ka",
+        "popup_title": "საფარის მონასტრის წმ. საბას ტაძარი",
+        "popup_subtitle": "7 inscriptions",
+        "popup_languages": "Georgian: 7",
+        "count": 7,
+        "inscription_count": 7,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 3,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 7
+        },
+        "inscriptions": [
+          {
+            "id": "ECG118",
+            "title": "საფარის წმ. საბას ტაძრის სვიმეონის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG118.html"
+          },
+          {
+            "id": "ECG121",
+            "title": "საფარის წმ. საბას ტაძრის ოქროპირ გაბეცასძის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG121.html"
+          },
+          {
+            "id": "ECG122",
+            "title": "საფარის წმ. საბას ტაძრის იოვანე ღვიას შვილის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG122.html"
+          },
+          {
+            "id": "ECG123",
+            "title": "საფარის წმ. საბას ტაძრის გიორგი მალეს წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG123.html"
+          },
+          {
+            "id": "ECG124",
+            "title": "საფარის წმ. საბას ტაძრის თორნიკის, ტაბარის და ლაშხის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG124.html"
+          },
+          {
+            "id": "ECG125",
+            "title": "საფარის წმ. საბას ტაძრის გიორგის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG125.html"
+          },
+          {
+            "id": "ECG126",
+            "title": "საფარის წმ. საბას ტაძრის სვიმეონ ბეროზა-ყოფილის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG126.html"
+          }
+        ],
+        "georgian_count": 7,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65,
+          41.55
+        ]
+      },
+      "properties": {
+        "place": "საფარის მონასტერი",
+        "primary_language": "ka",
+        "popup_title": "საფარის მონასტერი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG119",
+            "title": "საფარის წმ. გიორგის ეკლესიის პავლეს, ბასილის, სვიმეონის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG119.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9333,
+          41.6167
+        ]
+      },
+      "properties": {
+        "place": "ბიეთის ეკლესია, ახალციხის მუნიციპალიტეტი",
+        "primary_language": "ka",
+        "popup_title": "ბიეთის ეკლესია, ახალციხის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG120",
+            "title": "ბიეთის ზაალ თოჴასძის წარწერა ეკვტერის აშენებისა",
+            "language": "ka",
+            "url": "inscriptions/ECG120.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4167,
+          41.2833
+        ]
+      },
+      "properties": {
+        "place": "კუმურდო,კუმურდოს მონასტერი",
+        "primary_language": "ka",
+        "popup_title": "კუმურდო,კუმურდოს მონასტერი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG149",
+            "title": "ამბა პავლე მანგლელის სააღაპე წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG149.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7333,
+          41.8383
+        ]
+      },
+      "properties": {
+        "place": "მცხეთის ჯვარი",
+        "primary_language": "hy",
+        "popup_title": "მცხეთის ჯვარი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Armenian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "hy": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG158",
+            "title": "მცხეთის ჯვრის პოსტამენტის სომხური წარწერა",
+            "language": "hy",
+            "url": "inscriptions/ECG158.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 0,
+        "armenian_count": 1,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.714,
+          41.0955
+        ]
+      },
+      "properties": {
+        "place": "ჰაღბატი",
+        "primary_language": "hy",
+        "popup_title": "ჰაღბატი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Armenian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "hy": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG167",
+            "title": "ჰაღბატის სურბ ნშანის შვიდსტრიქონიანი კამაროვანი წარწერა",
+            "language": "hy",
+            "url": "inscriptions/ECG167.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 0,
+        "armenian_count": 1,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7188,
+          41.8451
+        ]
+      },
+      "properties": {
+        "place": "სამთავრო",
+        "primary_language": "grc",
+        "popup_title": "სამთავრო",
+        "popup_subtitle": "7 inscriptions",
+        "popup_languages": "Greek: 7",
+        "count": 7,
+        "inscription_count": 7,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 3,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 7
+        },
+        "inscriptions": [
+          {
+            "id": "ECG272",
+            "title": "იასპის ქვა",
+            "language": "grc",
+            "url": "inscriptions/ECG272.html"
+          },
+          {
+            "id": "ECG275",
+            "title": "ბრინჯაოს ბეჭდის ნატეხი",
+            "language": "grc",
+            "url": "inscriptions/ECG275.html"
+          },
+          {
+            "id": "ECG276",
+            "title": "წითელი შუშის თვალი",
+            "language": "grc",
+            "url": "inscriptions/ECG276.html"
+          },
+          {
+            "id": "ECG277",
+            "title": "ბრინჯაოს ბეჭედი",
+            "language": "grc",
+            "url": "inscriptions/ECG277.html"
+          },
+          {
+            "id": "ECG296",
+            "title": "ოქროს ფირფიტა (გულსაკიდი)",
+            "language": "grc",
+            "url": "inscriptions/ECG296.html"
+          },
+          {
+            "id": "ECG297",
+            "title": "მინის ფიალა",
+            "language": "grc",
+            "url": "inscriptions/ECG297.html"
+          },
+          {
+            "id": "ECG313",
+            "title": "რკინის ბეჭედი",
+            "language": "grc",
+            "url": "inscriptions/ECG313.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 7,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7797,
+          42.0717
+        ]
+      },
+      "properties": {
+        "place": "ჟინვალი",
+        "primary_language": "grc",
+        "popup_title": "ჟინვალი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG274",
+            "title": "რკინის ბეჭედი",
+            "language": "grc",
+            "url": "inscriptions/ECG274.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5,
+          42.3333
+        ]
+      },
+      "properties": {
+        "place": "ფაშიანთა",
+        "primary_language": "grc",
+        "popup_title": "ფაშიანთა",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG279",
+            "title": "თეთრი ქვის საბეჭდავი მონოგრამა",
+            "language": "grc",
+            "url": "inscriptions/ECG279.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.05,
+          43.2833
+        ]
+      },
+      "properties": {
+        "place": "წანდრიფში",
+        "primary_language": "grc",
+        "popup_title": "წანდრიფში",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG280",
+            "title": "წანდრიფშის წარწერა",
+            "language": "grc",
+            "url": "inscriptions/ECG280.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3456,
+          43.1611
+        ]
+      },
+      "properties": {
+        "place": "ბიჭვინტა",
+        "primary_language": "grc",
+        "popup_title": "ბიჭვინტა",
+        "popup_subtitle": "3 inscriptions",
+        "popup_languages": "Greek: 3",
+        "count": 3,
+        "inscription_count": 3,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 3
+        },
+        "inscriptions": [
+          {
+            "id": "ECG281",
+            "title": "მოზაიკური წარწერა a",
+            "language": "grc",
+            "url": "inscriptions/ECG281.html"
+          },
+          {
+            "id": "ECG316",
+            "title": "ბიჭვინტის ბულა (I)",
+            "language": "grc",
+            "url": "inscriptions/ECG316.html"
+          },
+          {
+            "id": "ECG317",
+            "title": "ბიჭვინტის ბულა (II)",
+            "language": "grc",
+            "url": "inscriptions/ECG317.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 3,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3456,
+          43.1611
+        ]
+      },
+      "properties": {
+        "place": "ბიჭვინთა",
+        "primary_language": "grc",
+        "popup_title": "ბიჭვინთა",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG282",
+            "title": "ბიჭვინთის მუზეუმის წარწერა",
+            "language": "grc",
+            "url": "inscriptions/ECG282.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0908,
+          43.0869
+        ]
+      },
+      "properties": {
+        "place": "ახალი ათონი",
+        "primary_language": "grc",
+        "popup_title": "ახალი ათონი",
+        "popup_subtitle": "2 inscriptions",
+        "popup_languages": "Greek: 2",
+        "count": 2,
+        "inscription_count": 2,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 2
+        },
+        "inscriptions": [
+          {
+            "id": "ECG283",
+            "title": "პეტრე ეპარქოსის მოლიბდული",
+            "language": "grc",
+            "url": "inscriptions/ECG283.html"
+          },
+          {
+            "id": "ECG405",
+            "title": "სიმონ კანანელის ტაძრის ბერძნული წარწერა",
+            "language": "grc",
+            "url": "inscriptions/ECG405.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 2,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.0236,
+          42.865
+        ]
+      },
+      "properties": {
+        "place": "სოხუმი",
+        "primary_language": "grc",
+        "popup_title": "სოხუმი",
+        "popup_subtitle": "5 inscriptions",
+        "popup_languages": "Greek: 4, Latin: 1",
+        "count": 5,
+        "inscription_count": 5,
+        "has_multiple_languages": true,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 2,
+        "languages": {
+          "grc": 4,
+          "la": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG287",
+            "title": "ამფორა",
+            "language": "grc",
+            "url": "inscriptions/ECG287.html"
+          },
+          {
+            "id": "ECG302",
+            "title": "ლათინურენივანი წარწერის ფრაგმენტი, „არიანეს“ წარწერა",
+            "language": "la",
+            "url": "inscriptions/ECG302.html"
+          },
+          {
+            "id": "ECG309",
+            "title": "სოხუმის კირქვის ფილის ფრაგმენტი",
+            "language": "grc",
+            "url": "inscriptions/ECG309.html"
+          },
+          {
+            "id": "ECG333",
+            "title": "კირქვის ოთხკუთხა ბერძნულწარწერიანი სტელა",
+            "language": "grc",
+            "url": "inscriptions/ECG333.html"
+          },
+          {
+            "id": "ECG406",
+            "title": "კერამიკული ფილა",
+            "language": "grc",
+            "url": "inscriptions/ECG406.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 4,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.7333,
+          41.6833
+        ]
+      },
+      "properties": {
+        "place": "ფიჭვნარი",
+        "primary_language": "grc",
+        "popup_title": "ფიჭვნარი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG291",
+            "title": "ლაპიდარული გრაფიტო",
+            "language": "grc",
+            "url": "inscriptions/ECG291.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0959,
+          41.9039
+        ]
+      },
+      "properties": {
+        "place": "ატენი",
+        "primary_language": "grc",
+        "popup_title": "ატენი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG292",
+            "title": "ატენის სიონის წარწერა",
+            "language": "grc",
+            "url": "inscriptions/ECG292.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.75,
+          42.0167
+        ]
+      },
+      "properties": {
+        "place": "ითხვისი",
+        "primary_language": "grc",
+        "popup_title": "ითხვისი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG299",
+            "title": "ჯამი გრაფიტოთი",
+            "language": "grc",
+            "url": "inscriptions/ECG299.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6167,
+          42.1833
+        ]
+      },
+      "properties": {
+        "place": "საირხე",
+        "primary_language": "grc",
+        "popup_title": "საირხე",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG304",
+            "title": "ფიალაზე დატანილი ბერძნული ლიგატურა",
+            "language": "grc",
+            "url": "inscriptions/ECG304.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1833,
+          42.3167
+        ]
+      },
+      "properties": {
+        "place": "ნოქალაქევი",
+        "primary_language": "grc",
+        "popup_title": "ნოქალაქევი",
+        "popup_subtitle": "5 inscriptions",
+        "popup_languages": "Greek: 5",
+        "count": 5,
+        "inscription_count": 5,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 5
+        },
+        "inscriptions": [
+          {
+            "id": "ECG308",
+            "title": "სამკაულის ფრაგმენტი IV-V სს.; ბერძნული წარწერა",
+            "language": "grc",
+            "url": "inscriptions/ECG308.html"
+          },
+          {
+            "id": "ECG318",
+            "title": "ნოქალაქევის ბულა",
+            "language": "grc",
+            "url": "inscriptions/ECG318.html"
+          },
+          {
+            "id": "ECG322",
+            "title": "ნოქალაქევის კერამიკული ფილა",
+            "language": "grc",
+            "url": "inscriptions/ECG322.html"
+          },
+          {
+            "id": "ECG323",
+            "title": "ნოქალაქევის კერამიკული ხუფი",
+            "language": "grc",
+            "url": "inscriptions/ECG323.html"
+          },
+          {
+            "id": "ECG326",
+            "title": "ნოქალაქევის წარწერა",
+            "language": "grc",
+            "url": "inscriptions/ECG326.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 5,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8167,
+          41.8667
+        ]
+      },
+      "properties": {
+        "place": "ძალისა",
+        "primary_language": "grc",
+        "popup_title": "ძალისა",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG321",
+            "title": "მოზაიკური იატაკი ბერძნული წარწერებით",
+            "language": "grc",
+            "url": "inscriptions/ECG321.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5,
+          42.0
+        ]
+      },
+      "properties": {
+        "place": "ნაკიფარი",
+        "primary_language": "grc",
+        "popup_title": "ნაკიფარი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG325",
+            "title": "ნაკიფარის ხატი",
+            "language": "grc",
+            "url": "inscriptions/ECG325.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6833,
+          41.9333
+        ]
+      },
+      "properties": {
+        "place": "წილკანი",
+        "primary_language": "grc",
+        "popup_title": "წილკანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG334",
+            "title": "წილკნის გულსაკიდი",
+            "language": "grc",
+            "url": "inscriptions/ECG334.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8333,
+          40.9167
+        ]
+      },
+      "properties": {
+        "place": "ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი",
+        "primary_language": "ka",
+        "popup_title": "ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი",
+        "popup_subtitle": "2 inscriptions",
+        "popup_languages": "Georgian: 2",
+        "count": 2,
+        "inscription_count": 2,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 2
+        },
+        "inscriptions": [
+          {
+            "id": "ECG335",
+            "title": "ჰნევანქის (ძელი ჭეშმარიტი) ივანე მანდატურთუხუცესისა და ამირსპასალარის ძის, სუმბატის, წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG335.html"
+          },
+          {
+            "id": "ECG336",
+            "title": "ჰნევანქის (ძელი ჭეშმარიტი) თეოდორე მამათმთავრის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG336.html"
+          }
+        ],
+        "georgian_count": 2,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75,
+          40.85
+        ]
+      },
+      "properties": {
+        "place": "ჯუჯაქენდის ეკლესია, სომხეთი",
+        "primary_language": "ka",
+        "popup_title": "ჯუჯაქენდის ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG337",
+            "title": "ჯუჯაქენდის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG337.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6333,
+          41.0167
+        ]
+      },
+      "properties": {
+        "place": "ქობაირის მონასტერი, სომხეთი",
+        "primary_language": "ka",
+        "popup_title": "ქობაირის მონასტერი, სომხეთი",
+        "popup_subtitle": "13 inscriptions",
+        "popup_languages": "Georgian: 13",
+        "count": 13,
+        "inscription_count": 13,
+        "has_multiple_languages": false,
+        "is_major_site": true,
+        "size_category": 4,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 13
+        },
+        "inscriptions": [
+          {
+            "id": "ECG338",
+            "title": "ქობაირის მონასტრის ეპიტაფია შანშეს მწიგნობართუხუცესის მათესი და მისი მეუღლის თენისა",
+            "language": "ka",
+            "url": "inscriptions/ECG338.html"
+          },
+          {
+            "id": "ECG339",
+            "title": "ქობაირის მონასტრის ეპიტაფია ივანე მანდატურთუხუცესის ძის, შანშე ათაბაგის ძმის, ბერი პიმენისი",
+            "language": "ka",
+            "url": "inscriptions/ECG339.html"
+          },
+          {
+            "id": "ECG340",
+            "title": "ქობაირის მონასტრის ეპიტაფია პატრონი შაჰანშას ძის, [ზაქარია] ამირსპასალარის გაზრდილის, ჯაყელის ასულის რუსუდანისა",
+            "language": "ka",
+            "url": "inscriptions/ECG340.html"
+          },
+          {
+            "id": "ECG341",
+            "title": "ქობაირის მონასტრის ეპიტაფია ივანე მანდატურთუხუცესის ძის, ათაბაგ შანშეს ძმის, ათაბაგ ვაჰრამისა",
+            "language": "ka",
+            "url": "inscriptions/ECG341.html"
+          },
+          {
+            "id": "ECG342",
+            "title": "ქობაირის მონასტრის ეპიტაფია ივანე მანდატურთუხუცესის ასულისა და გურკენელი სულას მეუღლის თამარისა",
+            "language": "ka",
+            "url": "inscriptions/ECG342.html"
+          },
+          {
+            "id": "ECG343",
+            "title": "ქობაირის მონასტრის ეპიტაფია მსახურთუხუცესის ოგ͠ლა (?) ბუბასი",
+            "language": "ka",
+            "url": "inscriptions/ECG343.html"
+          },
+          {
+            "id": "ECG344",
+            "title": "ქობაირის მონასტრის ეპიტაფია მეღვინეთუხუცეს ივანეს მეუღლის გურჯიხათუნისა",
+            "language": "ka",
+            "url": "inscriptions/ECG344.html"
+          },
+          {
+            "id": "ECG345",
+            "title": "ქობაირის მონასტრის ეპიტაფია ეკლესიისა და მონასტრის აღმშენებლის, შაჰანშა მანდატურთუხუცესის ცოლის, ზაქარია ამირსპასალარის დედის, ლაკლაკთა ასულის ხუაშაქისა",
+            "language": "ka",
+            "url": "inscriptions/ECG345.html"
+          },
+          {
+            "id": "ECG346",
+            "title": "ქობაირის მონასტრის ხუაშას ეპიტაფია-ლექსი",
+            "language": "ka",
+            "url": "inscriptions/ECG346.html"
+          },
+          {
+            "id": "ECG347",
+            "title": "ქობაირის მონასტრის მაკარის ეპიტაფია",
+            "language": "ka",
+            "url": "inscriptions/ECG347.html"
+          },
+          {
+            "id": "ECG348",
+            "title": "ქობაირის მონასტრის მაკარის შვილის, გრიგოლის, ეპიტაფია",
+            "language": "ka",
+            "url": "inscriptions/ECG348.html"
+          },
+          {
+            "id": "ECG350",
+            "title": "ქობაირის მონასტრის შანშე I-ის ძის, ბერი გიორგის, წარწერა (II)",
+            "language": "ka",
+            "url": "inscriptions/ECG350.html"
+          },
+          {
+            "id": "ECG351",
+            "title": "ქობაირის მონასტრის შაჰანშა მანდატურთუხუცესის ძის, მჴარგრძელის, და მისი თანამეცხედრის ათაბაგ-ამირსპასალარის, სადუნის ასულის ვანენის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG351.html"
+          }
+        ],
+        "georgian_count": 13,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7,
+          40.95
+        ]
+      },
+      "properties": {
+        "place": "სოფ. კოშის ეკლესია, სომხეთი",
+        "primary_language": "ka",
+        "popup_title": "სოფ. კოშის ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG352",
+            "title": "კოშის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG352.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7167,
+          40.9833
+        ]
+      },
+      "properties": {
+        "place": "კურთანის ეკლესია, სომხეთი",
+        "primary_language": "ka",
+        "popup_title": "კურთანის ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG355",
+            "title": "კურთანის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG355.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7333,
+          40.9667
+        ]
+      },
+      "properties": {
+        "place": "თეჟარუიქის ეკლესია, სომხეთი",
+        "primary_language": "ka",
+        "popup_title": "თეჟარუიქის ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG356",
+            "title": "თეჟარუიქის საამშენებლო წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG356.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6833,
+          40.9
+        ]
+      },
+      "properties": {
+        "place": "შაჰნაზარის ქვემო ეკლესია, სომხეთი",
+        "primary_language": "ka",
+        "popup_title": "შაჰნაზარის ქვემო ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG358",
+            "title": "შაჰნაზირის ოთხთა ძმათა ძნელაჲსძეთა წარწერა (I)",
+            "language": "ka",
+            "url": "inscriptions/ECG358.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.69,
+          40.91
+        ]
+      },
+      "properties": {
+        "place": "შაჰნაზარის ზემო ეკლესია, სომხეთი",
+        "primary_language": "ka",
+        "popup_title": "შაჰნაზარის ზემო ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG359",
+            "title": "შაჰნაზირის დავითის წარწერა II",
+            "language": "ka",
+            "url": "inscriptions/ECG359.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.75,
+          42.55
+        ]
+      },
+      "properties": {
+        "place": "ხუნზახი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "ხუნზახი, დაღესტანი",
+        "popup_subtitle": "14 inscriptions",
+        "popup_languages": "Georgian: 14",
+        "count": 14,
+        "inscription_count": 14,
+        "has_multiple_languages": false,
+        "is_major_site": true,
+        "size_category": 4,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 14
+        },
+        "inscriptions": [
+          {
+            "id": "ECG361",
+            "title": "ხუნზახის X წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG361.html"
+          },
+          {
+            "id": "ECG362",
+            "title": "სამილახის წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG362.html"
+          },
+          {
+            "id": "ECG365",
+            "title": "ხუნზახის I წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG365.html"
+          },
+          {
+            "id": "ECG366",
+            "title": "ხუნზახის II წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG366.html"
+          },
+          {
+            "id": "ECG367",
+            "title": "ხუნზახის III წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG367.html"
+          },
+          {
+            "id": "ECG368",
+            "title": "ხუნზახის IV წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG368.html"
+          },
+          {
+            "id": "ECG369",
+            "title": "ხუნზახის V წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG369.html"
+          },
+          {
+            "id": "ECG370",
+            "title": "ხუნზახის VI წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG370.html"
+          },
+          {
+            "id": "ECG371",
+            "title": "ხუნზახის VII წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG371.html"
+          },
+          {
+            "id": "ECG372",
+            "title": "ხუნზახის VIII წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG372.html"
+          },
+          {
+            "id": "ECG373",
+            "title": "ხუნზახის IX წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG373.html"
+          },
+          {
+            "id": "ECG374",
+            "title": "ხუნზახის XI წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG374.html"
+          },
+          {
+            "id": "ECG375",
+            "title": "ხუნზახის XII წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG375.html"
+          },
+          {
+            "id": "ECG376",
+            "title": "ხუნზახის XIII წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG376.html"
+          }
+        ],
+        "georgian_count": 14,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6167,
+          42.4833
+        ]
+      },
+      "properties": {
+        "place": "სოფ. ურადა, შამილის რაონი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "სოფ. ურადა, შამილის რაონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG363",
+            "title": "ურადას წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG363.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9333,
+          42.4167
+        ]
+      },
+      "properties": {
+        "place": "სოფ. რუღჟაბი, ღუნიბის რაიონი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "სოფ. რუღჟაბი, ღუნიბის რაიონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG364",
+            "title": "რუღჟაბის წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG364.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8167,
+          42.3833
+        ]
+      },
+      "properties": {
+        "place": "გინიჩუტლი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "გინიჩუტლი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG377",
+            "title": "გინიჩუტლის ქართული წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG377.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6333,
+          42.4667
+        ]
+      },
+      "properties": {
+        "place": "სოფ. მითლიჰურიბი, შამილის რაონი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "სოფ. მითლიჰურიბი, შამილის რაონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG378",
+            "title": "მითლიჰურიბის წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG378.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7333,
+          42.5333
+        ]
+      },
+      "properties": {
+        "place": "სოფ. ჰოწატლი, ხუნზახის რაიონი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "სოფ. ჰოწატლი, ხუნზახის რაიონი, დაღესტანი",
+        "popup_subtitle": "2 inscriptions",
+        "popup_languages": "Georgian: 2",
+        "count": 2,
+        "inscription_count": 2,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 2
+        },
+        "inscriptions": [
+          {
+            "id": "ECG379",
+            "title": "ჰოწატლის I წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG379.html"
+          },
+          {
+            "id": "ECG380",
+            "title": "ჰოწატლის II წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG380.html"
+          }
+        ],
+        "georgian_count": 2,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9167,
+          42.1833
+        ]
+      },
+      "properties": {
+        "place": "სოფ. მურუხი, ჭაროდის რაიონი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "სოფ. მურუხი, ჭაროდის რაიონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG381",
+            "title": "მურუხის წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG381.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.0939,
+          40.6017
+        ]
+      },
+      "properties": {
+        "place": "ყარსის ციხე, თურქეთი",
+        "primary_language": "ka",
+        "popup_title": "ყარსის ციხე, თურქეთი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG382",
+            "title": "ყარსის ციხის ქართული წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG382.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8097,
+          41.6919
+        ]
+      },
+      "properties": {
+        "place": "ანჩისხატის ტაძარი, თბილისი",
+        "primary_language": "ka",
+        "popup_title": "ანჩისხატის ტაძარი, თბილისი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG383",
+            "title": "ანჩისხატის ბაზილიკის სამშენებლო წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG383.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2545,
+          41.3718
+        ]
+      },
+      "properties": {
+        "place": "ვარძიის ღვთისმშობლის სახელობის ეკლესია",
+        "primary_language": "ka",
+        "popup_title": "ვარძიის ღვთისმშობლის სახელობის ეკლესია",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG384",
+            "title": "ზედა ვარძიის „კიდურყვავილოვანი“ წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG384.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2833,
+          41.3667
+        ]
+      },
+      "properties": {
+        "place": "ვანის ქვაბები, ასპინძის მუნიციპალიტეტი",
+        "primary_language": "ka",
+        "popup_title": "ვანის ქვაბები, ასპინძის მუნიციპალიტეტი",
+        "popup_subtitle": "2 inscriptions",
+        "popup_languages": "Georgian: 2",
+        "count": 2,
+        "inscription_count": 2,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 2,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 2
+        },
+        "inscriptions": [
+          {
+            "id": "ECG385",
+            "title": "ვანის ქვაბების პოეტური წარწერა I",
+            "language": "ka",
+            "url": "inscriptions/ECG385.html"
+          },
+          {
+            "id": "ECG386",
+            "title": "ვანის ქვაბების პოეტური წარწერა II",
+            "language": "ka",
+            "url": "inscriptions/ECG386.html"
+          }
+        ],
+        "georgian_count": 2,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8833,
+          42.3167
+        ]
+      },
+      "properties": {
+        "place": "ჰალას ნაქალაქარი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "ჰალას ნაქალაქარი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG387",
+            "title": "ჰალას ქართული-ხუნძური წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG387.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8,
+          42.45
+        ]
+      },
+      "properties": {
+        "place": "ხუნძი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "ხუნძი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG388",
+            "title": "ტად-რაალის ქართული-ხუნძური წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG388.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7667,
+          42.5167
+        ]
+      },
+      "properties": {
+        "place": "სოფ. თანუსი, ხუნზახის რაიონი, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "სოფ. თანუსი, ხუნზახის რაიონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG390",
+            "title": "თანუსის წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG390.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9,
+          42.4
+        ]
+      },
+      "properties": {
+        "place": "აქაროს მთა, დაღესტანი",
+        "primary_language": "ka",
+        "popup_title": "აქაროს მთა, დაღესტანი",
+        "popup_subtitle": "14 inscriptions",
+        "popup_languages": "Georgian: 14",
+        "count": 14,
+        "inscription_count": 14,
+        "has_multiple_languages": false,
+        "is_major_site": true,
+        "size_category": 4,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 14
+        },
+        "inscriptions": [
+          {
+            "id": "ECG391",
+            "title": "აქაროს მთის I წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG391.html"
+          },
+          {
+            "id": "ECG392",
+            "title": "აქაროს მთის II წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG392.html"
+          },
+          {
+            "id": "ECG393",
+            "title": "აქაროს მთის III წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG393.html"
+          },
+          {
+            "id": "ECG394",
+            "title": "აქაროს მთის IV წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG394.html"
+          },
+          {
+            "id": "ECG395",
+            "title": "აქაროს მთის V წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG395.html"
+          },
+          {
+            "id": "ECG396",
+            "title": "აქაროს მთის VI წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG396.html"
+          },
+          {
+            "id": "ECG397",
+            "title": "აქაროს მთის VII წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG397.html"
+          },
+          {
+            "id": "ECG398",
+            "title": "აქაროს მთის VIII წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG398.html"
+          },
+          {
+            "id": "ECG399",
+            "title": "აქაროს მთის IX წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG399.html"
+          },
+          {
+            "id": "ECG400",
+            "title": "აქაროს მთის X წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG400.html"
+          },
+          {
+            "id": "ECG401",
+            "title": "აქაროს მთის XI წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG401.html"
+          },
+          {
+            "id": "ECG402",
+            "title": "აქაროს მთის XII წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG402.html"
+          },
+          {
+            "id": "ECG403",
+            "title": "აქაროს მთის XIII წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG403.html"
+          },
+          {
+            "id": "ECG404",
+            "title": "აქაროს მთის XIV წარწერა დაღესტნიდან",
+            "language": "ka",
+            "url": "inscriptions/ECG404.html"
+          }
+        ],
+        "georgian_count": 14,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2167,
+          42.75
+        ]
+      },
+      "properties": {
+        "place": "მაცხვარიში",
+        "primary_language": "grc",
+        "popup_title": "მაცხვარიში",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG407",
+            "title": "მაცხვარიშის წარწერა",
+            "language": "grc",
+            "url": "inscriptions/ECG407.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7833,
+          43.0
+        ]
+      },
+      "properties": {
+        "place": "ლატალი",
+        "primary_language": "grc",
+        "popup_title": "ლატალი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG408",
+            "title": "ლატალის ხატი",
+            "language": "grc",
+            "url": "inscriptions/ECG408.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6333,
+          42.95
+        ]
+      },
+      "properties": {
+        "place": "ფარი",
+        "primary_language": "grc",
+        "popup_title": "ფარი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG409",
+            "title": "ფარის ხატი",
+            "language": "grc",
+            "url": "inscriptions/ECG409.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7567,
+          42.2917
+        ]
+      },
+      "properties": {
+        "place": "გელათის ღვთისმშობლის ტაძარის საკურთხევლის კონქი",
+        "primary_language": "grc",
+        "popup_title": "გელათის ღვთისმშობლის ტაძარის საკურთხევლის კონქი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG422",
+            "title": "გელათის საკურთხევლის წარწერა",
+            "language": "grc",
+            "url": "inscriptions/ECG422.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4833,
+          42.25
+        ]
+      },
+      "properties": {
+        "place": "ლიპის ეკლესია",
+        "primary_language": "grc",
+        "popup_title": "ლიპის ეკლესია",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG429",
+            "title": "ლიპის ეკლესიის ქვა",
+            "language": "grc",
+            "url": "inscriptions/ECG429.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0333,
+          42.6167
+        ]
+      },
+      "properties": {
+        "place": "წალენჯიხა",
+        "primary_language": "grc",
+        "popup_title": "წალენჯიხა",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG430",
+            "title": "წალენჯიხის ხატი",
+            "language": "grc",
+            "url": "inscriptions/ECG430.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3833,
+          42.4167
+        ]
+      },
+      "properties": {
+        "place": "მარტვილი",
+        "primary_language": "grc",
+        "popup_title": "მარტვილი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG431",
+            "title": "მარტვილის ვერცხლის ტრიპტიხი",
+            "language": "grc",
+            "url": "inscriptions/ECG431.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9,
+          42.3167
+        ]
+      },
+      "properties": {
+        "place": "ხობის ღვთისმშობლის ეკლესია",
+        "primary_language": "grc",
+        "popup_title": "ხობის ღვთისმშობლის ეკლესია",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG433",
+            "title": "ხობის ღვთისმშობლის ხატი",
+            "language": "grc",
+            "url": "inscriptions/ECG433.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7567,
+          42.2917
+        ]
+      },
+      "properties": {
+        "place": "გელათის ღვთისმშობლის ეკლესია",
+        "primary_language": "grc",
+        "popup_title": "გელათის ღვთისმშობლის ეკლესია",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Greek: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "grc": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG434",
+            "title": "გელათის მაცხოვრის ხატი",
+            "language": "grc",
+            "url": "inscriptions/ECG434.html"
+          }
+        ],
+        "georgian_count": 0,
+        "greek_count": 1,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1667,
+          42.5833
+        ]
+      },
+      "properties": {
+        "place": "მსიგხუას ეკლესია",
+        "primary_language": "ka",
+        "popup_title": "მსიგხუას ეკლესია",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG440",
+            "title": "მსიგხუა, მიქაელის სავედრებელი წარწერა I",
+            "language": "ka",
+            "url": "inscriptions/ECG440.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.25,
+          42.65
+        ]
+      },
+      "properties": {
+        "place": "ღუმურიში",
+        "primary_language": "ka",
+        "popup_title": "ღუმურიში",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG458",
+            "title": "ღუმურიში, საგდუხტ დეოფალთა დეოფლის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG458.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1833,
+          43.0167
+        ]
+      },
+      "properties": {
+        "place": "ანუხვა",
+        "primary_language": "ka",
+        "popup_title": "ანუხვა",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG459",
+            "title": "ანუხვა, გიორგი ბასილის ძის წარწერა ქვაჯვრის სვეტზე",
+            "language": "ka",
+            "url": "inscriptions/ECG459.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.25,
+          42.9167
+        ]
+      },
+      "properties": {
+        "place": "ლიხნის ღვთისმშობლის მიძინების ტაძარი",
+        "primary_language": "ka",
+        "popup_title": "ლიხნის ღვთისმშობლის მიძინების ტაძარი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG474",
+            "title": "ლიხნის წარწერა კომეტის გამოჩენის შესახებ, 1066",
+            "language": "ka",
+            "url": "inscriptions/ECG474.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7167,
+          42.8833
+        ]
+      },
+      "properties": {
+        "place": "გუდავა",
+        "primary_language": "ka",
+        "popup_title": "გუდავა",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG483",
+            "title": "გუდავას რაბაისა და ნუგამწირას წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG483.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5833,
+          41.75
+        ]
+      },
+      "properties": {
+        "place": "მოხისი",
+        "primary_language": "ka",
+        "popup_title": "მოხისი",
+        "popup_subtitle": "1 inscriptions",
+        "popup_languages": "Georgian: 1",
+        "count": 1,
+        "inscription_count": 1,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 1,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 1
+        },
+        "inscriptions": [
+          {
+            "id": "ECG914",
+            "title": "მოხისის სამების წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG914.html"
+          }
+        ],
+        "georgian_count": 1,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1167,
+          42.2833
+        ]
+      },
+      "properties": {
+        "place": "ჭყონდიდი",
+        "primary_language": "ka",
+        "popup_title": "ჭყონდიდი",
+        "popup_subtitle": "6 inscriptions",
+        "popup_languages": "Georgian: 6",
+        "count": 6,
+        "inscription_count": 6,
+        "has_multiple_languages": false,
+        "is_major_site": false,
+        "size_category": 3,
+        "language_diversity": 1,
+        "languages": {
+          "ka": 6
+        },
+        "inscriptions": [
+          {
+            "id": "ECG915",
+            "title": "ჭყონდიდის სანათლავის საამშენებლო წარწერა, 996 წ.",
+            "language": "ka",
+            "url": "inscriptions/ECG915.html"
+          },
+          {
+            "id": "ECG916",
+            "title": "ჭყონდიდის კალატოზ მიქაელ ოპიზარის წარწერა, [996 წ.]",
+            "language": "ka",
+            "url": "inscriptions/ECG916.html"
+          },
+          {
+            "id": "ECG917",
+            "title": "ჭყონდიდის წარწერა მაცხოვრის გამოსახულების გარშემო",
+            "language": "ka",
+            "url": "inscriptions/ECG917.html"
+          },
+          {
+            "id": "ECG918",
+            "title": "[იოვანე ჭყონდიდელის] ეპიტაფიის ფრაგმენტები",
+            "language": "ka",
+            "url": "inscriptions/ECG918.html"
+          },
+          {
+            "id": "ECG919",
+            "title": "ჭყონდიდის „სვეტის“ წარწერის ფრაგმენტები",
+            "language": "ka",
+            "url": "inscriptions/ECG919.html"
+          },
+          {
+            "id": "ECG920",
+            "title": "ჭყონდიდი, შერგილ დადიანის წარწერა",
+            "language": "ka",
+            "url": "inscriptions/ECG920.html"
+          }
+        ],
+        "georgian_count": 6,
+        "greek_count": 0,
+        "armenian_count": 0,
+        "aramaic_count": 0,
+        "hebrew_count": 0
+      }
+    }
+  ]
+}

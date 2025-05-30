@@ -1,0 +1,775 @@
+Place Names with Coordinates:
+============================================================
+
+Place: Agara (Urvali) church (en)
+  Coordinates: 41.8, 43.7
+
+Place: Akaurta (en)
+  Coordinates: 41.3889, 44.5126
+
+Place: Ani (en)
+  Coordinates: 40.5067, 43.5725
+
+Place: Armatsikhe, Bagineti (en)
+  Coordinates: Not found
+
+Place: Armaziskhevi (en)
+  Coordinates: 41.8423, 44.7145
+
+Place: Armaztsikhe, Bagineti (en)
+  Coordinates: 41.8333, 44.7
+
+Place: Ateni Sioni (en)
+  Coordinates: 41.9039, 44.0959
+
+Place: Berdik (en)
+  Coordinates: 41.35, 44.45
+
+Place: Bieti Church (en)
+  Coordinates: 41.6167, 42.9333
+
+Place: Bolnisi Sioni (en)
+  Coordinates: 41.3889, 44.5126
+
+Place: Dmanisi (en)
+  Coordinates: 41.3298, 44.2073
+
+Place: Eshera (en)
+  Coordinates: 43.05, 40.1
+
+Place: Gvandra (en)
+  Coordinates: 42.2, 43.6
+
+Place: Haghpat (en)
+  Coordinates: 41.0955, 44.714
+
+Place: Hayravank (en)
+  Coordinates: 40.1642, 44.7019
+
+Place: Jvari Monastery, Mtskheta (en)
+  Coordinates: 41.8383, 44.7333
+
+Place: Kavtiskhevi (en)
+  Coordinates: 41.82, 44.73
+
+Place: Kazreti (en)
+  Coordinates: 41.3333, 44.3
+
+Place: Kheoti (en)
+  Coordinates: 41.7667, 44.6833
+
+Place: Kobairi Monastery, Armenia (en)
+  Coordinates: Not found
+
+Place: Lamazi Gora, Bolnisi (en)
+  Coordinates: 41.3889, 44.5126
+
+Place: Mtskheta (en)
+  Coordinates: 41.8451, 44.7188
+
+Place: Nokalakevi (en)
+  Coordinates: 42.3167, 42.1833
+
+Place: Nosiri (en)
+  Coordinates: 41.75, 44.6
+
+Place: Nukha (en)
+  Coordinates: 41.5583, 45.3833
+
+Place: Phia church of St. Theodor (en)
+  Coordinates: 41.6, 42.8
+
+Place: Samtavro (en)
+  Coordinates: 41.8451, 44.7188
+
+Place: Samtavro, Mtskheta (en)
+  Coordinates: 41.8451, 44.7188
+
+Place: Sapara St. George church (en)
+  Coordinates: 41.55, 42.65
+
+Place: Sapara St. Saba Monastery (en)
+  Coordinates: Not found
+
+Place: Saro Castle (en)
+  Coordinates: 41.7, 42.9
+
+Place: Sepieti (en)
+  Coordinates: 42.1167, 43.85
+
+Place: Smada church (en)
+  Coordinates: 41.4, 43.3
+
+Place: Sokhumi (en)
+  Coordinates: 42.865, 41.0236
+
+Place: Tmogvi Castle (en)
+  Coordinates: 41.35, 43.2
+
+Place: Tsebelda (en)
+  Coordinates: Not found
+
+Place: Tsilkani (en)
+  Coordinates: 41.9333, 44.6833
+
+Place: Tskise (en)
+  Coordinates: 41.95, 44.75
+
+Place: Tsunda church (en)
+  Coordinates: 41.65, 42.75
+
+Place: Ukangori (en)
+  Coordinates: 41.9167, 44.8333
+
+Place: Urbnisi Sioni (en)
+  Coordinates: 41.75, 44.6167
+
+Place: Vani (en)
+  Coordinates: 42.0833, 42.5
+
+Place: Vanis Kvabebi (en)
+  Coordinates: 41.3667, 43.2833
+
+Place: Vardzia (en)
+  Coordinates: 41.3718, 43.2545
+
+Place: Vashnari (en)
+  Coordinates: 41.7, 44.55
+
+Place: Zarzma Monastery (en)
+  Coordinates: 41.55, 42.65
+
+Place: Zemo Nikozi (en)
+  Coordinates: 42.0, 44.1
+
+Place: Zemo Nikozi, Archangel Church (en)
+  Coordinates: 42.0, 44.1
+
+Place: Zemo Nikozi, Diety church (en)
+  Coordinates: Not found
+
+Place: Zguderi (en)
+  Coordinates: Not found
+
+Place: Znakva (en)
+  Coordinates: 41.9, 44.8
+
+Place: აბასთუმნის ძველი ეკლესია (ka)
+  Coordinates: 41.75, 42.8333
+
+Place: აგარის (ურვალის) ეკლესია (ka)
+  Coordinates: 41.8, 43.7
+
+Place: აირავანქი (ka)
+  Coordinates: 40.1642, 44.7019
+
+Place: აკაურთა (ka)
+  Coordinates: 41.3889, 44.5126
+
+Place: ამბარლო, წმ. ელია წინასწარმეტყველის სახელობის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი (ka)
+  Coordinates: 41.6667, 42.75
+
+Place: ანაპა (ka)
+  Coordinates: 44.8951, 37.3167
+
+Place: ანისი (ka)
+  Coordinates: 40.5067, 43.5725
+
+Place: ანუხვა (ka)
+  Coordinates: 43.0167, 40.1833
+
+Place: ანუხვა (გუდაუთის რ-ნი) წარწერა სვეტზე. (ka)
+  Coordinates: 43.0167, 40.1833
+
+Place: ანჩისხატის ტაძარი, თბილისი (ka)
+  Coordinates: 41.6919, 44.8097
+
+Place: არმაზი (ka)
+  Coordinates: 41.8333, 44.7
+
+Place: არმაზისხევი (ka)
+  Coordinates: 41.8423, 44.7145
+
+Place: არმაზციხე, ბაგინეთი (ka)
+  Coordinates: 41.8333, 44.7
+
+Place: ატენი (ka)
+  Coordinates: 41.9039, 44.0959
+
+Place: ატენის სიონი (ka)
+  Coordinates: 41.9039, 44.0959
+
+Place: აქაროს მთა, დაღესტანი (ka)
+  Coordinates: 42.4, 46.9
+
+Place: ახალი ათონი (ka)
+  Coordinates: 43.0869, 40.0908
+
+Place: ახალციხე (ka)
+  Coordinates: 41.6386, 42.9813
+
+Place: ახტალა (ka)
+  Coordinates: 41.1, 44.7833
+
+Place: ბედია (ka)
+  Coordinates: 42.7, 40.2
+
+Place: ბედიის ტაძარი (ka)
+  Coordinates: 42.7, 40.2
+
+Place: ბერდიკი (ka)
+  Coordinates: 41.35, 44.45
+
+Place: ბესლეთის ხიდის წარწერა (ka)
+  Coordinates: 42.85, 41.0
+
+Place: ბიეთის ეკლესია (ka)
+  Coordinates: 41.6167, 42.9333
+
+Place: ბიეთის ეკლესია, ახალციხის მუნიციპალიტეტი (ka)
+  Coordinates: 41.6167, 42.9333
+
+Place: ბიჭვინთა (ka)
+  Coordinates: 43.1611, 40.3456
+
+Place: ბიჭვინტა (ka)
+  Coordinates: 43.1611, 40.3456
+
+Place: ბოგა, ახალციხის მუნიციპალიტეტი (ka)
+  Coordinates: 41.6333, 42.9167
+
+Place: ბოდოკლდის ეკლესია (ka)
+  Coordinates: 41.6, 42.7
+
+Place: ბოლნისის სიონი (ka)
+  Coordinates: 41.3889, 44.5126
+
+Place: ბორი (ka)
+  Coordinates: 42.0833, 43.5
+
+Place: ბორჯომი (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: ბორჯომის მხარეთმცოდნეობის მუზეუმი (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: ბორჯომის ხეობა, ქვაბისხევის ღვთისმშობლის ეკლესია, შოთა და იაის ფრესკული წარწერა (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: ბორჯომის ხეობა. ლიკანის ღმრთისმშობლის ეკლესია (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: ბორჯომის ხეობა. საკირე. „საყდრივაკის“ ეკლესია (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: ბორჯომის ხეობა. ყვიბისის წმიდა გიორგის ეკლესია (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: ბორჯომის ხეობა.ახალდაბის ეკლესია (ka)
+  Coordinates: 41.8477, 43.3913
+
+Place: გელათი (ka)
+  Coordinates: 42.2917, 42.7567
+
+Place: გვანდრა (ka)
+  Coordinates: 42.2, 43.6
+
+Place: გინიჩუტლი, დაღესტანი (ka)
+  Coordinates: 42.3833, 46.8167
+
+Place: გუდავა (ka)
+  Coordinates: 42.8833, 42.7167
+
+Place: გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა მიქაელისა (ka)
+  Coordinates: 42.0833, 42.5
+
+Place: გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, წარწერა კჳრიკესი (ka)
+  Coordinates: 42.0833, 42.5
+
+Place: გუჯარეთის ხეობა, თელოვანის წმინდა ელიასეკლესია, ვავედრებელი წარწერა ხარებასი (ka)
+  Coordinates: 42.0833, 42.5
+
+Place: გუჯარეთის ხეობა. "წითელი ეკლესია" (ka)
+  Coordinates: Not found
+
+Place: გუჯარეთის ხეობა. დაბის ღმრთისმშობლის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: გუჯარეთის ხეობა. თოთხამის ციხის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: გუჯარეთის ხეობა. თონეთის წმიდა გიორგის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: გუჯარეთის ხეობა. მაჭარწყლის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) ღმრთისმშობლის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) წმიდა ბარბარეს ეკლესია (ka)
+  Coordinates: Not found
+
+Place: გუჯარეთის ხეობა. ტყემლოვანის ეკლესია (ka)
+  Coordinates: 42.0833, 42.5
+
+Place: გუჯარეთის ხეობა. „წითელი ეკლესია“ (ka)
+  Coordinates: Not found
+
+Place: დაბლუტის წყლის ხეობა (ka)
+  Coordinates: Not found
+
+Place: დავით გარეჯი, უდაბნო, სატრაპეზო (ka)
+  Coordinates: 41.4456, 45.3789
+
+Place: დავით გარეჯის მონასტერი (ka)
+  Coordinates: 41.4456, 45.3789
+
+Place: დიდი გომარეთი, წმ. გიორგის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: დიდი გომარეთი, წმ. მარიამის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: დიდი დმანისი, ღმრთისმშობლის ეკლესია (ka)
+  Coordinates: 40.5067, 43.5725
+
+Place: დიხაზურგა (ka)
+  Coordinates: 42.95, 40.35
+
+Place: დმანისი (ka)
+  Coordinates: 41.3298, 44.2073
+
+Place: დმანისი, ქციის ხეობა, ლიპარიტის უბნის მონასტერი (ka)
+  Coordinates: 40.5067, 43.5725
+
+Place: დმანისის არქეოლოგიური ბაზა (ka)
+  Coordinates: 40.5067, 43.5725
+
+Place: დმანისის კათედრალური ტაძარი (ka)
+  Coordinates: 40.5067, 43.5725
+
+Place: დმანისის ნაქალაქარი (ka)
+  Coordinates: 40.5067, 43.5725
+
+Place: დმანისის სიონი (ka)
+  Coordinates: 40.5067, 43.5725
+
+Place: დმანისის ციხის წმ. მარინეს ეკლესია (ka)
+  Coordinates: 40.5067, 43.5725
+
+Place: ეშერა (ka)
+  Coordinates: 43.05, 40.1
+
+Place: ვალეს ღვთისმშობლის ეკლესია (ka)
+  Coordinates: 42.1667, 43.5833
+
+Place: ვანი (ka)
+  Coordinates: 42.0833, 42.5
+
+Place: ვანის ნაქალაქარი (ka)
+  Coordinates: 42.0833, 42.5
+
+Place: ვანის ქვაბები (ka)
+  Coordinates: 41.3667, 43.2833
+
+Place: ვანის ქვაბები, ასპინძის მუნიციპალიტეტი (ka)
+  Coordinates: 41.3667, 43.2833
+
+Place: ვარძია (ka)
+  Coordinates: 41.3718, 43.2545
+
+Place: ვარძიის ღვთისმშობლის მიძინების ტაძარი (ka)
+  Coordinates: 41.3718, 43.2545
+
+Place: ვარძიის ღვთისმშობლის სახელობის ეკლესია (ka)
+  Coordinates: 41.3718, 43.2545
+
+Place: ვაშნარი (ka)
+  Coordinates: 41.7, 44.55
+
+Place: ველისპირი (ka)
+  Coordinates: Not found
+
+Place: ზარზმის მონასტერი (ka)
+  Coordinates: 41.55, 42.65
+
+Place: ზემო ნიქოზი, მთავარანგელოზის ტაძარი (ka)
+  Coordinates: 42.0, 44.1
+
+Place: ზემო ნიქოზი, ღვთაების ტაძარი (ka)
+  Coordinates: 42.0, 44.1
+
+Place: ზნაკვა (ka)
+  Coordinates: 41.9, 44.8
+
+Place: ზღუდერი (ka)
+  Coordinates: 42.7167, 40.1667
+
+Place: თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა თეოდორესი (ka)
+  Coordinates: 42.0833, 42.5
+
+Place: თეჟარუიქის ეკლესია, სომხეთი (ka)
+  Coordinates: 40.9667, 44.7333
+
+Place: თმოგვის ციხე (ka)
+  Coordinates: 41.35, 43.2
+
+Place: ითხვისი (ka)
+  Coordinates: 42.0167, 43.75
+
+Place: ილორი (ka)
+  Coordinates: 42.8, 40.15
+
+Place: ილორის გიორგი გურგენიძის წარწერა (ka)
+  Coordinates: 42.8, 40.15
+
+Place: ილორის წმინდა გიორგის ეკლესია (ka)
+  Coordinates: 42.8, 40.15
+
+Place: იფნარი (ყოფილი კიროვისი, ადრინდელი ვალდჰეიმი) (ka)
+  Coordinates: Not found
+
+Place: კავთისხევი (ka)
+  Coordinates: 41.82, 44.73
+
+Place: კაზრეთი (ka)
+  Coordinates: 41.3333, 44.3
+
+Place: კუმურდო (ka)
+  Coordinates: 41.2833, 43.4167
+
+Place: კურთანის ეკლესია, სომხეთი (ka)
+  Coordinates: 40.9833, 44.7167
+
+Place: ლაილაში (ka)
+  Coordinates: 41.6, 42.85
+
+Place: ლამაზი გორა, ბოლნისი (ka)
+  Coordinates: 41.3889, 44.5126
+
+Place: ლამაზი გორა, ბოლნისის მუნიციპალიტეტი (ka)
+  Coordinates: 41.3889, 44.5126
+
+Place: ლატალი (ka)
+  Coordinates: 43.0, 42.7833
+
+Place: ლიპი (ka)
+  Coordinates: 42.25, 42.4833
+
+Place: ლიხნი (ka)
+  Coordinates: 42.9167, 40.25
+
+Place: ლიხნის ტაძარი (ka)
+  Coordinates: 42.9167, 40.25
+
+Place: ლიხნის ღვთისმშობლის მიძინების ტაძარი (ka)
+  Coordinates: 42.9167, 40.25
+
+Place: მამულა, ღვთისმშობლის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: მარტვილი (ka)
+  Coordinates: 42.4167, 42.3833
+
+Place: მაცხვარიში (ka)
+  Coordinates: 42.75, 40.2167
+
+Place: მიჯას (ჯავახის) ეკლესია (ka)
+  Coordinates: Not found
+
+Place: მოხისი (ka)
+  Coordinates: 41.75, 44.5833
+
+Place: მსიგხუა (ka)
+  Coordinates: 42.5833, 40.1667
+
+Place: მსიგხუას ეკლესია (ka)
+  Coordinates: 42.5833, 40.1667
+
+Place: მცხეთა (ka)
+  Coordinates: 41.8451, 44.7188
+
+Place: მცხეთა, მოგვთა უბანი (ka)
+  Coordinates: 41.8451, 44.7188
+
+Place: მცხეთის ჯვარი (ka)
+  Coordinates: 41.8383, 44.7333
+
+Place: ნაგზაურა (ka)
+  Coordinates: Not found
+
+Place: ნაკიფარი (ka)
+  Coordinates: 42.0, 43.5
+
+Place: ნოსირი (ka)
+  Coordinates: 41.75, 44.6
+
+Place: ნოქალაქევი (ka)
+  Coordinates: 42.3167, 42.1833
+
+Place: ნუხა (ka)
+  Coordinates: 41.5583, 45.3833
+
+Place: ოპიზა (ka)
+  Coordinates: 41.8, 43.6
+
+Place: ორმაშენის (ძვ. ჯანდიდის) ეკლესია (ka)
+  Coordinates: Not found
+
+Place: ორომშენი (ძვ. ჯანდიდის) ეკლესია (ka)
+  Coordinates: Not found
+
+Place: ოსტია (ka)
+  Coordinates: 41.752, 12.292
+
+Place: პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი (ka)
+  Coordinates: 31.5497, 35.1654
+
+Place: პანტიანი (ka)
+  Coordinates: Not found
+
+Place: პატარა გომარეთი, ღვთისმშობლის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: პატარა სმადის ეკლესია (ka)
+  Coordinates: 41.4, 43.3
+
+Place: ჟინვალი (ka)
+  Coordinates: 42.0717, 44.7797
+
+Place: სააღმშენებლო წარწერა გივი ავალიშვილისა და მისი მეუღლის, მეფეთმეფის ასულ სოფიოსი (ka)
+  Coordinates: Not found
+
+Place: სათხე (ka)
+  Coordinates: 41.6667, 44.8333
+
+Place: საირხე (ka)
+  Coordinates: 42.1833, 43.6167
+
+Place: საკირე, წითელი ეკლესია (ყიზილ ქილა) (ka)
+  Coordinates: Not found
+
+Place: საკირე, წითელი ეკლესია (ყიზილ ქილი) (ka)
+  Coordinates: Not found
+
+Place: სამთავრო (ka)
+  Coordinates: 41.8451, 44.7188
+
+Place: სამთავროს უბანი, მცხეთა (ka)
+  Coordinates: 41.8451, 44.7188
+
+Place: სარკინეთი (ka)
+  Coordinates: Not found
+
+Place: საროს ციხე (ka)
+  Coordinates: 41.7, 42.9
+
+Place: საფარის მონასტერი (ka)
+  Coordinates: 41.55, 42.65
+
+Place: საფარის მონასტრის მიძინების ტაძარი (ka)
+  Coordinates: 41.55, 42.65
+
+Place: საფარის მონასტრის წმ. საბას ტაძარი (ka)
+  Coordinates: 41.55, 42.65
+
+Place: საფარის წმ. გიორგის ეკლესია (ka)
+  Coordinates: 41.55, 42.65
+
+Place: საყდრისქეის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: სეფიეთი (ka)
+  Coordinates: 42.1167, 43.85
+
+Place: სოფ. თანუსი, ხუნზახის რაიონი, დაღესტანი (ka)
+  Coordinates: 42.5167, 46.7667
+
+Place: სოფ. კოშის ეკლესია, სომხეთი (ka)
+  Coordinates: 40.95, 44.7
+
+Place: სოფ. მითლიჰურიბი, შამილის რაონი, დაღესტანი (ka)
+  Coordinates: 42.4667, 46.6333
+
+Place: სოფ. მურუხი, ჭაროდის რაიონი, დაღესტანი (ka)
+  Coordinates: 42.1833, 46.9167
+
+Place: სოფ. რუღჟაბი, ღუნიბის რაიონი, დაღესტანი (ka)
+  Coordinates: 42.4167, 46.9333
+
+Place: სოფ. ურადა, შამილის რაონი, დაღესტანი (ka)
+  Coordinates: 42.4833, 46.6167
+
+Place: სოფ. ჰოწატლი, ხუნზახის რაიონი, დაღესტანი (ka)
+  Coordinates: 42.5333, 46.7333
+
+Place: სოფელ ხეოთის ნამონასტრალი (ka)
+  Coordinates: 41.7667, 44.6833
+
+Place: სოხუმი (ka)
+  Coordinates: 42.865, 41.0236
+
+Place: ტიმოთესუბანი (ka)
+  Coordinates: 41.8167, 43.5833
+
+Place: ტყემლიანი (ka)
+  Coordinates: Not found
+
+Place: უდე, ადიგენის მუნიციპალიტეტი (ka)
+  Coordinates: 41.6833, 42.7167
+
+Place: უკანგორი (ka)
+  Coordinates: 41.9167, 44.8333
+
+Place: უკანგორის ეკლესიის ახლოს მდებარე სასაფლაოზეა ნაპოვნი (ka)
+  Coordinates: 41.9167, 44.8333
+
+Place: უმ ლეისუნი, იერუსალიმი (ka)
+  Coordinates: 31.7683, 35.2137
+
+Place: ურბნისის სიონი (ka)
+  Coordinates: 41.75, 44.6167
+
+Place: ფარი (ka)
+  Coordinates: 42.95, 42.6333
+
+Place: ფაშიანთა (ka)
+  Coordinates: 42.3333, 40.5
+
+Place: ფიის წმინდა თეოდორეს ეკლესია (ka)
+  Coordinates: 41.6, 42.8
+
+Place: ფინეზაურის ხეობა, საყდრისქედის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: ფიჭვნარი (ka)
+  Coordinates: 41.6833, 41.7333
+
+Place: ფოთოლეთის ეკლესია, სავედრებელი წარწერა კვირიკესი (ka)
+  Coordinates: Not found
+
+Place: ფოთოლეთის ეკლესია, სავედრებელი წარწერის ფრაგმენტი (ka)
+  Coordinates: Not found
+
+Place: ქარზამეთის ეკლესია (ka)
+  Coordinates: 41.8333, 44.8333
+
+Place: ქვემო ყარაბულახი, დანგრეული სარკის წმ. გიორგის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: ქობაირის მონასტერი, სომხეთი (ka)
+  Coordinates: 41.0167, 44.6333
+
+Place: ქციის ხეობა ე. წ. ლიპარიტის უბნის მონასტრის („ლამაზ-საყდარი“) მთავარი ეკლესია (ka)
+  Coordinates: Not found
+
+Place: ღუმურიში (ka)
+  Coordinates: 42.65, 40.25
+
+Place: ყარსის ციხე, თურქეთი (ka)
+  Coordinates: 40.6017, 43.0939
+
+Place: შახმარლოს ეკლესია (ka)
+  Coordinates: Not found
+
+Place: შაჰნაზარის ზემო ეკლესია, სომხეთი (ka)
+  Coordinates: 40.91, 44.69
+
+Place: შაჰნაზარის ქვემო ეკლესია, სომხეთი (ka)
+  Coordinates: 40.9, 44.6833
+
+Place: ცაიში (ka)
+  Coordinates: 42.4, 42.2
+
+Place: ციხისუბანი, ადიგენის მუნიციპალიტეტი (ka)
+  Coordinates: 41.65, 42.7333
+
+Place: ძალისა (ka)
+  Coordinates: 41.8667, 44.8167
+
+Place: წალენჯიხა (ka)
+  Coordinates: 42.6167, 42.0333
+
+Place: წანდრიფში (ka)
+  Coordinates: 43.2833, 40.05
+
+Place: წარჩე (ka)
+  Coordinates: 42.9, 40.3
+
+Place: წარწერის ფრაგმენტი შალვა ერისთავთ-ერისთავისა, მეჭურჭლეთუხუცესისა, მანდატურთუხუცესისა (ka)
+  Coordinates: Not found
+
+Place: წებელდა (ka)
+  Coordinates: 42.9167, 40.0833
+
+Place: წებელდა (ლარი) (ka)
+  Coordinates: 42.9167, 40.0833
+
+Place: წილკანი (ka)
+  Coordinates: 41.9333, 44.6833
+
+Place: წკელიკარი (ka)
+  Coordinates: 42.85, 40.25
+
+Place: წუნდის ეკლესია (ka)
+  Coordinates: 41.65, 42.75
+
+Place: წყისე (ka)
+  Coordinates: 41.95, 44.75
+
+Place: ჭლოუ (ka)
+  Coordinates: 42.88, 40.28
+
+Place: ჭოჭიანის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: ჭყონდიდი (ka)
+  Coordinates: 42.2833, 42.1167
+
+Place: ხვილიშას ტაძარი, ასპინძის მუნიციპალიტეტი (ka)
+  Coordinates: 41.5167, 43.25
+
+Place: ხობი (ka)
+  Coordinates: 42.3167, 41.9
+
+Place: ხუნზახი, დაღესტანი (ka)
+  Coordinates: 42.55, 46.75
+
+Place: ხუნძი, დაღესტანი (ka)
+  Coordinates: 42.45, 46.8
+
+Place: ხცისი (ka)
+  Coordinates: 41.85, 44.75
+
+Place: ჯვრის მონასტერი, მცხეთა (ka)
+  Coordinates: 41.8383, 44.7333
+
+Place: ჯუჯაქენდის ეკლესია, სომხეთი (ka)
+  Coordinates: 40.85, 44.75
+
+Place: ჰალას ნაქალაქარი, დაღესტანი (ka)
+  Coordinates: 42.3167, 46.8833
+
+Place: ჰამამლუ (ძვ. ვარძაგარა), ზღუდის წმ. გრიგოლის ეკლესია (ka)
+  Coordinates: Not found
+
+Place: ჰამამლუს (ძვ. ვარძაგარა) (ka)
+  Coordinates: Not found
+
+Place: ჰაღბატი (ka)
+  Coordinates: 41.0955, 44.714
+
+Place: ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი (ka)
+  Coordinates: 40.9167, 44.8333
+
+Summary: 214/257 places have coordinates

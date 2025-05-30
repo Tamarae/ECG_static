@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ნიკოლოზ - პროსოპოგრაფია</title>
+        <link rel="stylesheet" href="../static/css/style.css">
+        <meta name="description" content="Prosopographical record for ნიკოლოზ from the Epigraphic Corpus of Georgia">
+    </head>
+    <body>
+        <nav class="navbar">
+            <div class="container">
+                <a href="../index.html" class="brand">ECG - Epigraphic Corpus of Georgia</a>
+                <div class="nav-links">
+                    <a href="../index.html">საწყისი</a>
+                    <a href="../browse.html">წარწერები</a>
+                    <a href="../persons.html">პირები</a>
+                    <a href="../bibliography.html">ბიბლიოგრაფია</a>
+                </div>
+            </div>
+        </nav>
+    
+        <main class="container">
+            <div class="breadcrumb">
+                <a href="../persons.html">პროსოპოგრაფია</a> / <span>ნიკოლოზ</span>
+            </div>
+            
+            <!-- Centered Person Header (Your Style) -->
+            <div class="person-header">
+                <h1 class="person-name georgian-text">ნიკოლოზ</h1>
+                
+            </div>
+    
+            <!-- Two Column Grid (Simplified Layout) -->
+            <div class="two-column-grid">            
+                <!-- Left Column: Name Variants & References -->
+                <div class="card">
+                    
+                    
+                </div>
+    
+                <!-- Center Column: Attestations & Sources (Your Style) -->
+                <div class="card">
+                    <h3>წყაროები / Sources and Attestations</h3>
+                    <p style="margin-bottom: 16px;"><strong>სულ:</strong> 3</p>
+                    
+                    <div class="attestations-content">
+                        
+                    <div class="attestation-entry">
+                        <div class="attestation-header">
+                            <strong class="inscription-id">ECG229</strong>
+                            <span class="inscription-tag">INSCRIPTION</span>
+                        </div>
+                        <h4 class="inscription-title georgian-text">
+                            <a href="../inscriptions/ECG229.html" target="_blank">საამშენებლო წარწერა ჲოვანესი, ნიკოლოზის ძისა</a>
+                        </h4>
+                        <div class="attestation-details">
+                            
+                            <span class="detail-date">📅 1040 AD</span>
+                            <span class="detail-language">ka</span>
+                        </div>
+                    </div>
+                
+
+                    <div class="attestation-entry">
+                        <div class="attestation-header">
+                            <strong class="inscription-id">ECG495</strong>
+                            <span class="inscription-tag">INSCRIPTION</span>
+                        </div>
+                        <h4 class="inscription-title georgian-text">
+                            <a href="../inscriptions/ECG495.html" target="_blank">გუჯარეთის ხეობა. მაჭარწყლის ეკლესია, სავედრებელი წარწერა ნიკოლოზისა, X-XI სს.</a>
+                        </h4>
+                        <div class="attestation-details">
+                            
+                            <span class="detail-date">📅 X-XI AD</span>
+                            <span class="detail-language">ka</span>
+                        </div>
+                    </div>
+                
+
+                    <div class="attestation-entry">
+                        <div class="attestation-header">
+                            <strong class="inscription-id">ECG500</strong>
+                            <span class="inscription-tag">INSCRIPTION</span>
+                        </div>
+                        <h4 class="inscription-title georgian-text">
+                            <a href="../inscriptions/ECG500.html" target="_blank">ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია, სავედრებელი წარწერა ნიკოლოზისა, XI ს.</a>
+                        </h4>
+                        <div class="attestation-details">
+                            
+                            <span class="detail-date">📅 XI AD</span>
+                            <span class="detail-language">ka</span>
+                        </div>
+                    </div>
+                
+                    </div>
+                </div>
+    
+                <!-- Right Column: Co-occurring Persons -->
+                <div class="card">
+                    
+                    
+                    <!-- Citation -->
+                    <div class="citation-section">
+                        <h4>ციტირება / Citation</h4>
+                        <div class="citation-text">
+                            პროსოპოგრაფია. "ნიკოლოზ." 
+                            წვდომის თარიღი: <span id="access-date"></span>. 
+                            georgianprosopography.org/person/nikoloz
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    
+        <script>
+            // Set access date
+            document.getElementById('access-date').textContent = new Date().toLocaleDateString('ka-GE');
+            
+            // Export functionality
+            function exportPersonData() {
+                const data = {
+                    name: "ნიკოლოზ",
+                    uri: "nikoloz",
+                    inscriptions: 3,
+                    locations: 0,
+                    attestations: 3
+                };
+                
+                const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'nikoloz.json';
+                a.click();
+                URL.revokeObjectURL(url);
+            }
+            
+            // Copy URL functionality
+            function copyUrl() {
+                navigator.clipboard.writeText(window.location.href).then(() => {
+                    alert('URL copied to clipboard!');
+                }).catch(err => {
+                    console.error('Could not copy URL: ', err);
+                });
+            }
+        </script>
+    </body>
+    </html>

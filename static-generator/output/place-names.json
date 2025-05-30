@@ -1,0 +1,3263 @@
+{
+  "ka": {
+    "წილკანი": {
+      "lat": 41.9333,
+      "lon": 44.6833,
+      "name_en": "Tsilkani",
+      "has_coordinates": true
+    },
+    "სეფიეთი": {
+      "lat": 42.1167,
+      "lon": 43.85,
+      "name_en": "Sepieti",
+      "has_coordinates": true
+    },
+    "არმაზციხე, ბაგინეთი": {
+      "lat": 41.8333,
+      "lon": 44.7,
+      "name_en": "Armaztsikhe, Bagineti",
+      "has_coordinates": true
+    },
+    "ნოსირი": {
+      "lat": 41.75,
+      "lon": 44.6,
+      "name_en": "Nosiri",
+      "has_coordinates": true
+    },
+    "კავთისხევი": {
+      "lat": 41.82,
+      "lon": 44.73,
+      "name_en": "Kavtiskhevi",
+      "has_coordinates": true
+    },
+    "სამთავრო": {
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "name_en": "Samtavro",
+      "has_coordinates": true
+    },
+    "ზნაკვა": {
+      "lat": 41.9,
+      "lon": 44.8,
+      "name_en": "Znakva, Jvarisa Church",
+      "has_coordinates": true
+    },
+    "ვანი": {
+      "lat": 42.0833,
+      "lon": 42.5,
+      "name_en": "Vani",
+      "has_coordinates": true
+    },
+    "წყისე": {
+      "lat": 41.95,
+      "lon": 44.75,
+      "name_en": "Tskise",
+      "has_coordinates": true
+    },
+    "აკაურთა": {
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "name_en": "Akaurta, Bolnisi municipality",
+      "has_coordinates": true
+    },
+    "ნუხა": {
+      "lat": 41.5583,
+      "lon": 45.3833,
+      "name_en": "Nukha",
+      "has_coordinates": true
+    },
+    "არმაზისხევი": {
+      "lat": 41.8423,
+      "lon": 44.7145,
+      "name_en": "Armaziskhevi",
+      "has_coordinates": true
+    },
+    "ატენის სიონი": {
+      "lat": 41.9039,
+      "lon": 44.0959,
+      "name_en": "Ateni Sioni",
+      "has_coordinates": true
+    },
+    "წებელდა": {
+      "lat": 42.9167,
+      "lon": 40.0833,
+      "name_en": "Tsebrelda",
+      "has_coordinates": true
+    },
+    "კაზრეთი": {
+      "lat": 41.3333,
+      "lon": 44.3,
+      "name_en": "Kazreti",
+      "has_coordinates": true
+    },
+    "ვაშნარი": {
+      "lat": 41.7,
+      "lon": 44.55,
+      "name_en": "Vashnari",
+      "has_coordinates": true
+    },
+    "სამთავროს უბანი, მცხეთა": {
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "name_en": "Samtavro, Mtskheta",
+      "has_coordinates": true
+    },
+    "ზემო ნიქოზი, ღვთაების ტაძარი": {
+      "lat": 42.0,
+      "lon": 44.1,
+      "name_en": "Zemo Nikozi, Deity Church",
+      "has_coordinates": true
+    },
+    "ზემო ნიქოზი, მთავარანგელოზის ტაძარი": {
+      "lat": 42.0,
+      "lon": 44.1,
+      "name_en": "Zemo Nikozi, Archangel Church",
+      "has_coordinates": true
+    },
+    "ჯვრის მონასტერი, მცხეთა": {
+      "lat": 41.8383,
+      "lon": 44.7333,
+      "name_en": "Jvari Monastery, Mtskheta",
+      "has_coordinates": true
+    },
+    "ურბნისის სიონი": {
+      "lat": 41.75,
+      "lon": 44.6167,
+      "name_en": "Urbnisi Sioni",
+      "has_coordinates": true
+    },
+    "ლამაზი გორა, ბოლნისის მუნიციპალიტეტი": {
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "name_en": "Lamazi Gora, Bolnisi",
+      "has_coordinates": true
+    },
+    "ლამაზი გორა, ბოლნისი": {
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "name_en": "Lamazi Gora, Bolnisi",
+      "has_coordinates": true
+    },
+    "პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი": {
+      "lat": 31.5497,
+      "lon": 35.1654,
+      "name_en": "Palestine, Judean Desert, Georgian Monastery of Saint Theodore",
+      "has_coordinates": true
+    },
+    "ბოლნისის სიონი": {
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "name_en": "Bolnisi Sioni",
+      "has_coordinates": true
+    },
+    "ანაპა": {
+      "lat": 44.8951,
+      "lon": 37.3167,
+      "name_en": "Anapa",
+      "has_coordinates": true
+    },
+    "მცხეთა": {
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "name_en": "Mtskheta",
+      "has_coordinates": true
+    },
+    "მცხეთა, მოგვთა უბანი": {
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "name_en": "Mtskheta, Mogvta District",
+      "has_coordinates": true
+    },
+    "უკანგორი": {
+      "lat": 41.9167,
+      "lon": 44.8333,
+      "name_en": "Ukangori",
+      "has_coordinates": true
+    },
+    "ზარზმის მონასტერი": {
+      "lat": 41.55,
+      "lon": 42.65,
+      "name_en": "Zarzma Monastery",
+      "has_coordinates": true
+    },
+    "ფიის წმინდა თეოდორეს ეკლესია": {
+      "lat": 41.6,
+      "lon": 42.8,
+      "name_en": "Phia Church of St. Theodore",
+      "has_coordinates": true
+    },
+    "სოფელ ხეოთის ნამონასტრალი": {
+      "lat": 41.7667,
+      "lon": 44.6833,
+      "name_en": "Village Kheoti Former Monastery",
+      "has_coordinates": true
+    },
+    "აგარის (ურვალის) ეკლესია": {
+      "lat": 41.8,
+      "lon": 43.7,
+      "name_en": "Agara (Urvali) Church",
+      "has_coordinates": true
+    },
+    "საროს ციხე": {
+      "lat": 41.7,
+      "lon": 42.9,
+      "name_en": "Saro Castle",
+      "has_coordinates": true
+    },
+    "წუნდის ეკლესია": {
+      "lat": 41.65,
+      "lon": 42.75,
+      "name_en": "Tsunda Church",
+      "has_coordinates": true
+    },
+    "ვანის ქვაბები": {
+      "lat": 41.3667,
+      "lon": 43.2833,
+      "name_en": "Vanis Kvabebi",
+      "has_coordinates": true
+    },
+    "საფარის მონასტრის წმ. საბას ტაძარი": {
+      "lat": 41.55,
+      "lon": 42.65,
+      "name_en": "Sapara Monastery St. Saba Cathedral",
+      "has_coordinates": true
+    },
+    "ბიეთის ეკლესია": {
+      "lat": 41.6167,
+      "lon": 42.9333,
+      "name_en": "Bieti Church",
+      "has_coordinates": true
+    },
+    "თმოგვის ციხე": {
+      "lat": 41.35,
+      "lon": 43.2,
+      "name_en": "Tmogvi Castle",
+      "has_coordinates": true
+    },
+    "ვარძია": {
+      "lat": 41.3718,
+      "lon": 43.2545,
+      "name_en": "Vardzia",
+      "has_coordinates": true
+    },
+    "პატარა სმადის ეკლესია": {
+      "lat": 41.4,
+      "lon": 43.3,
+      "name_en": "Patara Smada Church",
+      "has_coordinates": true
+    },
+    "საფარის წმ. გიორგის ეკლესია": {
+      "lat": 41.55,
+      "lon": 42.65,
+      "name_en": "Sapara St. George Church",
+      "has_coordinates": true
+    },
+    "ვალეს ღვთისმშობლის ეკლესია": {
+      "lat": 42.1667,
+      "lon": 43.5833,
+      "name_en": "Vale Mother of God Church",
+      "has_coordinates": true
+    },
+    "ქარზამეთის ეკლესია": {
+      "lat": 41.8333,
+      "lon": 44.8333,
+      "name_en": "Karzamet Church",
+      "has_coordinates": true
+    },
+    "უმ ლეისუნი, იერუსალიმი": {
+      "lat": 31.7683,
+      "lon": 35.2137,
+      "name_en": "Um Leisuni, Jerusalem",
+      "has_coordinates": true
+    },
+    "სათხე": {
+      "lat": 41.6667,
+      "lon": 44.8333,
+      "name_en": "Satkhis",
+      "has_coordinates": true
+    },
+    "აბასთუმნის ძველი ეკლესია": {
+      "lat": 41.75,
+      "lon": 42.8333,
+      "name_en": "Abastumani Old Church",
+      "has_coordinates": true
+    },
+    "ახალციხე": {
+      "lat": 41.6386,
+      "lon": 42.9813,
+      "name_en": "Akhaltsikhe",
+      "has_coordinates": true
+    },
+    "ბორჯომი": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "ლაილაში": {
+      "lat": 41.6,
+      "lon": 42.85,
+      "name_en": "Lailashi",
+      "has_coordinates": true
+    },
+    "ხვილიშას ტაძარი, ასპინძის მუნიციპალიტეტი": {
+      "lat": 41.5167,
+      "lon": 43.25,
+      "name_en": "Khvilisha Temple, Aspindza Municipality",
+      "has_coordinates": true
+    },
+    "ხცისი": {
+      "lat": 41.85,
+      "lon": 44.75,
+      "name_en": "Khtsis",
+      "has_coordinates": true
+    },
+    "არმაზი": {
+      "lat": 41.8333,
+      "lon": 44.7,
+      "name_en": "Armazi",
+      "has_coordinates": true
+    },
+    "ზღუდერი": {
+      "lat": 42.7167,
+      "lon": 40.1667,
+      "name_en": "Zghuderi",
+      "has_coordinates": true
+    },
+    "საფარის მონასტრის მიძინების ტაძარი": {
+      "lat": 41.55,
+      "lon": 42.65,
+      "name_en": "Sapara Monastery Dormition Cathedral",
+      "has_coordinates": true
+    },
+    "ბორი": {
+      "lat": 42.0833,
+      "lon": 43.5,
+      "name_en": "Bori",
+      "has_coordinates": true
+    },
+    "აირავანქი": {
+      "lat": 40.1642,
+      "lon": 44.7019,
+      "name_en": "Hayravank",
+      "has_coordinates": true
+    },
+    "უდე, ადიგენის მუნიციპალიტეტი": {
+      "lat": 41.6833,
+      "lon": 42.7167,
+      "name_en": "Ude, Adigeni Municipality",
+      "has_coordinates": true
+    },
+    "ბოდოკლდის ეკლესია": {
+      "lat": 41.6,
+      "lon": 42.7,
+      "name_en": "Bodolkdi Church",
+      "has_coordinates": true
+    },
+    "ოპიზა": {
+      "lat": 41.8,
+      "lon": 43.6,
+      "name_en": "Opiza",
+      "has_coordinates": true
+    },
+    "ბოგა, ახალციხის მუნიციპალიტეტი": {
+      "lat": 41.6333,
+      "lon": 42.9167,
+      "name_en": "Boga, Akhaltsikhe Municipality",
+      "has_coordinates": true
+    },
+    "ციხისუბანი, ადიგენის მუნიციპალიტეტი": {
+      "lat": 41.65,
+      "lon": 42.7333,
+      "name_en": "Tsikhisubani, Adigeni Municipality",
+      "has_coordinates": true
+    },
+    "ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი": {
+      "lat": 41.6667,
+      "lon": 42.75,
+      "name_en": "Amkhes Nasoflari, Adigeni Municipality",
+      "has_coordinates": true
+    },
+    "ვარძიის ღვთისმშობლის მიძინების ტაძარი": {
+      "lat": 41.3718,
+      "lon": 43.2545,
+      "name_en": "Vardzia Dormition of the Mother of God Cathedral",
+      "has_coordinates": true
+    },
+    "საფარის მონასტერი": {
+      "lat": 41.55,
+      "lon": 42.65,
+      "name_en": "Sapara Monastery",
+      "has_coordinates": true
+    },
+    "ბიეთის ეკლესია, ახალციხის მუნიციპალიტეტი": {
+      "lat": 41.6167,
+      "lon": 42.9333,
+      "name_en": "Bieti Church, Akhaltsikhe Municipality",
+      "has_coordinates": true
+    },
+    "კუმურდო": {
+      "lat": 41.2833,
+      "lon": 43.4167,
+      "name_en": "Kumurdo",
+      "has_coordinates": true
+    },
+    "მცხეთის ჯვარი": {
+      "lat": 41.8383,
+      "lon": 44.7333,
+      "name_en": "Mtskheta Jvari",
+      "has_coordinates": true
+    },
+    "ანისი": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_en": "Ani",
+      "has_coordinates": true
+    },
+    "ჰაღბატი": {
+      "lat": 41.0955,
+      "lon": 44.714,
+      "name_en": "Haghpat",
+      "has_coordinates": true
+    },
+    "ბერდიკი": {
+      "lat": 41.35,
+      "lon": 44.45,
+      "name_en": "Berdik",
+      "has_coordinates": true
+    },
+    "დმანისი": {
+      "lat": 41.3298,
+      "lon": 44.2073,
+      "name_en": "Dmanisi",
+      "has_coordinates": true
+    },
+    "დაბლუტის წყლის ხეობა": {
+      "lat": null,
+      "lon": null
+    },
+    "პანტიანი": {
+      "lat": null,
+      "lon": null
+    },
+    "ნაგზაურა": {
+      "lat": null,
+      "lon": null
+    },
+    "სარკინეთი": {
+      "lat": null,
+      "lon": null
+    },
+    "მამულა, ღვთისმშობლის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "ველისპირი": {
+      "lat": null,
+      "lon": null
+    },
+    "დმანისის ნაქალაქარი": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_en": "Ani",
+      "has_coordinates": true
+    },
+    "ამბარლო, წმ. ელია წინასწარმეტყველის სახელობის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "იფნარი (ყოფილი კიროვისი, ადრინდელი ვალდჰეიმი)": {
+      "lat": null,
+      "lon": null
+    },
+    "დიდი გომარეთი, წმ. მარიამის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "შახმარლოს ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "დიდი გომარეთი, წმ. გიორგის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "პატარა გომარეთი, ღვთისმშობლის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "ქვემო ყარაბულახი, დანგრეული სარკის წმ. გიორგის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "საკირე, წითელი ეკლესია (ყიზილ ქილი)": {
+      "lat": null,
+      "lon": null
+    },
+    "საკირე, წითელი ეკლესია (ყიზილ ქილა)": {
+      "lat": null,
+      "lon": null
+    },
+    "დიდი დმანისი, ღმრთისმშობლის ეკლესია": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_en": "Ani",
+      "has_coordinates": true
+    },
+    "დმანისის არქეოლოგიური ბაზა": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_en": "Ani",
+      "has_coordinates": true
+    },
+    "მიჯას (ჯავახის) ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "ორომშენი (ძვ. ჯანდიდის) ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "ორმაშენის (ძვ. ჯანდიდის) ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "დმანისის სიონი": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_en": "Ani",
+      "has_coordinates": true
+    },
+    "ჭოჭიანის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "ქციის ხეობა ე. წ. ლიპარიტის უბნის მონასტრის („ლამაზ-საყდარი“) მთავარი ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "დმანისი, ქციის ხეობა, ლიპარიტის უბნის მონასტერი": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_en": "Ani",
+      "has_coordinates": true
+    },
+    "ჰამამლუ (ძვ. ვარძაგარა), ზღუდის წმ. გრიგოლის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "ფინეზაურის ხეობა, საყდრისქედის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "დმანისის კათედრალური ტაძარი": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_en": "Ani",
+      "has_coordinates": true
+    },
+    "დმანისის ციხის წმ. მარინეს ეკლესია": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_en": "Ani",
+      "has_coordinates": true
+    },
+    "საყდრისქეის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "ტყემლიანი": {
+      "lat": null,
+      "lon": null
+    },
+    "ჰამამლუს (ძვ. ვარძაგარა)": {
+      "lat": null,
+      "lon": null
+    },
+    "ჟინვალი": {
+      "lat": 42.0717,
+      "lon": 44.7797,
+      "name_en": "Zhinvali",
+      "has_coordinates": true
+    },
+    "ფაშიანთა": {
+      "lat": 42.3333,
+      "lon": 40.5,
+      "name_en": "Pashianta",
+      "has_coordinates": true
+    },
+    "წანდრიფში": {
+      "lat": 43.2833,
+      "lon": 40.05,
+      "name_en": "Tsandripshi",
+      "has_coordinates": true
+    },
+    "ბიჭვინთა": {
+      "lat": 43.1611,
+      "lon": 40.3456,
+      "name_en": "Bichvinta",
+      "has_coordinates": true
+    },
+    "ახალი ათონი": {
+      "lat": 43.0869,
+      "lon": 40.0908,
+      "name_en": "New Athos",
+      "has_coordinates": true
+    },
+    "ეშერა": {
+      "lat": 43.05,
+      "lon": 40.1,
+      "name_en": "Eshera",
+      "has_coordinates": true
+    },
+    "სოხუმი": {
+      "lat": 42.865,
+      "lon": 41.0236,
+      "name_en": "Sokhumi",
+      "has_coordinates": true
+    },
+    "ფიჭვნარი": {
+      "lat": 41.6833,
+      "lon": 41.7333,
+      "name_en": "Pichvnari",
+      "has_coordinates": true
+    },
+    "ატენი": {
+      "lat": 41.9039,
+      "lon": 44.0959,
+      "name_en": "Ateni",
+      "has_coordinates": true
+    },
+    "ითხვისი": {
+      "lat": 42.0167,
+      "lon": 43.75,
+      "name_en": "Itkhvisi",
+      "has_coordinates": true
+    },
+    "გვანდრა": {
+      "lat": 42.2,
+      "lon": 43.6,
+      "name_en": "Gvandra",
+      "has_coordinates": true
+    },
+    "საირხე": {
+      "lat": 42.1833,
+      "lon": 43.6167,
+      "name_en": "Sairkhe",
+      "has_coordinates": true
+    },
+    "წებელდა (ლარი)": {
+      "lat": 42.9167,
+      "lon": 40.0833,
+      "name_en": "Tsebrelda (Lari)",
+      "has_coordinates": true
+    },
+    "ნოქალაქევი": {
+      "lat": 42.3167,
+      "lon": 42.1833,
+      "name_en": "Nokalakevi",
+      "has_coordinates": true
+    },
+    "ახტალა": {
+      "lat": 41.1,
+      "lon": 44.7833,
+      "name_en": "Akhtala",
+      "has_coordinates": true
+    },
+    "ბიჭვინტა": {
+      "lat": 43.1611,
+      "lon": 40.3456,
+      "name_en": "Bichvinta",
+      "has_coordinates": true
+    },
+    "ცაიში": {
+      "lat": 42.4,
+      "lon": 42.2,
+      "name_en": "Tsaishi",
+      "has_coordinates": true
+    },
+    "ძალისა": {
+      "lat": 41.8667,
+      "lon": 44.8167,
+      "name_en": "Dzalisa",
+      "has_coordinates": true
+    },
+    "ნაკიფარი": {
+      "lat": 42.0,
+      "lon": 43.5,
+      "name_en": "Nakipari",
+      "has_coordinates": true
+    },
+    "ვანის ნაქალაქარი": {
+      "lat": 42.0833,
+      "lon": 42.5,
+      "name_en": "Vani Archaeological Site",
+      "has_coordinates": true
+    },
+    "ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი": {
+      "lat": 40.9167,
+      "lon": 44.8333,
+      "name_en": "Hnevank (True Cross), Armenia",
+      "has_coordinates": true
+    },
+    "ჯუჯაქენდის ეკლესია, სომხეთი": {
+      "lat": 40.85,
+      "lon": 44.75,
+      "name_en": "Jujaqendi Church, Armenia",
+      "has_coordinates": true
+    },
+    "ქობაირის მონასტერი, სომხეთი": {
+      "lat": 41.0167,
+      "lon": 44.6333,
+      "name_en": "Kobayr Monastery, Armenia",
+      "has_coordinates": true
+    },
+    "სოფ. კოშის ეკლესია, სომხეთი": {
+      "lat": 40.95,
+      "lon": 44.7,
+      "name_en": "Village Kosh Church, Armenia",
+      "has_coordinates": true
+    },
+    "კურთანის ეკლესია, სომხეთი": {
+      "lat": 40.9833,
+      "lon": 44.7167,
+      "name_en": "Kurtan Church, Armenia",
+      "has_coordinates": true
+    },
+    "თეჟარუიქის ეკლესია, სომხეთი": {
+      "lat": 40.9667,
+      "lon": 44.7333,
+      "name_en": "Tezharuiq Church, Armenia",
+      "has_coordinates": true
+    },
+    "შაჰნაზარის ქვემო ეკლესია, სომხეთი": {
+      "lat": 40.9,
+      "lon": 44.6833,
+      "name_en": "Shahnazar Lower Church, Armenia",
+      "has_coordinates": true
+    },
+    "შაჰნაზარის ზემო ეკლესია, სომხეთი": {
+      "lat": 40.91,
+      "lon": 44.69,
+      "name_en": "Shahnazar Upper Church, Armenia",
+      "has_coordinates": true
+    },
+    "უკანგორის ეკლესიის ახლოს მდებარე სასაფლაოზეა ნაპოვნი": {
+      "lat": 41.9167,
+      "lon": 44.8333,
+      "name_en": "Cemetery found near Ukangori Church",
+      "has_coordinates": true
+    },
+    "ხუნზახი, დაღესტანი": {
+      "lat": 42.55,
+      "lon": 46.75,
+      "name_en": "Khunzakh, Dagestan",
+      "has_coordinates": true
+    },
+    "სოფ. ურადა, შამილის რაონი, დაღესტანი": {
+      "lat": 42.4833,
+      "lon": 46.6167,
+      "name_en": "Village Urada, Shamil District, Dagestan",
+      "has_coordinates": true
+    },
+    "სოფ. რუღჟაბი, ღუნიბის რაიონი, დაღესტანი": {
+      "lat": 42.4167,
+      "lon": 46.9333,
+      "name_en": "Village Ruzhgabi, Ghunib District, Dagestan",
+      "has_coordinates": true
+    },
+    "გინიჩუტლი, დაღესტანი": {
+      "lat": 42.3833,
+      "lon": 46.8167,
+      "name_en": "Ginichutli, Dagestan",
+      "has_coordinates": true
+    },
+    "სოფ. მითლიჰურიბი, შამილის რაონი, დაღესტანი": {
+      "lat": 42.4667,
+      "lon": 46.6333,
+      "name_en": "Village Mitlikhuribi, Shamil District, Dagestan",
+      "has_coordinates": true
+    },
+    "სოფ. ჰოწატლი, ხუნზახის რაიონი, დაღესტანი": {
+      "lat": 42.5333,
+      "lon": 46.7333,
+      "name_en": "Village Hotsatli, Khunzakh District, Dagestan",
+      "has_coordinates": true
+    },
+    "სოფ. მურუხი, ჭაროდის რაიონი, დაღესტანი": {
+      "lat": 42.1833,
+      "lon": 46.9167,
+      "name_en": "Village Murukhi, Charoda District, Dagestan",
+      "has_coordinates": true
+    },
+    "ყარსის ციხე, თურქეთი": {
+      "lat": 40.6017,
+      "lon": 43.0939,
+      "name_en": "Kars Fortress, Turkey",
+      "has_coordinates": true
+    },
+    "ანჩისხატის ტაძარი, თბილისი": {
+      "lat": 41.6919,
+      "lon": 44.8097,
+      "name_en": "Anchiskhati Cathedral, Tbilisi",
+      "has_coordinates": true
+    },
+    "ვარძიის ღვთისმშობლის სახელობის ეკლესია": {
+      "lat": 41.3718,
+      "lon": 43.2545,
+      "name_en": "Vardzia Mother of God Church",
+      "has_coordinates": true
+    },
+    "ვანის ქვაბები, ასპინძის მუნიციპალიტეტი": {
+      "lat": 41.3667,
+      "lon": 43.2833,
+      "name_en": "Vani Caves, Aspindza Municipality",
+      "has_coordinates": true
+    },
+    "ჰალას ნაქალაქარი, დაღესტანი": {
+      "lat": 42.3167,
+      "lon": 46.8833,
+      "name_en": "Halas Archaeological Site, Dagestan",
+      "has_coordinates": true
+    },
+    "ხუნძი, დაღესტანი": {
+      "lat": 42.45,
+      "lon": 46.8,
+      "name_en": "Khundzi, Dagestan",
+      "has_coordinates": true
+    },
+    "სოფ. თანუსი, ხუნზახის რაიონი, დაღესტანი": {
+      "lat": 42.5167,
+      "lon": 46.7667,
+      "name_en": "Village Tanusi, Khunzakh District, Dagestan",
+      "has_coordinates": true
+    },
+    "აქაროს მთა, დაღესტანი": {
+      "lat": 42.4,
+      "lon": 46.9,
+      "name_en": "Mount Akaro, Dagestan",
+      "has_coordinates": true
+    },
+    "მაცხვარიში": {
+      "lat": 42.75,
+      "lon": 40.2167,
+      "name_en": "Matskharishi",
+      "has_coordinates": true
+    },
+    "ლატალი": {
+      "lat": 43.0,
+      "lon": 42.7833,
+      "name_en": "Latali",
+      "has_coordinates": true
+    },
+    "ფარი": {
+      "lat": 42.95,
+      "lon": 42.6333,
+      "name_en": "Pari",
+      "has_coordinates": true
+    },
+    "ტიმოთესუბანი": {
+      "lat": 41.8167,
+      "lon": 43.5833,
+      "name_en": "Timotesubani",
+      "has_coordinates": true
+    },
+    "ლიპი": {
+      "lat": 42.25,
+      "lon": 42.4833,
+      "name_en": "Lipi",
+      "has_coordinates": true
+    },
+    "წალენჯიხა": {
+      "lat": 42.6167,
+      "lon": 42.0333,
+      "name_en": "Tsalenjikha",
+      "has_coordinates": true
+    },
+    "მარტვილი": {
+      "lat": 42.4167,
+      "lon": 42.3833,
+      "name_en": "Martvili",
+      "has_coordinates": true
+    },
+    "ხობი": {
+      "lat": 42.3167,
+      "lon": 41.9,
+      "name_en": "Khobi",
+      "has_coordinates": true
+    },
+    "გელათი": {
+      "lat": 42.2917,
+      "lon": 42.7567,
+      "name_en": "Gelati",
+      "has_coordinates": true
+    },
+    "ოსტია": {
+      "lat": 41.752,
+      "lon": 12.292,
+      "name_en": "Ostia",
+      "has_coordinates": true
+    },
+    "მსიგხუას ეკლესია": {
+      "lat": 42.5833,
+      "lon": 40.1667,
+      "name_en": "Msigkhva Church",
+      "has_coordinates": true
+    },
+    "მსიგხუა": {
+      "lat": 42.5833,
+      "lon": 40.1667,
+      "name_en": "Msigkhva",
+      "has_coordinates": true
+    },
+    "ბედიის ტაძარი": {
+      "lat": 42.7,
+      "lon": 40.2,
+      "name_en": "Bedia Cathedral",
+      "has_coordinates": true
+    },
+    "ბედია": {
+      "lat": 42.7,
+      "lon": 40.2,
+      "name_en": "Bedia",
+      "has_coordinates": true
+    },
+    "ბესლეთის ხიდის წარწერა": {
+      "lat": 42.85,
+      "lon": 41.0,
+      "name_en": "Beslet Bridge Inscription",
+      "has_coordinates": true
+    },
+    "ილორი": {
+      "lat": 42.8,
+      "lon": 40.15,
+      "name_en": "Ilori",
+      "has_coordinates": true
+    },
+    "ილორის წმინდა გიორგის ეკლესია": {
+      "lat": 42.8,
+      "lon": 40.15,
+      "name_en": "Ilori St. George Church",
+      "has_coordinates": true
+    },
+    "ილორის გიორგი გურგენიძის წარწერა": {
+      "lat": 42.8,
+      "lon": 40.15,
+      "name_en": "Ilori",
+      "has_coordinates": true
+    },
+    "ღუმურიში": {
+      "lat": 42.65,
+      "lon": 40.25,
+      "name_en": "Ghumurishi",
+      "has_coordinates": true
+    },
+    "ანუხვა": {
+      "lat": 43.0167,
+      "lon": 40.1833,
+      "name_en": "Anukhva",
+      "has_coordinates": true
+    },
+    "წარჩე": {
+      "lat": 42.9,
+      "lon": 40.3,
+      "name_en": "Tsarche",
+      "has_coordinates": true
+    },
+    "წკელიკარი": {
+      "lat": 42.85,
+      "lon": 40.25,
+      "name_en": "Tskelikari",
+      "has_coordinates": true
+    },
+    "დიხაზურგა": {
+      "lat": 42.95,
+      "lon": 40.35,
+      "name_en": "Dikhazurga",
+      "has_coordinates": true
+    },
+    "ლიხნი": {
+      "lat": 42.9167,
+      "lon": 40.25,
+      "name_en": "Likhni",
+      "has_coordinates": true
+    },
+    "ლიხნის ღვთისმშობლის მიძინების ტაძარი": {
+      "lat": 42.9167,
+      "lon": 40.25,
+      "name_en": "Likhni Dormition of the Mother of God Cathedral",
+      "has_coordinates": true
+    },
+    "ანუხვა (გუდაუთის რ-ნი) წარწერა სვეტზე.": {
+      "lat": 43.0167,
+      "lon": 40.1833,
+      "name_en": "Anukhva",
+      "has_coordinates": true
+    },
+    "ჭლოუ": {
+      "lat": 42.88,
+      "lon": 40.28,
+      "name_en": "Chlou",
+      "has_coordinates": true
+    },
+    "გუდავა": {
+      "lat": 42.8833,
+      "lon": 42.7167,
+      "name_en": "Gudava",
+      "has_coordinates": true
+    },
+    "ლიხნის ტაძარი": {
+      "lat": 42.9167,
+      "lon": 40.25,
+      "name_en": "Likhni Cathedral",
+      "has_coordinates": true
+    },
+    "გუჯარეთის ხეობა. თოთხამის ციხის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "გუჯარეთის ხეობა. „წითელი ეკლესია“": {
+      "lat": null,
+      "lon": null
+    },
+    "გუჯარეთის ხეობა. \"წითელი ეკლესია\"": {
+      "lat": null,
+      "lon": null
+    },
+    "გუჯარეთის ხეობა. მაჭარწყლის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "გუჯარეთის ხეობა. ტყემლოვანის ეკლესია": {
+      "lat": 42.0833,
+      "lon": 42.5,
+      "name_en": "Vani",
+      "has_coordinates": true
+    },
+    "ბორჯომის ხეობა. საკირე. „საყდრივაკის“ ეკლესია": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "ფოთოლეთის ეკლესია, სავედრებელი წარწერა კვირიკესი": {
+      "lat": null,
+      "lon": null
+    },
+    "ფოთოლეთის ეკლესია, სავედრებელი წარწერის ფრაგმენტი": {
+      "lat": null,
+      "lon": null
+    },
+    "თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა თეოდორესი": {
+      "lat": 42.0833,
+      "lon": 42.5,
+      "name_en": "Vani",
+      "has_coordinates": true
+    },
+    "გუჯარეთის ხეობა, თელოვანის წმინდა ელიასეკლესია, ვავედრებელი წარწერა ხარებასი": {
+      "lat": 42.0833,
+      "lon": 42.5,
+      "name_en": "Vani",
+      "has_coordinates": true
+    },
+    "გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა მიქაელისა": {
+      "lat": 42.0833,
+      "lon": 42.5,
+      "name_en": "Vani",
+      "has_coordinates": true
+    },
+    "გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, წარწერა კჳრიკესი": {
+      "lat": 42.0833,
+      "lon": 42.5,
+      "name_en": "Vani",
+      "has_coordinates": true
+    },
+    "ბორჯომის ხეობა, ქვაბისხევის ღვთისმშობლის ეკლესია, შოთა და იაის ფრესკული წარწერა": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "ბორჯომის ხეობა.ახალდაბის ეკლესია": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) წმიდა ბარბარეს ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "წარწერის ფრაგმენტი შალვა ერისთავთ-ერისთავისა, მეჭურჭლეთუხუცესისა, მანდატურთუხუცესისა": {
+      "lat": null,
+      "lon": null
+    },
+    "გუჯარეთის ხეობა. დაბის ღმრთისმშობლის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "გუჯარეთის ხეობა. თონეთის წმიდა გიორგის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "ბორჯომის ხეობა. ლიკანის ღმრთისმშობლის ეკლესია": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "სააღმშენებლო წარწერა გივი ავალიშვილისა და მისი მეუღლის, მეფეთმეფის ასულ სოფიოსი": {
+      "lat": null,
+      "lon": null
+    },
+    "ბორჯომის მხარეთმცოდნეობის მუზეუმი": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "ბორჯომის ხეობა. ყვიბისის წმიდა გიორგის ეკლესია": {
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "name_en": "Borjomi",
+      "has_coordinates": true
+    },
+    "გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) ღმრთისმშობლის ეკლესია": {
+      "lat": null,
+      "lon": null
+    },
+    "დავით გარეჯის მონასტერი": {
+      "lat": 41.4456,
+      "lon": 45.3789,
+      "name_en": "David Gareja Monastery",
+      "has_coordinates": true
+    },
+    "დავით გარეჯი, უდაბნო, სატრაპეზო": {
+      "lat": 41.4456,
+      "lon": 45.3789,
+      "name_en": "David Gareja, Desert, Refectory",
+      "has_coordinates": true
+    },
+    "მოხისი": {
+      "lat": 41.75,
+      "lon": 44.5833,
+      "name_en": "Mokhisi",
+      "has_coordinates": true
+    },
+    "ჭყონდიდი": {
+      "lat": 42.2833,
+      "lon": 42.1167,
+      "name_en": "Chkondidi",
+      "has_coordinates": true
+    }
+  },
+  "en": {
+    "Tsilkani": {
+      "lat": 41.9333,
+      "lon": 44.6833,
+      "name_ka": "წილკანი",
+      "has_coordinates": true
+    },
+    "Sepieti": {
+      "lat": 42.1167,
+      "lon": 43.85,
+      "name_ka": "სეფიეთი",
+      "has_coordinates": true
+    },
+    "Armatsikhe, Bagineti": {
+      "lat": null,
+      "lon": null
+    },
+    "Armaztsikhe, Bagineti": {
+      "lat": 41.8333,
+      "lon": 44.7,
+      "name_ka": "არმაზციხე, ბაგინეთი",
+      "has_coordinates": true
+    },
+    "Nosiri": {
+      "lat": 41.75,
+      "lon": 44.6,
+      "name_ka": "ნოსირი",
+      "has_coordinates": true
+    },
+    "Kavtiskhevi": {
+      "lat": 41.82,
+      "lon": 44.73,
+      "name_ka": "კავთისხევი",
+      "has_coordinates": true
+    },
+    "Samtavro": {
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "name_ka": "სამთავრო",
+      "has_coordinates": true
+    },
+    "Znakva": {
+      "lat": 41.9,
+      "lon": 44.8,
+      "name_ka": "ზნაკვა, ჯვარისას ეკლესია",
+      "has_coordinates": true
+    },
+    "Tskise": {
+      "lat": 41.95,
+      "lon": 44.75,
+      "name_ka": "წყისე",
+      "has_coordinates": true
+    },
+    "Akaurta": {
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "name_ka": "აკაურთა, ბოლნისის მუნიციპალიტეტი",
+      "has_coordinates": true
+    },
+    "Nukha": {
+      "lat": 41.5583,
+      "lon": 45.3833,
+      "name_ka": "ნუხა",
+      "has_coordinates": true
+    },
+    "Armaziskhevi": {
+      "lat": 41.8423,
+      "lon": 44.7145,
+      "name_ka": "არმაზისხევი",
+      "has_coordinates": true
+    },
+    "Ateni Sioni": {
+      "lat": 41.9039,
+      "lon": 44.0959,
+      "name_ka": "ატენის სიონი",
+      "has_coordinates": true
+    },
+    "Tsebelda": {
+      "lat": null,
+      "lon": null
+    },
+    "Kazreti": {
+      "lat": 41.3333,
+      "lon": 44.3,
+      "name_ka": "კაზრეთი",
+      "has_coordinates": true
+    },
+    "Vashnari": {
+      "lat": 41.7,
+      "lon": 44.55,
+      "name_ka": "ვაშნარი",
+      "has_coordinates": true
+    },
+    "Vani": {
+      "lat": 42.0833,
+      "lon": 42.5,
+      "name_ka": "ვანი",
+      "has_coordinates": true
+    },
+    "Samtavro, Mtskheta": {
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "name_ka": "სამთავროს უბანი, მცხეთა",
+      "has_coordinates": true
+    },
+    "Zemo Nikozi": {
+      "lat": 42.0,
+      "lon": 44.1,
+      "name_ka": "ზემო ნიქოზი, ღვთაების ტაძარი",
+      "has_coordinates": true
+    },
+    "Zemo Nikozi, Diety church": {
+      "lat": null,
+      "lon": null
+    },
+    "Zemo Nikozi, Archangel Church": {
+      "lat": 42.0,
+      "lon": 44.1,
+      "name_ka": "ზემო ნიქოზი, მთავარანგელოზის ტაძარი",
+      "has_coordinates": true
+    },
+    "Jvari Monastery, Mtskheta": {
+      "lat": 41.8383,
+      "lon": 44.7333,
+      "name_ka": "ჯვრის მონასტერი, მცხეთა",
+      "has_coordinates": true
+    },
+    "Urbnisi Sioni": {
+      "lat": 41.75,
+      "lon": 44.6167,
+      "name_ka": "ურბნისის სიონი",
+      "has_coordinates": true
+    },
+    "Lamazi Gora, Bolnisi": {
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "name_ka": "ლამაზი გორა, ბოლნისი",
+      "has_coordinates": true
+    },
+    "Bolnisi Sioni": {
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "name_ka": "ბოლნისის სიონი",
+      "has_coordinates": true
+    },
+    "Mtskheta": {
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "name_ka": "მცხეთა",
+      "has_coordinates": true
+    },
+    "Ukangori": {
+      "lat": 41.9167,
+      "lon": 44.8333,
+      "name_ka": "უკანგორი",
+      "has_coordinates": true
+    },
+    "Zarzma Monastery": {
+      "lat": 41.55,
+      "lon": 42.65,
+      "name_ka": "ზარზმის მონასტერი",
+      "has_coordinates": true
+    },
+    "Phia church of St. Theodor": {
+      "lat": 41.6,
+      "lon": 42.8,
+      "name_ka": "ფიის წმინდა თეოდორეს ეკლესია",
+      "has_coordinates": true
+    },
+    "Kheoti": {
+      "lat": 41.7667,
+      "lon": 44.6833,
+      "name_ka": "სოფელ ხეოთის ნამონასტრალი",
+      "has_coordinates": true
+    },
+    "Agara (Urvali) church": {
+      "lat": 41.8,
+      "lon": 43.7,
+      "name_ka": "აგარის (ურვალის) ეკლესია",
+      "has_coordinates": true
+    },
+    "Saro Castle": {
+      "lat": 41.7,
+      "lon": 42.9,
+      "name_ka": "საროს ციხე",
+      "has_coordinates": true
+    },
+    "Tsunda church": {
+      "lat": 41.65,
+      "lon": 42.75,
+      "name_ka": "წუნდის ეკლესია",
+      "has_coordinates": true
+    },
+    "Vanis Kvabebi": {
+      "lat": 41.3667,
+      "lon": 43.2833,
+      "name_ka": "ვანის ქვაბები",
+      "has_coordinates": true
+    },
+    "Sapara St. Saba Monastery": {
+      "lat": null,
+      "lon": null
+    },
+    "Bieti Church": {
+      "lat": 41.6167,
+      "lon": 42.9333,
+      "name_ka": "ბიეთის ეკლესია",
+      "has_coordinates": true
+    },
+    "Tmogvi Castle": {
+      "lat": 41.35,
+      "lon": 43.2,
+      "name_ka": "თმოგვის ციხე",
+      "has_coordinates": true
+    },
+    "Vardzia": {
+      "lat": 41.3718,
+      "lon": 43.2545,
+      "name_ka": "ვარძია",
+      "has_coordinates": true
+    },
+    "Smada church": {
+      "lat": 41.4,
+      "lon": 43.3,
+      "name_ka": "პატარა სმადის ეკლესია",
+      "has_coordinates": true
+    },
+    "Sapara St. George church": {
+      "lat": 41.55,
+      "lon": 42.65,
+      "name_ka": "საფარის წმ. გიორგის ეკლესია",
+      "has_coordinates": true
+    },
+    "Hayravank": {
+      "lat": 40.1642,
+      "lon": 44.7019,
+      "name_ka": "აირავანქი",
+      "has_coordinates": true
+    },
+    "Ani": {
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "name_ka": "ანისი",
+      "has_coordinates": true
+    },
+    "Haghpat": {
+      "lat": 41.0955,
+      "lon": 44.714,
+      "name_ka": "ჰაღბატი",
+      "has_coordinates": true
+    },
+    "Berdik": {
+      "lat": 41.35,
+      "lon": 44.45,
+      "name_ka": "ბერდიკი",
+      "has_coordinates": true
+    },
+    "Dmanisi": {
+      "lat": 41.3298,
+      "lon": 44.2073,
+      "name_ka": "დმანისი",
+      "has_coordinates": true
+    },
+    "Eshera": {
+      "lat": 43.05,
+      "lon": 40.1,
+      "name_ka": "ეშერა",
+      "has_coordinates": true
+    },
+    "Zguderi": {
+      "lat": null,
+      "lon": null
+    },
+    "Gvandra": {
+      "lat": 42.2,
+      "lon": 43.6,
+      "name_ka": "გვანდრა",
+      "has_coordinates": true
+    },
+    "Nokalakevi": {
+      "lat": 42.3167,
+      "lon": 42.1833,
+      "name_ka": "ნოქალაქევი",
+      "has_coordinates": true
+    },
+    "Sokhumi": {
+      "lat": 42.865,
+      "lon": 41.0236,
+      "name_ka": "სოხუმი",
+      "has_coordinates": true
+    },
+    "Kobairi Monastery, Armenia": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  "all_places": [
+    {
+      "name": "Agara (Urvali) church",
+      "language": "en",
+      "lat": 41.8,
+      "lon": 43.7,
+      "has_coordinates": true
+    },
+    {
+      "name": "Akaurta",
+      "language": "en",
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "has_coordinates": true
+    },
+    {
+      "name": "Ani",
+      "language": "en",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "Armatsikhe, Bagineti",
+      "language": "en",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "Armaziskhevi",
+      "language": "en",
+      "lat": 41.8423,
+      "lon": 44.7145,
+      "has_coordinates": true
+    },
+    {
+      "name": "Armaztsikhe, Bagineti",
+      "language": "en",
+      "lat": 41.8333,
+      "lon": 44.7,
+      "has_coordinates": true
+    },
+    {
+      "name": "Ateni Sioni",
+      "language": "en",
+      "lat": 41.9039,
+      "lon": 44.0959,
+      "has_coordinates": true
+    },
+    {
+      "name": "Berdik",
+      "language": "en",
+      "lat": 41.35,
+      "lon": 44.45,
+      "has_coordinates": true
+    },
+    {
+      "name": "Bieti Church",
+      "language": "en",
+      "lat": 41.6167,
+      "lon": 42.9333,
+      "has_coordinates": true
+    },
+    {
+      "name": "Bolnisi Sioni",
+      "language": "en",
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "has_coordinates": true
+    },
+    {
+      "name": "Dmanisi",
+      "language": "en",
+      "lat": 41.3298,
+      "lon": 44.2073,
+      "has_coordinates": true
+    },
+    {
+      "name": "Eshera",
+      "language": "en",
+      "lat": 43.05,
+      "lon": 40.1,
+      "has_coordinates": true
+    },
+    {
+      "name": "Gvandra",
+      "language": "en",
+      "lat": 42.2,
+      "lon": 43.6,
+      "has_coordinates": true
+    },
+    {
+      "name": "Haghpat",
+      "language": "en",
+      "lat": 41.0955,
+      "lon": 44.714,
+      "has_coordinates": true
+    },
+    {
+      "name": "Hayravank",
+      "language": "en",
+      "lat": 40.1642,
+      "lon": 44.7019,
+      "has_coordinates": true
+    },
+    {
+      "name": "Jvari Monastery, Mtskheta",
+      "language": "en",
+      "lat": 41.8383,
+      "lon": 44.7333,
+      "has_coordinates": true
+    },
+    {
+      "name": "Kavtiskhevi",
+      "language": "en",
+      "lat": 41.82,
+      "lon": 44.73,
+      "has_coordinates": true
+    },
+    {
+      "name": "Kazreti",
+      "language": "en",
+      "lat": 41.3333,
+      "lon": 44.3,
+      "has_coordinates": true
+    },
+    {
+      "name": "Kheoti",
+      "language": "en",
+      "lat": 41.7667,
+      "lon": 44.6833,
+      "has_coordinates": true
+    },
+    {
+      "name": "Kobairi Monastery, Armenia",
+      "language": "en",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "Lamazi Gora, Bolnisi",
+      "language": "en",
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "has_coordinates": true
+    },
+    {
+      "name": "Mtskheta",
+      "language": "en",
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "has_coordinates": true
+    },
+    {
+      "name": "Nokalakevi",
+      "language": "en",
+      "lat": 42.3167,
+      "lon": 42.1833,
+      "has_coordinates": true
+    },
+    {
+      "name": "Nosiri",
+      "language": "en",
+      "lat": 41.75,
+      "lon": 44.6,
+      "has_coordinates": true
+    },
+    {
+      "name": "Nukha",
+      "language": "en",
+      "lat": 41.5583,
+      "lon": 45.3833,
+      "has_coordinates": true
+    },
+    {
+      "name": "Phia church of St. Theodor",
+      "language": "en",
+      "lat": 41.6,
+      "lon": 42.8,
+      "has_coordinates": true
+    },
+    {
+      "name": "Samtavro",
+      "language": "en",
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "has_coordinates": true
+    },
+    {
+      "name": "Samtavro, Mtskheta",
+      "language": "en",
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "has_coordinates": true
+    },
+    {
+      "name": "Sapara St. George church",
+      "language": "en",
+      "lat": 41.55,
+      "lon": 42.65,
+      "has_coordinates": true
+    },
+    {
+      "name": "Sapara St. Saba Monastery",
+      "language": "en",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "Saro Castle",
+      "language": "en",
+      "lat": 41.7,
+      "lon": 42.9,
+      "has_coordinates": true
+    },
+    {
+      "name": "Sepieti",
+      "language": "en",
+      "lat": 42.1167,
+      "lon": 43.85,
+      "has_coordinates": true
+    },
+    {
+      "name": "Smada church",
+      "language": "en",
+      "lat": 41.4,
+      "lon": 43.3,
+      "has_coordinates": true
+    },
+    {
+      "name": "Sokhumi",
+      "language": "en",
+      "lat": 42.865,
+      "lon": 41.0236,
+      "has_coordinates": true
+    },
+    {
+      "name": "Tmogvi Castle",
+      "language": "en",
+      "lat": 41.35,
+      "lon": 43.2,
+      "has_coordinates": true
+    },
+    {
+      "name": "Tsebelda",
+      "language": "en",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "Tsilkani",
+      "language": "en",
+      "lat": 41.9333,
+      "lon": 44.6833,
+      "has_coordinates": true
+    },
+    {
+      "name": "Tskise",
+      "language": "en",
+      "lat": 41.95,
+      "lon": 44.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "Tsunda church",
+      "language": "en",
+      "lat": 41.65,
+      "lon": 42.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "Ukangori",
+      "language": "en",
+      "lat": 41.9167,
+      "lon": 44.8333,
+      "has_coordinates": true
+    },
+    {
+      "name": "Urbnisi Sioni",
+      "language": "en",
+      "lat": 41.75,
+      "lon": 44.6167,
+      "has_coordinates": true
+    },
+    {
+      "name": "Vani",
+      "language": "en",
+      "lat": 42.0833,
+      "lon": 42.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "Vanis Kvabebi",
+      "language": "en",
+      "lat": 41.3667,
+      "lon": 43.2833,
+      "has_coordinates": true
+    },
+    {
+      "name": "Vardzia",
+      "language": "en",
+      "lat": 41.3718,
+      "lon": 43.2545,
+      "has_coordinates": true
+    },
+    {
+      "name": "Vashnari",
+      "language": "en",
+      "lat": 41.7,
+      "lon": 44.55,
+      "has_coordinates": true
+    },
+    {
+      "name": "Zarzma Monastery",
+      "language": "en",
+      "lat": 41.55,
+      "lon": 42.65,
+      "has_coordinates": true
+    },
+    {
+      "name": "Zemo Nikozi",
+      "language": "en",
+      "lat": 42.0,
+      "lon": 44.1,
+      "has_coordinates": true
+    },
+    {
+      "name": "Zemo Nikozi, Archangel Church",
+      "language": "en",
+      "lat": 42.0,
+      "lon": 44.1,
+      "has_coordinates": true
+    },
+    {
+      "name": "Zemo Nikozi, Diety church",
+      "language": "en",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "Zguderi",
+      "language": "en",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "Znakva",
+      "language": "en",
+      "lat": 41.9,
+      "lon": 44.8,
+      "has_coordinates": true
+    },
+    {
+      "name": "აბასთუმნის ძველი ეკლესია",
+      "language": "ka",
+      "lat": 41.75,
+      "lon": 42.8333,
+      "has_coordinates": true
+    },
+    {
+      "name": "აგარის (ურვალის) ეკლესია",
+      "language": "ka",
+      "lat": 41.8,
+      "lon": 43.7,
+      "has_coordinates": true
+    },
+    {
+      "name": "აირავანქი",
+      "language": "ka",
+      "lat": 40.1642,
+      "lon": 44.7019,
+      "has_coordinates": true
+    },
+    {
+      "name": "აკაურთა",
+      "language": "ka",
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "has_coordinates": true
+    },
+    {
+      "name": "ამბარლო, წმ. ელია წინასწარმეტყველის სახელობის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი",
+      "language": "ka",
+      "lat": 41.6667,
+      "lon": 42.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "ანაპა",
+      "language": "ka",
+      "lat": 44.8951,
+      "lon": 37.3167,
+      "has_coordinates": true
+    },
+    {
+      "name": "ანისი",
+      "language": "ka",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "ანუხვა",
+      "language": "ka",
+      "lat": 43.0167,
+      "lon": 40.1833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ანუხვა (გუდაუთის რ-ნი) წარწერა სვეტზე.",
+      "language": "ka",
+      "lat": 43.0167,
+      "lon": 40.1833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ანჩისხატის ტაძარი, თბილისი",
+      "language": "ka",
+      "lat": 41.6919,
+      "lon": 44.8097,
+      "has_coordinates": true
+    },
+    {
+      "name": "არმაზი",
+      "language": "ka",
+      "lat": 41.8333,
+      "lon": 44.7,
+      "has_coordinates": true
+    },
+    {
+      "name": "არმაზისხევი",
+      "language": "ka",
+      "lat": 41.8423,
+      "lon": 44.7145,
+      "has_coordinates": true
+    },
+    {
+      "name": "არმაზციხე, ბაგინეთი",
+      "language": "ka",
+      "lat": 41.8333,
+      "lon": 44.7,
+      "has_coordinates": true
+    },
+    {
+      "name": "ატენი",
+      "language": "ka",
+      "lat": 41.9039,
+      "lon": 44.0959,
+      "has_coordinates": true
+    },
+    {
+      "name": "ატენის სიონი",
+      "language": "ka",
+      "lat": 41.9039,
+      "lon": 44.0959,
+      "has_coordinates": true
+    },
+    {
+      "name": "აქაროს მთა, დაღესტანი",
+      "language": "ka",
+      "lat": 42.4,
+      "lon": 46.9,
+      "has_coordinates": true
+    },
+    {
+      "name": "ახალი ათონი",
+      "language": "ka",
+      "lat": 43.0869,
+      "lon": 40.0908,
+      "has_coordinates": true
+    },
+    {
+      "name": "ახალციხე",
+      "language": "ka",
+      "lat": 41.6386,
+      "lon": 42.9813,
+      "has_coordinates": true
+    },
+    {
+      "name": "ახტალა",
+      "language": "ka",
+      "lat": 41.1,
+      "lon": 44.7833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბედია",
+      "language": "ka",
+      "lat": 42.7,
+      "lon": 40.2,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბედიის ტაძარი",
+      "language": "ka",
+      "lat": 42.7,
+      "lon": 40.2,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბერდიკი",
+      "language": "ka",
+      "lat": 41.35,
+      "lon": 44.45,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბესლეთის ხიდის წარწერა",
+      "language": "ka",
+      "lat": 42.85,
+      "lon": 41.0,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბიეთის ეკლესია",
+      "language": "ka",
+      "lat": 41.6167,
+      "lon": 42.9333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბიეთის ეკლესია, ახალციხის მუნიციპალიტეტი",
+      "language": "ka",
+      "lat": 41.6167,
+      "lon": 42.9333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბიჭვინთა",
+      "language": "ka",
+      "lat": 43.1611,
+      "lon": 40.3456,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბიჭვინტა",
+      "language": "ka",
+      "lat": 43.1611,
+      "lon": 40.3456,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბოგა, ახალციხის მუნიციპალიტეტი",
+      "language": "ka",
+      "lat": 41.6333,
+      "lon": 42.9167,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბოდოკლდის ეკლესია",
+      "language": "ka",
+      "lat": 41.6,
+      "lon": 42.7,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბოლნისის სიონი",
+      "language": "ka",
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორი",
+      "language": "ka",
+      "lat": 42.0833,
+      "lon": 43.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომი",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომის მხარეთმცოდნეობის მუზეუმი",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომის ხეობა, ქვაბისხევის ღვთისმშობლის ეკლესია, შოთა და იაის ფრესკული წარწერა",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომის ხეობა. ლიკანის ღმრთისმშობლის ეკლესია",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომის ხეობა. საკირე. „საყდრივაკის“ ეკლესია",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომის ხეობა. ყვიბისის წმიდა გიორგის ეკლესია",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "ბორჯომის ხეობა.ახალდაბის ეკლესია",
+      "language": "ka",
+      "lat": 41.8477,
+      "lon": 43.3913,
+      "has_coordinates": true
+    },
+    {
+      "name": "გელათი",
+      "language": "ka",
+      "lat": 42.2917,
+      "lon": 42.7567,
+      "has_coordinates": true
+    },
+    {
+      "name": "გვანდრა",
+      "language": "ka",
+      "lat": 42.2,
+      "lon": 43.6,
+      "has_coordinates": true
+    },
+    {
+      "name": "გინიჩუტლი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.3833,
+      "lon": 46.8167,
+      "has_coordinates": true
+    },
+    {
+      "name": "გუდავა",
+      "language": "ka",
+      "lat": 42.8833,
+      "lon": 42.7167,
+      "has_coordinates": true
+    },
+    {
+      "name": "გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა მიქაელისა",
+      "language": "ka",
+      "lat": 42.0833,
+      "lon": 42.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, წარწერა კჳრიკესი",
+      "language": "ka",
+      "lat": 42.0833,
+      "lon": 42.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "გუჯარეთის ხეობა, თელოვანის წმინდა ელიასეკლესია, ვავედრებელი წარწერა ხარებასი",
+      "language": "ka",
+      "lat": 42.0833,
+      "lon": 42.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "გუჯარეთის ხეობა. \"წითელი ეკლესია\"",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "გუჯარეთის ხეობა. დაბის ღმრთისმშობლის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "გუჯარეთის ხეობა. თოთხამის ციხის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "გუჯარეთის ხეობა. თონეთის წმიდა გიორგის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "გუჯარეთის ხეობა. მაჭარწყლის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) ღმრთისმშობლის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) წმიდა ბარბარეს ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "გუჯარეთის ხეობა. ტყემლოვანის ეკლესია",
+      "language": "ka",
+      "lat": 42.0833,
+      "lon": 42.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "გუჯარეთის ხეობა. „წითელი ეკლესია“",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "დაბლუტის წყლის ხეობა",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "დავით გარეჯი, უდაბნო, სატრაპეზო",
+      "language": "ka",
+      "lat": 41.4456,
+      "lon": 45.3789,
+      "has_coordinates": true
+    },
+    {
+      "name": "დავით გარეჯის მონასტერი",
+      "language": "ka",
+      "lat": 41.4456,
+      "lon": 45.3789,
+      "has_coordinates": true
+    },
+    {
+      "name": "დიდი გომარეთი, წმ. გიორგის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "დიდი გომარეთი, წმ. მარიამის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "დიდი დმანისი, ღმრთისმშობლის ეკლესია",
+      "language": "ka",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "დიხაზურგა",
+      "language": "ka",
+      "lat": 42.95,
+      "lon": 40.35,
+      "has_coordinates": true
+    },
+    {
+      "name": "დმანისი",
+      "language": "ka",
+      "lat": 41.3298,
+      "lon": 44.2073,
+      "has_coordinates": true
+    },
+    {
+      "name": "დმანისი, ქციის ხეობა, ლიპარიტის უბნის მონასტერი",
+      "language": "ka",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "დმანისის არქეოლოგიური ბაზა",
+      "language": "ka",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "დმანისის კათედრალური ტაძარი",
+      "language": "ka",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "დმანისის ნაქალაქარი",
+      "language": "ka",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "დმანისის სიონი",
+      "language": "ka",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "დმანისის ციხის წმ. მარინეს ეკლესია",
+      "language": "ka",
+      "lat": 40.5067,
+      "lon": 43.5725,
+      "has_coordinates": true
+    },
+    {
+      "name": "ეშერა",
+      "language": "ka",
+      "lat": 43.05,
+      "lon": 40.1,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვალეს ღვთისმშობლის ეკლესია",
+      "language": "ka",
+      "lat": 42.1667,
+      "lon": 43.5833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვანი",
+      "language": "ka",
+      "lat": 42.0833,
+      "lon": 42.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვანის ნაქალაქარი",
+      "language": "ka",
+      "lat": 42.0833,
+      "lon": 42.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვანის ქვაბები",
+      "language": "ka",
+      "lat": 41.3667,
+      "lon": 43.2833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვანის ქვაბები, ასპინძის მუნიციპალიტეტი",
+      "language": "ka",
+      "lat": 41.3667,
+      "lon": 43.2833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვარძია",
+      "language": "ka",
+      "lat": 41.3718,
+      "lon": 43.2545,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვარძიის ღვთისმშობლის მიძინების ტაძარი",
+      "language": "ka",
+      "lat": 41.3718,
+      "lon": 43.2545,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვარძიის ღვთისმშობლის სახელობის ეკლესია",
+      "language": "ka",
+      "lat": 41.3718,
+      "lon": 43.2545,
+      "has_coordinates": true
+    },
+    {
+      "name": "ვაშნარი",
+      "language": "ka",
+      "lat": 41.7,
+      "lon": 44.55,
+      "has_coordinates": true
+    },
+    {
+      "name": "ველისპირი",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ზარზმის მონასტერი",
+      "language": "ka",
+      "lat": 41.55,
+      "lon": 42.65,
+      "has_coordinates": true
+    },
+    {
+      "name": "ზემო ნიქოზი, მთავარანგელოზის ტაძარი",
+      "language": "ka",
+      "lat": 42.0,
+      "lon": 44.1,
+      "has_coordinates": true
+    },
+    {
+      "name": "ზემო ნიქოზი, ღვთაების ტაძარი",
+      "language": "ka",
+      "lat": 42.0,
+      "lon": 44.1,
+      "has_coordinates": true
+    },
+    {
+      "name": "ზნაკვა",
+      "language": "ka",
+      "lat": 41.9,
+      "lon": 44.8,
+      "has_coordinates": true
+    },
+    {
+      "name": "ზღუდერი",
+      "language": "ka",
+      "lat": 42.7167,
+      "lon": 40.1667,
+      "has_coordinates": true
+    },
+    {
+      "name": "თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა თეოდორესი",
+      "language": "ka",
+      "lat": 42.0833,
+      "lon": 42.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "თეჟარუიქის ეკლესია, სომხეთი",
+      "language": "ka",
+      "lat": 40.9667,
+      "lon": 44.7333,
+      "has_coordinates": true
+    },
+    {
+      "name": "თმოგვის ციხე",
+      "language": "ka",
+      "lat": 41.35,
+      "lon": 43.2,
+      "has_coordinates": true
+    },
+    {
+      "name": "ითხვისი",
+      "language": "ka",
+      "lat": 42.0167,
+      "lon": 43.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "ილორი",
+      "language": "ka",
+      "lat": 42.8,
+      "lon": 40.15,
+      "has_coordinates": true
+    },
+    {
+      "name": "ილორის გიორგი გურგენიძის წარწერა",
+      "language": "ka",
+      "lat": 42.8,
+      "lon": 40.15,
+      "has_coordinates": true
+    },
+    {
+      "name": "ილორის წმინდა გიორგის ეკლესია",
+      "language": "ka",
+      "lat": 42.8,
+      "lon": 40.15,
+      "has_coordinates": true
+    },
+    {
+      "name": "იფნარი (ყოფილი კიროვისი, ადრინდელი ვალდჰეიმი)",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "კავთისხევი",
+      "language": "ka",
+      "lat": 41.82,
+      "lon": 44.73,
+      "has_coordinates": true
+    },
+    {
+      "name": "კაზრეთი",
+      "language": "ka",
+      "lat": 41.3333,
+      "lon": 44.3,
+      "has_coordinates": true
+    },
+    {
+      "name": "კუმურდო",
+      "language": "ka",
+      "lat": 41.2833,
+      "lon": 43.4167,
+      "has_coordinates": true
+    },
+    {
+      "name": "კურთანის ეკლესია, სომხეთი",
+      "language": "ka",
+      "lat": 40.9833,
+      "lon": 44.7167,
+      "has_coordinates": true
+    },
+    {
+      "name": "ლაილაში",
+      "language": "ka",
+      "lat": 41.6,
+      "lon": 42.85,
+      "has_coordinates": true
+    },
+    {
+      "name": "ლამაზი გორა, ბოლნისი",
+      "language": "ka",
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "has_coordinates": true
+    },
+    {
+      "name": "ლამაზი გორა, ბოლნისის მუნიციპალიტეტი",
+      "language": "ka",
+      "lat": 41.3889,
+      "lon": 44.5126,
+      "has_coordinates": true
+    },
+    {
+      "name": "ლატალი",
+      "language": "ka",
+      "lat": 43.0,
+      "lon": 42.7833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ლიპი",
+      "language": "ka",
+      "lat": 42.25,
+      "lon": 42.4833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ლიხნი",
+      "language": "ka",
+      "lat": 42.9167,
+      "lon": 40.25,
+      "has_coordinates": true
+    },
+    {
+      "name": "ლიხნის ტაძარი",
+      "language": "ka",
+      "lat": 42.9167,
+      "lon": 40.25,
+      "has_coordinates": true
+    },
+    {
+      "name": "ლიხნის ღვთისმშობლის მიძინების ტაძარი",
+      "language": "ka",
+      "lat": 42.9167,
+      "lon": 40.25,
+      "has_coordinates": true
+    },
+    {
+      "name": "მამულა, ღვთისმშობლის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "მარტვილი",
+      "language": "ka",
+      "lat": 42.4167,
+      "lon": 42.3833,
+      "has_coordinates": true
+    },
+    {
+      "name": "მაცხვარიში",
+      "language": "ka",
+      "lat": 42.75,
+      "lon": 40.2167,
+      "has_coordinates": true
+    },
+    {
+      "name": "მიჯას (ჯავახის) ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "მოხისი",
+      "language": "ka",
+      "lat": 41.75,
+      "lon": 44.5833,
+      "has_coordinates": true
+    },
+    {
+      "name": "მსიგხუა",
+      "language": "ka",
+      "lat": 42.5833,
+      "lon": 40.1667,
+      "has_coordinates": true
+    },
+    {
+      "name": "მსიგხუას ეკლესია",
+      "language": "ka",
+      "lat": 42.5833,
+      "lon": 40.1667,
+      "has_coordinates": true
+    },
+    {
+      "name": "მცხეთა",
+      "language": "ka",
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "has_coordinates": true
+    },
+    {
+      "name": "მცხეთა, მოგვთა უბანი",
+      "language": "ka",
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "has_coordinates": true
+    },
+    {
+      "name": "მცხეთის ჯვარი",
+      "language": "ka",
+      "lat": 41.8383,
+      "lon": 44.7333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ნაგზაურა",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ნაკიფარი",
+      "language": "ka",
+      "lat": 42.0,
+      "lon": 43.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "ნოსირი",
+      "language": "ka",
+      "lat": 41.75,
+      "lon": 44.6,
+      "has_coordinates": true
+    },
+    {
+      "name": "ნოქალაქევი",
+      "language": "ka",
+      "lat": 42.3167,
+      "lon": 42.1833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ნუხა",
+      "language": "ka",
+      "lat": 41.5583,
+      "lon": 45.3833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ოპიზა",
+      "language": "ka",
+      "lat": 41.8,
+      "lon": 43.6,
+      "has_coordinates": true
+    },
+    {
+      "name": "ორმაშენის (ძვ. ჯანდიდის) ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ორომშენი (ძვ. ჯანდიდის) ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ოსტია",
+      "language": "ka",
+      "lat": 41.752,
+      "lon": 12.292,
+      "has_coordinates": true
+    },
+    {
+      "name": "პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი",
+      "language": "ka",
+      "lat": 31.5497,
+      "lon": 35.1654,
+      "has_coordinates": true
+    },
+    {
+      "name": "პანტიანი",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "პატარა გომარეთი, ღვთისმშობლის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "პატარა სმადის ეკლესია",
+      "language": "ka",
+      "lat": 41.4,
+      "lon": 43.3,
+      "has_coordinates": true
+    },
+    {
+      "name": "ჟინვალი",
+      "language": "ka",
+      "lat": 42.0717,
+      "lon": 44.7797,
+      "has_coordinates": true
+    },
+    {
+      "name": "სააღმშენებლო წარწერა გივი ავალიშვილისა და მისი მეუღლის, მეფეთმეფის ასულ სოფიოსი",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "სათხე",
+      "language": "ka",
+      "lat": 41.6667,
+      "lon": 44.8333,
+      "has_coordinates": true
+    },
+    {
+      "name": "საირხე",
+      "language": "ka",
+      "lat": 42.1833,
+      "lon": 43.6167,
+      "has_coordinates": true
+    },
+    {
+      "name": "საკირე, წითელი ეკლესია (ყიზილ ქილა)",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "საკირე, წითელი ეკლესია (ყიზილ ქილი)",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "სამთავრო",
+      "language": "ka",
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "has_coordinates": true
+    },
+    {
+      "name": "სამთავროს უბანი, მცხეთა",
+      "language": "ka",
+      "lat": 41.8451,
+      "lon": 44.7188,
+      "has_coordinates": true
+    },
+    {
+      "name": "სარკინეთი",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "საროს ციხე",
+      "language": "ka",
+      "lat": 41.7,
+      "lon": 42.9,
+      "has_coordinates": true
+    },
+    {
+      "name": "საფარის მონასტერი",
+      "language": "ka",
+      "lat": 41.55,
+      "lon": 42.65,
+      "has_coordinates": true
+    },
+    {
+      "name": "საფარის მონასტრის მიძინების ტაძარი",
+      "language": "ka",
+      "lat": 41.55,
+      "lon": 42.65,
+      "has_coordinates": true
+    },
+    {
+      "name": "საფარის მონასტრის წმ. საბას ტაძარი",
+      "language": "ka",
+      "lat": 41.55,
+      "lon": 42.65,
+      "has_coordinates": true
+    },
+    {
+      "name": "საფარის წმ. გიორგის ეკლესია",
+      "language": "ka",
+      "lat": 41.55,
+      "lon": 42.65,
+      "has_coordinates": true
+    },
+    {
+      "name": "საყდრისქეის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "სეფიეთი",
+      "language": "ka",
+      "lat": 42.1167,
+      "lon": 43.85,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოფ. თანუსი, ხუნზახის რაიონი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.5167,
+      "lon": 46.7667,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოფ. კოშის ეკლესია, სომხეთი",
+      "language": "ka",
+      "lat": 40.95,
+      "lon": 44.7,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოფ. მითლიჰურიბი, შამილის რაონი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.4667,
+      "lon": 46.6333,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოფ. მურუხი, ჭაროდის რაიონი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.1833,
+      "lon": 46.9167,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოფ. რუღჟაბი, ღუნიბის რაიონი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.4167,
+      "lon": 46.9333,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოფ. ურადა, შამილის რაონი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.4833,
+      "lon": 46.6167,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოფ. ჰოწატლი, ხუნზახის რაიონი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.5333,
+      "lon": 46.7333,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოფელ ხეოთის ნამონასტრალი",
+      "language": "ka",
+      "lat": 41.7667,
+      "lon": 44.6833,
+      "has_coordinates": true
+    },
+    {
+      "name": "სოხუმი",
+      "language": "ka",
+      "lat": 42.865,
+      "lon": 41.0236,
+      "has_coordinates": true
+    },
+    {
+      "name": "ტიმოთესუბანი",
+      "language": "ka",
+      "lat": 41.8167,
+      "lon": 43.5833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ტყემლიანი",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "უდე, ადიგენის მუნიციპალიტეტი",
+      "language": "ka",
+      "lat": 41.6833,
+      "lon": 42.7167,
+      "has_coordinates": true
+    },
+    {
+      "name": "უკანგორი",
+      "language": "ka",
+      "lat": 41.9167,
+      "lon": 44.8333,
+      "has_coordinates": true
+    },
+    {
+      "name": "უკანგორის ეკლესიის ახლოს მდებარე სასაფლაოზეა ნაპოვნი",
+      "language": "ka",
+      "lat": 41.9167,
+      "lon": 44.8333,
+      "has_coordinates": true
+    },
+    {
+      "name": "უმ ლეისუნი, იერუსალიმი",
+      "language": "ka",
+      "lat": 31.7683,
+      "lon": 35.2137,
+      "has_coordinates": true
+    },
+    {
+      "name": "ურბნისის სიონი",
+      "language": "ka",
+      "lat": 41.75,
+      "lon": 44.6167,
+      "has_coordinates": true
+    },
+    {
+      "name": "ფარი",
+      "language": "ka",
+      "lat": 42.95,
+      "lon": 42.6333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ფაშიანთა",
+      "language": "ka",
+      "lat": 42.3333,
+      "lon": 40.5,
+      "has_coordinates": true
+    },
+    {
+      "name": "ფიის წმინდა თეოდორეს ეკლესია",
+      "language": "ka",
+      "lat": 41.6,
+      "lon": 42.8,
+      "has_coordinates": true
+    },
+    {
+      "name": "ფინეზაურის ხეობა, საყდრისქედის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ფიჭვნარი",
+      "language": "ka",
+      "lat": 41.6833,
+      "lon": 41.7333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ფოთოლეთის ეკლესია, სავედრებელი წარწერა კვირიკესი",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ფოთოლეთის ეკლესია, სავედრებელი წარწერის ფრაგმენტი",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ქარზამეთის ეკლესია",
+      "language": "ka",
+      "lat": 41.8333,
+      "lon": 44.8333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ქვემო ყარაბულახი, დანგრეული სარკის წმ. გიორგის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ქობაირის მონასტერი, სომხეთი",
+      "language": "ka",
+      "lat": 41.0167,
+      "lon": 44.6333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ქციის ხეობა ე. წ. ლიპარიტის უბნის მონასტრის („ლამაზ-საყდარი“) მთავარი ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ღუმურიში",
+      "language": "ka",
+      "lat": 42.65,
+      "lon": 40.25,
+      "has_coordinates": true
+    },
+    {
+      "name": "ყარსის ციხე, თურქეთი",
+      "language": "ka",
+      "lat": 40.6017,
+      "lon": 43.0939,
+      "has_coordinates": true
+    },
+    {
+      "name": "შახმარლოს ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "შაჰნაზარის ზემო ეკლესია, სომხეთი",
+      "language": "ka",
+      "lat": 40.91,
+      "lon": 44.69,
+      "has_coordinates": true
+    },
+    {
+      "name": "შაჰნაზარის ქვემო ეკლესია, სომხეთი",
+      "language": "ka",
+      "lat": 40.9,
+      "lon": 44.6833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ცაიში",
+      "language": "ka",
+      "lat": 42.4,
+      "lon": 42.2,
+      "has_coordinates": true
+    },
+    {
+      "name": "ციხისუბანი, ადიგენის მუნიციპალიტეტი",
+      "language": "ka",
+      "lat": 41.65,
+      "lon": 42.7333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ძალისა",
+      "language": "ka",
+      "lat": 41.8667,
+      "lon": 44.8167,
+      "has_coordinates": true
+    },
+    {
+      "name": "წალენჯიხა",
+      "language": "ka",
+      "lat": 42.6167,
+      "lon": 42.0333,
+      "has_coordinates": true
+    },
+    {
+      "name": "წანდრიფში",
+      "language": "ka",
+      "lat": 43.2833,
+      "lon": 40.05,
+      "has_coordinates": true
+    },
+    {
+      "name": "წარჩე",
+      "language": "ka",
+      "lat": 42.9,
+      "lon": 40.3,
+      "has_coordinates": true
+    },
+    {
+      "name": "წარწერის ფრაგმენტი შალვა ერისთავთ-ერისთავისა, მეჭურჭლეთუხუცესისა, მანდატურთუხუცესისა",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "წებელდა",
+      "language": "ka",
+      "lat": 42.9167,
+      "lon": 40.0833,
+      "has_coordinates": true
+    },
+    {
+      "name": "წებელდა (ლარი)",
+      "language": "ka",
+      "lat": 42.9167,
+      "lon": 40.0833,
+      "has_coordinates": true
+    },
+    {
+      "name": "წილკანი",
+      "language": "ka",
+      "lat": 41.9333,
+      "lon": 44.6833,
+      "has_coordinates": true
+    },
+    {
+      "name": "წკელიკარი",
+      "language": "ka",
+      "lat": 42.85,
+      "lon": 40.25,
+      "has_coordinates": true
+    },
+    {
+      "name": "წუნდის ეკლესია",
+      "language": "ka",
+      "lat": 41.65,
+      "lon": 42.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "წყისე",
+      "language": "ka",
+      "lat": 41.95,
+      "lon": 44.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "ჭლოუ",
+      "language": "ka",
+      "lat": 42.88,
+      "lon": 40.28,
+      "has_coordinates": true
+    },
+    {
+      "name": "ჭოჭიანის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ჭყონდიდი",
+      "language": "ka",
+      "lat": 42.2833,
+      "lon": 42.1167,
+      "has_coordinates": true
+    },
+    {
+      "name": "ხვილიშას ტაძარი, ასპინძის მუნიციპალიტეტი",
+      "language": "ka",
+      "lat": 41.5167,
+      "lon": 43.25,
+      "has_coordinates": true
+    },
+    {
+      "name": "ხობი",
+      "language": "ka",
+      "lat": 42.3167,
+      "lon": 41.9,
+      "has_coordinates": true
+    },
+    {
+      "name": "ხუნზახი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.55,
+      "lon": 46.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "ხუნძი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.45,
+      "lon": 46.8,
+      "has_coordinates": true
+    },
+    {
+      "name": "ხცისი",
+      "language": "ka",
+      "lat": 41.85,
+      "lon": 44.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "ჯვრის მონასტერი, მცხეთა",
+      "language": "ka",
+      "lat": 41.8383,
+      "lon": 44.7333,
+      "has_coordinates": true
+    },
+    {
+      "name": "ჯუჯაქენდის ეკლესია, სომხეთი",
+      "language": "ka",
+      "lat": 40.85,
+      "lon": 44.75,
+      "has_coordinates": true
+    },
+    {
+      "name": "ჰალას ნაქალაქარი, დაღესტანი",
+      "language": "ka",
+      "lat": 42.3167,
+      "lon": 46.8833,
+      "has_coordinates": true
+    },
+    {
+      "name": "ჰამამლუ (ძვ. ვარძაგარა), ზღუდის წმ. გრიგოლის ეკლესია",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ჰამამლუს (ძვ. ვარძაგარა)",
+      "language": "ka",
+      "lat": null,
+      "lon": null,
+      "has_coordinates": false
+    },
+    {
+      "name": "ჰაღბატი",
+      "language": "ka",
+      "lat": 41.0955,
+      "lon": 44.714,
+      "has_coordinates": true
+    },
+    {
+      "name": "ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი",
+      "language": "ka",
+      "lat": 40.9167,
+      "lon": 44.8333,
+      "has_coordinates": true
+    }
+  ]
+}

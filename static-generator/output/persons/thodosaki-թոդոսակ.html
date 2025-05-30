@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>თოდოსაკი (Թոդոսակ) - პროსოპოგრაფია</title>
+        <link rel="stylesheet" href="../static/css/style.css">
+        <meta name="description" content="Prosopographical record for თოდოსაკი (Թոդոսակ) from the Epigraphic Corpus of Georgia">
+    </head>
+    <body>
+        <nav class="navbar">
+            <div class="container">
+                <a href="../index.html" class="brand">ECG - Epigraphic Corpus of Georgia</a>
+                <div class="nav-links">
+                    <a href="../index.html">საწყისი</a>
+                    <a href="../browse.html">წარწერები</a>
+                    <a href="../persons.html">პირები</a>
+                    <a href="../bibliography.html">ბიბლიოგრაფია</a>
+                </div>
+            </div>
+        </nav>
+    
+        <main class="container">
+            <div class="breadcrumb">
+                <a href="../persons.html">პროსოპოგრაფია</a> / <span>თოდოსაკი (Թոդոսակ)</span>
+            </div>
+            
+            <!-- Centered Person Header (Your Style) -->
+            <div class="person-header">
+                <h1 class="person-name georgian-text">თოდოსაკი (Թոդոսակ)</h1>
+                
+            </div>
+    
+            <!-- Two Column Grid (Simplified Layout) -->
+            <div class="two-column-grid">            
+                <!-- Left Column: Name Variants & References -->
+                <div class="card">
+                    
+                    
+                </div>
+    
+                <!-- Center Column: Attestations & Sources (Your Style) -->
+                <div class="card">
+                    <h3>წყაროები / Sources and Attestations</h3>
+                    <p style="margin-bottom: 16px;"><strong>სულ:</strong> 1</p>
+                    
+                    <div class="attestations-content">
+                        
+                    <div class="attestation-entry">
+                        <div class="attestation-header">
+                            <strong class="inscription-id">ECG153</strong>
+                            <span class="inscription-tag">INSCRIPTION</span>
+                        </div>
+                        <h4 class="inscription-title georgian-text">
+                            <a href="../inscriptions/ECG153.html" target="_blank">თოდოსაკის წარწერა</a>
+                        </h4>
+                        <div class="attestation-details">
+                            <span class="detail-place georgian-text">📍 ატენის სიონი</span>
+                            <span class="detail-date">📅 982-986 AD</span>
+                            <span class="detail-language">hy</span>
+                        </div>
+                    </div>
+                
+                    </div>
+                </div>
+    
+                <!-- Right Column: Co-occurring Persons -->
+                <div class="card">
+                    
+                    
+                    <!-- Citation -->
+                    <div class="citation-section">
+                        <h4>ციტირება / Citation</h4>
+                        <div class="citation-text">
+                            პროსოპოგრაფია. "თოდოსაკი (Թոդոսակ)." 
+                            წვდომის თარიღი: <span id="access-date"></span>. 
+                            georgianprosopography.org/person/thodosaki-թոդոսակ
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    
+        <script>
+            // Set access date
+            document.getElementById('access-date').textContent = new Date().toLocaleDateString('ka-GE');
+            
+            // Export functionality
+            function exportPersonData() {
+                const data = {
+                    name: "თოდოსაკი (Թոդոսակ)",
+                    uri: "thodosaki-թոդոսակ",
+                    inscriptions: 1,
+                    locations: 1,
+                    attestations: 1
+                };
+                
+                const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'thodosaki-թոդոսակ.json';
+                a.click();
+                URL.revokeObjectURL(url);
+            }
+            
+            // Copy URL functionality
+            function copyUrl() {
+                navigator.clipboard.writeText(window.location.href).then(() => {
+                    alert('URL copied to clipboard!');
+                }).catch(err => {
+                    console.error('Could not copy URL: ', err);
+                });
+            }
+        </script>
+    </body>
+    </html>

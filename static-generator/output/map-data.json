@@ -1,0 +1,261 @@
+[
+  {
+    "place": "ვანი",
+    "lat": 42.0833,
+    "lon": 42.5,
+    "count": 6,
+    "inscriptions": [
+      {
+        "id": "ECG020",
+        "title": "ოქროს ბეჭედი წარწერით „დედატოს“",
+        "url": "inscriptions/ECG020.html"
+      },
+      {
+        "id": "ECG1079",
+        "title": "არამეული წარწერა ოქროს ფირფიტაზე (I ს.) ვანიდან",
+        "url": "inscriptions/ECG1079.html"
+      },
+      {
+        "id": "ECG300",
+        "title": "კრამიტის დამღა",
+        "url": "inscriptions/ECG300.html"
+      },
+      {
+        "id": "ECG330",
+        "title": "ვანის ბერძნული წარწერა (II)",
+        "url": "inscriptions/ECG330.html"
+      },
+      {
+        "id": "ECG331",
+        "title": "ვანის ბერძნული წარწერა (III)",
+        "url": "inscriptions/ECG331.html"
+      },
+      {
+        "id": "ECG353",
+        "title": "კრამიტის დამღა ითხვისიდან",
+        "url": "inscriptions/ECG353.html"
+      }
+    ]
+  },
+  {
+    "place": "ბოლნისის სიონი",
+    "lat": 41.3889,
+    "lon": 44.5126,
+    "count": 1,
+    "inscriptions": [
+      {
+        "id": "ECG061",
+        "title": "ბოლნისის სიონის VII ს. ფრაგმენტი",
+        "url": "inscriptions/ECG061.html"
+      }
+    ]
+  },
+  {
+    "place": "მცხეთა",
+    "lat": 41.8451,
+    "lon": 44.7188,
+    "count": 25,
+    "inscriptions": [
+      {
+        "id": "ECG075",
+        "title": "მცხეთის ანტიოქიის ეკლესიის ქვიშაქვის სტელა",
+        "url": "inscriptions/ECG075.html"
+      },
+      {
+        "id": "ECG076",
+        "title": "მოგვთა უბანში აღმოჩენილი ქვიშაქვის ფილა",
+        "url": "inscriptions/ECG076.html"
+      },
+      {
+        "id": "ECG1012",
+        "title": "აბრაამ სარას ძის ამულეტი",
+        "url": "inscriptions/ECG1012.html"
+      },
+      {
+        "id": "ECG1013",
+        "title": "ებრაული ეპიტაფია I (ბროსე)",
+        "url": "inscriptions/ECG1013.html"
+      },
+      {
+        "id": "ECG1016",
+        "title": "ებრაული ეპიტაფია VI (ბროსე)",
+        "url": "inscriptions/ECG1016.html"
+      },
+      {
+        "id": "ECG1029",
+        "title": "ქუთაისის ებრაული წარწერა",
+        "url": "inscriptions/ECG1029.html"
+      },
+      {
+        "id": "ECG1066",
+        "title": "ძვლის სამკითხაო ფირფიტებზე დატანილი არამეული წარწერები (I ს.) დედოფლის გორიდან.",
+        "url": "inscriptions/ECG1066.html"
+      },
+      {
+        "id": "ECG1068",
+        "title": "მცხეთის არამეული წარწერა",
+        "url": "inscriptions/ECG1068.html"
+      },
+      {
+        "id": "ECG1069",
+        "title": "მცხეთის არამეული წარწერა N2",
+        "url": "inscriptions/ECG1069.html"
+      },
+      {
+        "id": "ECG1070",
+        "title": "ოქროს რვა საავგაროზე ფირფიტა (II ს.) არმაზისხევი",
+        "url": "inscriptions/ECG1070.html"
+      },
+      {
+        "id": "ECG1071",
+        "title": "ბერსუმა პიტიახშის ლანგარი (I ან III ს.) არმაზისხევი",
+        "url": "inscriptions/ECG1071.html"
+      },
+      {
+        "id": "ECG1072",
+        "title": "ბერსუმა პიტიახშის ოქროს ბეჭედი (IV ს.) არმაზისხევი",
+        "url": "inscriptions/ECG1072.html"
+      },
+      {
+        "id": "ECG1073",
+        "title": "ბერსუმა პიტიახშის ორი სამაჯური (IV ს.) არმაზისხევი",
+        "url": "inscriptions/ECG1073.html"
+      },
+      {
+        "id": "ECG1074",
+        "title": "წარწერა ორსენაკიანი ნაგებობის კედლის ორ ქვაზე (II-III სს.) ბაგინეთი",
+        "url": "inscriptions/ECG1074.html"
+      },
+      {
+        "id": "ECG1075",
+        "title": "წარწერა სარკოფაგის ვერცხლის ნივთებზე (III ს.) ბაგინეთი",
+        "url": "inscriptions/ECG1075.html"
+      },
+      {
+        "id": "ECG1076",
+        "title": "ქვევრების პირებზე ამოკვეთილი წარწერები უფლისციხიდან (ძვ. წ. I ს ან ახ. წ. II-III სს.)",
+        "url": "inscriptions/ECG1076.html"
+      },
+      {
+        "id": "ECG1077",
+        "title": "არამეული წარწერა ურბნისიდან (II-III სს.)",
+        "url": "inscriptions/ECG1077.html"
+      },
+      {
+        "id": "ECG1081",
+        "title": "საკურთხეველზე ამოკაწრული არამეული გრაფიტოები (II-III სს.) ძალისიდან",
+        "url": "inscriptions/ECG1081.html"
+      },
+      {
+        "id": "ECG266",
+        "title": "მცხეთის ებრაული ეპიტაფია, (1872)",
+        "url": "inscriptions/ECG266.html"
+      },
+      {
+        "id": "ECG267",
+        "title": "ბარ-ჰაზანის ეპიტაფია მცხეთიდან (1938)",
+        "url": "inscriptions/ECG267.html"
+      },
+      {
+        "id": "ECG269",
+        "title": "რკინის ბეჭედი მოგვთაკარიდან",
+        "url": "inscriptions/ECG269.html"
+      },
+      {
+        "id": "ECG270",
+        "title": "ოქროს ბეჭედი ამეთვისტოთი",
+        "url": "inscriptions/ECG270.html"
+      },
+      {
+        "id": "ECG271",
+        "title": "ჰემატიტის მძივი",
+        "url": "inscriptions/ECG271.html"
+      },
+      {
+        "id": "ECG324",
+        "title": "საბეჭდავი ოქროს ბეჭედი",
+        "url": "inscriptions/ECG324.html"
+      },
+      {
+        "id": "ECG328",
+        "title": "პენალი ბერძნული წარწერებით",
+        "url": "inscriptions/ECG328.html"
+      }
+    ]
+  },
+  {
+    "place": "უკანგორი",
+    "lat": 41.9834,
+    "lon": 44.1086,
+    "count": 2,
+    "inscriptions": [
+      {
+        "id": "ECG078",
+        "title": "უკანგორი. V/VI სს. მოსახსენებელი (II)",
+        "url": "inscriptions/ECG078.html"
+      },
+      {
+        "id": "ECG360",
+        "title": "უკანგორი, მოსახსენებელი თათვარაზისა",
+        "url": "inscriptions/ECG360.html"
+      }
+    ]
+  },
+  {
+    "place": "ანჩისხატის ტაძარი, თბილისი",
+    "lat": 41.7151,
+    "lon": 44.8271,
+    "count": 1,
+    "inscriptions": [
+      {
+        "id": "ECG383",
+        "title": "ანჩისხატის ბაზილიკის სამშენებლო წარწერა",
+        "url": "inscriptions/ECG383.html"
+      }
+    ]
+  },
+  {
+    "place": "ვანის ქვაბები, ასპინძის მუნიციპალიტეტი",
+    "lat": 42.0833,
+    "lon": 42.5,
+    "count": 2,
+    "inscriptions": [
+      {
+        "id": "ECG385",
+        "title": "ვანის ქვაბების პოეტური წარწერა I",
+        "url": "inscriptions/ECG385.html"
+      },
+      {
+        "id": "ECG386",
+        "title": "ვანის ქვაბების პოეტური წარწერა II",
+        "url": "inscriptions/ECG386.html"
+      }
+    ]
+  },
+  {
+    "place": "გელათის ღვთისმშობლის ტაძარის საკურთხევლის კონქი",
+    "lat": 42.2917,
+    "lon": 42.7567,
+    "count": 1,
+    "inscriptions": [
+      {
+        "id": "ECG422",
+        "title": "გელათის საკურთხევლის წარწერა",
+        "url": "inscriptions/ECG422.html"
+      }
+    ]
+  },
+  {
+    "place": "გელათის ღვთისმშობლის ეკლესია",
+    "lat": 42.2917,
+    "lon": 42.7567,
+    "count": 1,
+    "inscriptions": [
+      {
+        "id": "ECG434",
+        "title": "გელათის მაცხოვრის ხატი",
+        "url": "inscriptions/ECG434.html"
+      }
+    ]
+  }
+]

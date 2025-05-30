@@ -1,0 +1,31 @@
+{
+  "_comment": "ECG Processor Configuration File",
+  "_description": "Customize paths and settings for your installation",
+
+  "xml_dir": "../../webapps/ROOT/content/xml/epidoc",
+  "output_dir": "../output",
+  "bibliography_path": "../../webapps/ROOT/content/xml/authority/bibliography.xml",
+  "images_dir": "../../webapps/ROOT/content/images",
+
+  "fonts": {
+    "primary_georgian": "'BPG Nino', 'Sylfaen', 'DejaVu Sans', 'Arial Unicode MS', sans-serif",
+    "mtavruli": "'BPG Nino Mtavruli', 'BPG Banner', 'Sylfaen', 'DejaVu Sans', serif",
+    "inscription": "'BPG Classic Medium', 'BPG Banner', 'Sylfaen', 'Times New Roman', serif",
+    "metadata": "'BPG Arial', 'BPG DejaVu Sans', 'Sylfaen', 'Arial', sans-serif",
+    "mixed_script": "'BPG Nino', 'Sylfaen', -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', system-ui, sans-serif"
+  },
+
+  "website": {
+    "title": "Epigraphic Corpus of Georgia",
+    "description": "Digital edition of ancient and medieval inscriptions from Georgia and the Caucasus",
+    "author": "ECG Research Team",
+    "keywords": ["Georgian inscriptions", "epigraphy", "digital humanities", "medieval Georgia"]
+  },
+
+  "processing": {
+    "max_inscriptions": null,
+    "skip_images": false,
+    "skip_bibliography": false,
+    "verbose_logging": true
+  }
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tab Test - ECG</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="../index.html" class="brand">ECG - Tab Test</a>
+        </div>
+    </nav>
+
+    <main class="container" x-data="{ activeTab: 'tab1' }">
+        <h1>Tab Functionality Test</h1>
+
+        <div class="tabs">
+            <button @click="activeTab = 'tab1'" :class="{ active: activeTab === 'tab1' }">Tab 1</button>
+            <button @click="activeTab = 'tab2'" :class="{ active: activeTab === 'tab2' }">Tab 2</button>
+            <button @click="activeTab = 'tab3'" :class="{ active: activeTab === 'tab3' }">Tab 3</button>
+        </div>
+
+        <div x-show="activeTab === 'tab1'" class="tab-content">
+            <h2>Tab 1 Content</h2>
+            <p>This is the content of tab 1. If you can see this, the tabs are working!</p>
+        </div>
+
+        <div x-show="activeTab === 'tab2'" class="tab-content">
+            <h2>Tab 2 Content</h2>
+            <p>This is the content of tab 2. Click between tabs to test the functionality.</p>
+        </div>
+
+        <div x-show="activeTab === 'tab3'" class="tab-content">
+            <h2>Tab 3 Content</h2>
+            <p>This is the content of tab 3. The Alpine.js library should handle the tab switching.</p>
+        </div>
+    </main>
+</body>
+</html>

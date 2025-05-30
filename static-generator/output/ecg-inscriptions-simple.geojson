@@ -1,0 +1,1677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3833,
+          41.5583
+        ]
+      },
+      "properties": {
+        "place": "ნუხა",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ნუხა",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7145,
+          41.8423
+        ]
+      },
+      "properties": {
+        "place": "არმაზისხევი",
+        "count": 5,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "medium",
+        "popup_title": "არმაზისხევი",
+        "popup_subtitle": "5 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0833,
+          42.9167
+        ]
+      },
+      "properties": {
+        "place": "წებელდა",
+        "count": 4,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "medium",
+        "popup_title": "წებელდა",
+        "popup_subtitle": "4 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5,
+          42.0833
+        ]
+      },
+      "properties": {
+        "place": "ვანი",
+        "count": 6,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "large",
+        "popup_title": "ვანი",
+        "popup_subtitle": "6 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5126,
+          41.3889
+        ]
+      },
+      "properties": {
+        "place": "ბოლნისის სიონი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ბოლნისის სიონი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3167,
+          44.8951
+        ]
+      },
+      "properties": {
+        "place": "ანაპა",
+        "count": 3,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "medium",
+        "popup_title": "ანაპა",
+        "popup_subtitle": "3 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7188,
+          41.8451
+        ]
+      },
+      "properties": {
+        "place": "მცხეთა",
+        "count": 25,
+        "primary_language": "mixed",
+        "marker_color": "#9b59b6",
+        "marker_size": "extra-large",
+        "popup_title": "მცხეთა",
+        "popup_subtitle": "25 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8333,
+          41.9167
+        ]
+      },
+      "properties": {
+        "place": "უკანგორი",
+        "count": 2,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "medium",
+        "popup_title": "უკანგორი",
+        "popup_subtitle": "2 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5833,
+          42.1667
+        ]
+      },
+      "properties": {
+        "place": "ვალეს ღვთისმშობლის ეკლესია",
+        "count": 5,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "medium",
+        "popup_title": "ვალეს ღვთისმშობლის ეკლესია",
+        "popup_subtitle": "5 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8333,
+          41.8333
+        ]
+      },
+      "properties": {
+        "place": "ქარზამეთის ეკლესია",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ქარზამეთის ეკლესია",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8333,
+          41.6667
+        ]
+      },
+      "properties": {
+        "place": "სათხის",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "სათხის",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8333,
+          41.75
+        ]
+      },
+      "properties": {
+        "place": "აბასთუმნის ძველი ეკლესია",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "აბასთუმნის ძველი ეკლესია",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65,
+          41.55
+        ]
+      },
+      "properties": {
+        "place": "ზარზმის მონასტერი",
+        "count": 5,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "medium",
+        "popup_title": "ზარზმის მონასტერი",
+        "popup_subtitle": "5 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.25,
+          41.5167
+        ]
+      },
+      "properties": {
+        "place": "ხვილიშას ტაძარი, ასპინძის მუნიციპალიტეტი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ხვილიშას ტაძარი, ასპინძის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0959,
+          41.9039
+        ]
+      },
+      "properties": {
+        "place": "ატენის სიონი",
+        "count": 8,
+        "primary_language": "hy",
+        "marker_color": "#e67e22",
+        "marker_size": "large",
+        "popup_title": "ატენის სიონი",
+        "popup_subtitle": "8 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75,
+          41.85
+        ]
+      },
+      "properties": {
+        "place": "ხცისი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ხცისი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7,
+          41.8333
+        ]
+      },
+      "properties": {
+        "place": "არმაზი",
+        "count": 3,
+        "primary_language": "mixed",
+        "marker_color": "#9b59b6",
+        "marker_size": "medium",
+        "popup_title": "არმაზი",
+        "popup_subtitle": "3 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6833,
+          41.7667
+        ]
+      },
+      "properties": {
+        "place": "სოფელ ხეოთის ნამონასტრალი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "სოფელ ხეოთის ნამონასტრალი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1667,
+          42.7167
+        ]
+      },
+      "properties": {
+        "place": "ზღუდერი",
+        "count": 4,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "medium",
+        "popup_title": "ზღუდერი",
+        "popup_subtitle": "4 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65,
+          41.55
+        ]
+      },
+      "properties": {
+        "place": "საფარის მონასტრის მიძინების ტაძარი",
+        "count": 4,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "medium",
+        "popup_title": "საფარის მონასტრის მიძინების ტაძარი",
+        "popup_subtitle": "4 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5,
+          42.0833
+        ]
+      },
+      "properties": {
+        "place": "ბორი",
+        "count": 1,
+        "primary_language": "arc",
+        "marker_color": "#f39c12",
+        "marker_size": "small",
+        "popup_title": "ბორი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7167,
+          41.6833
+        ]
+      },
+      "properties": {
+        "place": "უდე, ადიგენის მუნიციპალიტეტი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "უდე, ადიგენის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7,
+          41.6
+        ]
+      },
+      "properties": {
+        "place": "ბოდოკლდის ეკლესია",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ბოდოკლდის ეკლესია",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9167,
+          41.6333
+        ]
+      },
+      "properties": {
+        "place": "ბოგა, ახალციხის მუნიციპალიტეტი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ბოგა, ახალციხის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7333,
+          41.65
+        ]
+      },
+      "properties": {
+        "place": "ციხისუბანი, ადიგენის მუნიციპალიტეტი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ციხისუბანი, ადიგენის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.75,
+          41.6667
+        ]
+      },
+      "properties": {
+        "place": "ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ამხეს ნასოფლარი, ადიგენის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2545,
+          41.3718
+        ]
+      },
+      "properties": {
+        "place": "ვარძიის ღვთისმშობლის მიძინების ტაძარი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ვარძიის ღვთისმშობლის მიძინების ტაძარი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65,
+          41.55
+        ]
+      },
+      "properties": {
+        "place": "საფარის მონასტრის წმ. საბას ტაძარი",
+        "count": 7,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "large",
+        "popup_title": "საფარის მონასტრის წმ. საბას ტაძარი",
+        "popup_subtitle": "7 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65,
+          41.55
+        ]
+      },
+      "properties": {
+        "place": "საფარის მონასტერი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "საფარის მონასტერი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9333,
+          41.6167
+        ]
+      },
+      "properties": {
+        "place": "ბიეთის ეკლესია, ახალციხის მუნიციპალიტეტი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ბიეთის ეკლესია, ახალციხის მუნიციპალიტეტი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4167,
+          41.2833
+        ]
+      },
+      "properties": {
+        "place": "კუმურდო,კუმურდოს მონასტერი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "კუმურდო,კუმურდოს მონასტერი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7333,
+          41.8383
+        ]
+      },
+      "properties": {
+        "place": "მცხეთის ჯვარი",
+        "count": 1,
+        "primary_language": "hy",
+        "marker_color": "#e67e22",
+        "marker_size": "small",
+        "popup_title": "მცხეთის ჯვარი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.714,
+          41.0955
+        ]
+      },
+      "properties": {
+        "place": "ჰაღბატი",
+        "count": 1,
+        "primary_language": "hy",
+        "marker_color": "#e67e22",
+        "marker_size": "small",
+        "popup_title": "ჰაღბატი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7188,
+          41.8451
+        ]
+      },
+      "properties": {
+        "place": "სამთავრო",
+        "count": 7,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "large",
+        "popup_title": "სამთავრო",
+        "popup_subtitle": "7 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7797,
+          42.0717
+        ]
+      },
+      "properties": {
+        "place": "ჟინვალი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ჟინვალი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5,
+          42.3333
+        ]
+      },
+      "properties": {
+        "place": "ფაშიანთა",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ფაშიანთა",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.05,
+          43.2833
+        ]
+      },
+      "properties": {
+        "place": "წანდრიფში",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "წანდრიფში",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3456,
+          43.1611
+        ]
+      },
+      "properties": {
+        "place": "ბიჭვინტა",
+        "count": 3,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "medium",
+        "popup_title": "ბიჭვინტა",
+        "popup_subtitle": "3 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3456,
+          43.1611
+        ]
+      },
+      "properties": {
+        "place": "ბიჭვინთა",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ბიჭვინთა",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0908,
+          43.0869
+        ]
+      },
+      "properties": {
+        "place": "ახალი ათონი",
+        "count": 2,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "medium",
+        "popup_title": "ახალი ათონი",
+        "popup_subtitle": "2 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.0236,
+          42.865
+        ]
+      },
+      "properties": {
+        "place": "სოხუმი",
+        "count": 5,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "medium",
+        "popup_title": "სოხუმი",
+        "popup_subtitle": "5 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.7333,
+          41.6833
+        ]
+      },
+      "properties": {
+        "place": "ფიჭვნარი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ფიჭვნარი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0959,
+          41.9039
+        ]
+      },
+      "properties": {
+        "place": "ატენი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ატენი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.75,
+          42.0167
+        ]
+      },
+      "properties": {
+        "place": "ითხვისი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ითხვისი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6167,
+          42.1833
+        ]
+      },
+      "properties": {
+        "place": "საირხე",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "საირხე",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1833,
+          42.3167
+        ]
+      },
+      "properties": {
+        "place": "ნოქალაქევი",
+        "count": 5,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "medium",
+        "popup_title": "ნოქალაქევი",
+        "popup_subtitle": "5 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8167,
+          41.8667
+        ]
+      },
+      "properties": {
+        "place": "ძალისა",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ძალისა",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5,
+          42.0
+        ]
+      },
+      "properties": {
+        "place": "ნაკიფარი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ნაკიფარი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6833,
+          41.9333
+        ]
+      },
+      "properties": {
+        "place": "წილკანი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "წილკანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8333,
+          40.9167
+        ]
+      },
+      "properties": {
+        "place": "ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი",
+        "count": 2,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "medium",
+        "popup_title": "ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი",
+        "popup_subtitle": "2 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75,
+          40.85
+        ]
+      },
+      "properties": {
+        "place": "ჯუჯაქენდის ეკლესია, სომხეთი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ჯუჯაქენდის ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6333,
+          41.0167
+        ]
+      },
+      "properties": {
+        "place": "ქობაირის მონასტერი, სომხეთი",
+        "count": 13,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "extra-large",
+        "popup_title": "ქობაირის მონასტერი, სომხეთი",
+        "popup_subtitle": "13 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7,
+          40.95
+        ]
+      },
+      "properties": {
+        "place": "სოფ. კოშის ეკლესია, სომხეთი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "სოფ. კოშის ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7167,
+          40.9833
+        ]
+      },
+      "properties": {
+        "place": "კურთანის ეკლესია, სომხეთი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "კურთანის ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7333,
+          40.9667
+        ]
+      },
+      "properties": {
+        "place": "თეჟარუიქის ეკლესია, სომხეთი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "თეჟარუიქის ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6833,
+          40.9
+        ]
+      },
+      "properties": {
+        "place": "შაჰნაზარის ქვემო ეკლესია, სომხეთი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "შაჰნაზარის ქვემო ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.69,
+          40.91
+        ]
+      },
+      "properties": {
+        "place": "შაჰნაზარის ზემო ეკლესია, სომხეთი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "შაჰნაზარის ზემო ეკლესია, სომხეთი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.75,
+          42.55
+        ]
+      },
+      "properties": {
+        "place": "ხუნზახი, დაღესტანი",
+        "count": 14,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "extra-large",
+        "popup_title": "ხუნზახი, დაღესტანი",
+        "popup_subtitle": "14 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6167,
+          42.4833
+        ]
+      },
+      "properties": {
+        "place": "სოფ. ურადა, შამილის რაონი, დაღესტანი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "სოფ. ურადა, შამილის რაონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9333,
+          42.4167
+        ]
+      },
+      "properties": {
+        "place": "სოფ. რუღჟაბი, ღუნიბის რაიონი, დაღესტანი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "სოფ. რუღჟაბი, ღუნიბის რაიონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8167,
+          42.3833
+        ]
+      },
+      "properties": {
+        "place": "გინიჩუტლი, დაღესტანი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "გინიჩუტლი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6333,
+          42.4667
+        ]
+      },
+      "properties": {
+        "place": "სოფ. მითლიჰურიბი, შამილის რაონი, დაღესტანი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "სოფ. მითლიჰურიბი, შამილის რაონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7333,
+          42.5333
+        ]
+      },
+      "properties": {
+        "place": "სოფ. ჰოწატლი, ხუნზახის რაიონი, დაღესტანი",
+        "count": 2,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "medium",
+        "popup_title": "სოფ. ჰოწატლი, ხუნზახის რაიონი, დაღესტანი",
+        "popup_subtitle": "2 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9167,
+          42.1833
+        ]
+      },
+      "properties": {
+        "place": "სოფ. მურუხი, ჭაროდის რაიონი, დაღესტანი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "სოფ. მურუხი, ჭაროდის რაიონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.0939,
+          40.6017
+        ]
+      },
+      "properties": {
+        "place": "ყარსის ციხე, თურქეთი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ყარსის ციხე, თურქეთი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8097,
+          41.6919
+        ]
+      },
+      "properties": {
+        "place": "ანჩისხატის ტაძარი, თბილისი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ანჩისხატის ტაძარი, თბილისი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2545,
+          41.3718
+        ]
+      },
+      "properties": {
+        "place": "ვარძიის ღვთისმშობლის სახელობის ეკლესია",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ვარძიის ღვთისმშობლის სახელობის ეკლესია",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2833,
+          41.3667
+        ]
+      },
+      "properties": {
+        "place": "ვანის ქვაბები, ასპინძის მუნიციპალიტეტი",
+        "count": 2,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "medium",
+        "popup_title": "ვანის ქვაბები, ასპინძის მუნიციპალიტეტი",
+        "popup_subtitle": "2 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8833,
+          42.3167
+        ]
+      },
+      "properties": {
+        "place": "ჰალას ნაქალაქარი, დაღესტანი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ჰალას ნაქალაქარი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8,
+          42.45
+        ]
+      },
+      "properties": {
+        "place": "ხუნძი, დაღესტანი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ხუნძი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7667,
+          42.5167
+        ]
+      },
+      "properties": {
+        "place": "სოფ. თანუსი, ხუნზახის რაიონი, დაღესტანი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "სოფ. თანუსი, ხუნზახის რაიონი, დაღესტანი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9,
+          42.4
+        ]
+      },
+      "properties": {
+        "place": "აქაროს მთა, დაღესტანი",
+        "count": 14,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "extra-large",
+        "popup_title": "აქაროს მთა, დაღესტანი",
+        "popup_subtitle": "14 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2167,
+          42.75
+        ]
+      },
+      "properties": {
+        "place": "მაცხვარიში",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "მაცხვარიში",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7833,
+          43.0
+        ]
+      },
+      "properties": {
+        "place": "ლატალი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ლატალი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6333,
+          42.95
+        ]
+      },
+      "properties": {
+        "place": "ფარი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ფარი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7567,
+          42.2917
+        ]
+      },
+      "properties": {
+        "place": "გელათის ღვთისმშობლის ტაძარის საკურთხევლის კონქი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "გელათის ღვთისმშობლის ტაძარის საკურთხევლის კონქი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4833,
+          42.25
+        ]
+      },
+      "properties": {
+        "place": "ლიპის ეკლესია",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ლიპის ეკლესია",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0333,
+          42.6167
+        ]
+      },
+      "properties": {
+        "place": "წალენჯიხა",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "წალენჯიხა",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3833,
+          42.4167
+        ]
+      },
+      "properties": {
+        "place": "მარტვილი",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "მარტვილი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9,
+          42.3167
+        ]
+      },
+      "properties": {
+        "place": "ხობის ღვთისმშობლის ეკლესია",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "ხობის ღვთისმშობლის ეკლესია",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7567,
+          42.2917
+        ]
+      },
+      "properties": {
+        "place": "გელათის ღვთისმშობლის ეკლესია",
+        "count": 1,
+        "primary_language": "grc",
+        "marker_color": "#3498db",
+        "marker_size": "small",
+        "popup_title": "გელათის ღვთისმშობლის ეკლესია",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1667,
+          42.5833
+        ]
+      },
+      "properties": {
+        "place": "მსიგხუას ეკლესია",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "მსიგხუას ეკლესია",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.25,
+          42.65
+        ]
+      },
+      "properties": {
+        "place": "ღუმურიში",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ღუმურიში",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1833,
+          43.0167
+        ]
+      },
+      "properties": {
+        "place": "ანუხვა",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ანუხვა",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.25,
+          42.9167
+        ]
+      },
+      "properties": {
+        "place": "ლიხნის ღვთისმშობლის მიძინების ტაძარი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "ლიხნის ღვთისმშობლის მიძინების ტაძარი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7167,
+          42.8833
+        ]
+      },
+      "properties": {
+        "place": "გუდავა",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "გუდავა",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5833,
+          41.75
+        ]
+      },
+      "properties": {
+        "place": "მოხისი",
+        "count": 1,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "small",
+        "popup_title": "მოხისი",
+        "popup_subtitle": "1 inscriptions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1167,
+          42.2833
+        ]
+      },
+      "properties": {
+        "place": "ჭყონდიდი",
+        "count": 6,
+        "primary_language": "ka",
+        "marker_color": "#27ae60",
+        "marker_size": "large",
+        "popup_title": "ჭყონდიდი",
+        "popup_subtitle": "6 inscriptions"
+      }
+    }
+  ]
+}
